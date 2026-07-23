@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Location Selector — demo</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <p class="eyebrow">
+          <a href="https://www.npmjs.com/package/@softalxhq/location-selector"
+            >@softalxhq/location-selector</a
+          >
+        </p>
+        <h1>Location picker demo</h1>
+        <p class="lede">
+          Cascading selects against the published
+          <a href="https://www.npmjs.com/package/@softalxhq/location-selector"
+            >npm package</a
+          >.
+        </p>
+      </header>
+
+      <form id="location-form" autocomplete="off">
+        <label>
+          <span id="label-country">Country</span>
+          <select id="country" required></select>
+        </label>
+
+        <label>
+          <span id="label-state">State / Region</span>
+          <select id="state" required disabled></select>
+        </label>
+
+        <label>
+          <span id="label-lga">LGA / District</span>
+          <select id="lga" required disabled></select>
+        </label>
+
+        <label>
+          <span id="label-town">Town</span>
+          <select id="town" required disabled></select>
+        </label>
+      </form>
+
+      <section class="result" aria-live="polite">
+        <h2>Selection</h2>
+        <pre id="output">Choose a country to begin.</pre>
+      </section>
+    </main>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
