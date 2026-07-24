@@ -1,6 +1,6 @@
 # Location Selector demo
 
-Vite demo for [`@softalxhq/location-selector`](https://www.npmjs.com/package/@softalxhq/location-selector) — cascading country → state/region → LGA/district → town selects for Nigeria and Ghana.
+Vite demo for [`@softalxhq/location-selector`](https://www.npmjs.com/package/@softalxhq/location-selector) — cascading country → state/region → LGA/district → town selects.
 
 ## Setup
 
@@ -13,11 +13,11 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 
 ## Scripts
 
-| Command | Description |
-| --- | --- |
-| `pnpm dev` | Start the Vite dev server |
-| `pnpm build` | Production build into `dist/` |
-| `pnpm preview` | Preview the production build |
+| Command        | Description                   |
+| -------------- | ----------------------------- |
+| `pnpm dev`     | Start the Vite dev server     |
+| `pnpm build`   | Production build into `dist/` |
+| `pnpm preview` | Preview the production build  |
 
 ## Deploy (Vercel)
 
