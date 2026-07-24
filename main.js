@@ -16,6 +16,17 @@ const labelLga = document.querySelector("#label-lga");
 const LABELS = {
   NG: { state: "State", lga: "LGA" },
   GH: { state: "Region", lga: "District" },
+  US: { state: "State", lga: "County" },
+  GB: { state: "Country", lga: "County / District" },
+  KE: { state: "County", lga: "Sub-county" },
+  ZA: { state: "Province", lga: "Municipality" },
+  EG: { state: "Governorate", lga: "Markaz" },
+  ET: { state: "Region", lga: "Zone" },
+  TZ: { state: "Region", lga: "District" },
+  UG: { state: "Region", lga: "District" },
+  RW: { state: "Province", lga: "District" },
+  SN: { state: "Region", lga: "Department" },
+  MA: { state: "Region", lga: "Province" },
 };
 
 function fillSelect(select, values, placeholder) {

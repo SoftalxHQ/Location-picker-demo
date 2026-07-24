@@ -1,0 +1,2217 @@
+[
+  {
+    "name": "Central",
+    "lgas": [
+      {
+        "name": "Buikwe",
+        "towns": [
+          "Buikwe",
+          "Buikwe Town Council",
+          "Najja",
+          "Ngogwe",
+          "Nkokonjeru Town Council",
+          "Ssi-Bukunja",
+          "Central Division",
+          "Kawolo Division",
+          "Najjembe Division",
+          "Njeru Division",
+          "Nyenga Division",
+          "Wakisi Division"
+        ]
+      },
+      {
+        "name": "Bukomansimbi",
+        "towns": [
+          "Bigasa",
+          "Bukomansimbi Town Council",
+          "Butenga",
+          "Kibinge",
+          "Kitanda"
+        ]
+      },
+      {
+        "name": "Butambala",
+        "towns": [
+          "Budde",
+          "Bulo",
+          "Gombe Town Council",
+          "Kalamba",
+          "Kibibi",
+          "Ngando"
+        ]
+      },
+      {
+        "name": "Buvuma",
+        "towns": [
+          "Bugaya",
+          "Busamuzi",
+          "Buvuma Town Council",
+          "Buwooya",
+          "Bweema",
+          "Lubya",
+          "Lwajje",
+          "Lyabaana",
+          "Nairambi"
+        ]
+      },
+      {
+        "name": "Gomba",
+        "towns": [
+          "Kabulasoke",
+          "Kanoni Town Council",
+          "Kyegonza",
+          "Maddu",
+          "Mpenja"
+        ]
+      },
+      {
+        "name": "Kalangala",
+        "towns": [
+          "Bujumba",
+          "Kalangala Town Council",
+          "Mugoye",
+          "Bubeke",
+          "Bufumira",
+          "Kyamuswa",
+          "Mazinga"
+        ]
+      },
+      {
+        "name": "Kalungu",
+        "towns": [
+          "Bukulula",
+          "Kalungu",
+          "Kalungu Town Council",
+          "Kyamulibwa",
+          "Kyamulibwa Town Council",
+          "Lukaya Town Council",
+          "Lwabenge"
+        ]
+      },
+      {
+        "name": "Kampala",
+        "towns": [
+          "Central Division",
+          "Kawempe Division",
+          "Makindye Division",
+          "Nakawa Division",
+          "Rubaga Division"
+        ]
+      },
+      {
+        "name": "Kassanda",
+        "towns": [
+          "Bukuya",
+          "Kalwana",
+          "Kassanda",
+          "Kassanda Town Council",
+          "Kiganda",
+          "Kitumbi",
+          "Makokoto",
+          "Manyogaseka",
+          "Myanzi",
+          "Nalutuntu"
+        ]
+      },
+      {
+        "name": "Kayunga",
+        "towns": [
+          "Bbaale",
+          "Galiraya",
+          "Kayonza",
+          "Kitimbwa",
+          "Busaana",
+          "Kangulumira",
+          "Kayunga",
+          "Kayunga Town Council",
+          "Nazigo"
+        ]
+      },
+      {
+        "name": "Kiboga",
+        "towns": [
+          "Bukomero",
+          "Bukomero Town Council",
+          "Ddwaniro",
+          "Kapeke",
+          "Kibiga",
+          "Kiboga Town Council",
+          "Lwamata",
+          "Lwamata Town Council",
+          "Muwanga"
+        ]
+      },
+      {
+        "name": "Kyankwanzi",
+        "towns": [
+          "Bananywa",
+          "Banda",
+          "Butemba",
+          "Butemba Town Council",
+          "Byerima",
+          "Gayaza",
+          "Kyankwanzi",
+          "Kyankwanzi Town Council",
+          "Mulagi",
+          "Nkandwa",
+          "Nsambya",
+          "Ntwetwe",
+          "Ntwetwe Town Council",
+          "Wattuba"
+        ]
+      },
+      {
+        "name": "Kyotera",
+        "towns": [
+          "Kabira",
+          "Kakuuto",
+          "Kalisizo",
+          "Kalisizo Town Council",
+          "Kasaali Town Council",
+          "Kasasa",
+          "Kirumba",
+          "Kyebe",
+          "Kyotera Town Council",
+          "Lwankoni",
+          "Nabigasa",
+          "Nangoma"
+        ]
+      },
+      {
+        "name": "Luwero",
+        "towns": [
+          "Bamunanika",
+          "Kalagala",
+          "Kamira",
+          "Kikyusa",
+          "Zirobwe",
+          "Bombo Town Council",
+          "Butuntumula",
+          "Katikamu",
+          "Luwero",
+          "Luwero Town Council",
+          "Makulubita",
+          "Nyimbwa",
+          "Wobulenzi Town Council"
+        ]
+      },
+      {
+        "name": "Lwengo",
+        "towns": [
+          "Kisekka",
+          "Kkingo",
+          "Kyazanga",
+          "Kyazanga Town Council",
+          "Lwengo",
+          "Lwengo Town Council",
+          "Malongo",
+          "Ndagwe"
+        ]
+      },
+      {
+        "name": "Lyantonde",
+        "towns": [
+          "Kaliiro",
+          "Kasagama",
+          "Kinuuka",
+          "Lyakajura",
+          "Lyantonde",
+          "Lyantonde Town Council",
+          "Mpumudde"
+        ]
+      },
+      {
+        "name": "Masaka",
+        "towns": [
+          "Bukakata",
+          "Buwunga",
+          "Kabonera",
+          "Kyanamukaaka",
+          "Kyesiiga",
+          "Mukungwe",
+          "Katwe-Butego Division",
+          "Kimaanya-Kyabakuza Division",
+          "Nyendo-Ssenyange Division"
+        ]
+      },
+      {
+        "name": "Mityana",
+        "towns": [
+          "Bbanda",
+          "Butayunja",
+          "Kakindu",
+          "Maanyi",
+          "Malangala",
+          "Central Division",
+          "Bulera",
+          "Busunju Town Council",
+          "Kalangaalo",
+          "Kikandwa",
+          "Namungo",
+          "Ssekanyonyi",
+          "Busimbi Division",
+          "Ttamu Division"
+        ]
+      },
+      {
+        "name": "Mpigi",
+        "towns": [
+          "Buwama",
+          "Kammengo",
+          "Kiringente",
+          "Kituntu",
+          "Mpigi Town Council",
+          "Muduuma",
+          "Nkozi"
+        ]
+      },
+      {
+        "name": "Mubende",
+        "towns": [
+          "Butoloogo",
+          "Kitenga",
+          "Kiyuni",
+          "Madudu",
+          "Bagezza",
+          "Kasambya",
+          "Kasambya Town Council",
+          "Kibalinga",
+          "Kigando",
+          "Nabingoola",
+          "Eastern Division",
+          "Southern Division",
+          "Western Division"
+        ]
+      },
+      {
+        "name": "Mukono",
+        "towns": [
+          "Central Division",
+          "Koome Island",
+          "Kyampisi",
+          "Mpatta",
+          "Mpunge",
+          "Nakisunga",
+          "Nama",
+          "Ntenjeru",
+          "Goma Division",
+          "Kasawo",
+          "Kimenyedde",
+          "Nabbaale",
+          "Nagojje",
+          "Ntunda",
+          "Seeta Namuganga"
+        ]
+      },
+      {
+        "name": "Nakaseke",
+        "towns": [
+          "Butalangu Town Council",
+          "Kapeeka",
+          "Kasangombe",
+          "Kikamulo",
+          "Kinoni",
+          "Kinyogoga",
+          "Kito",
+          "Kiwoko Town Council",
+          "Nakaseke",
+          "Nakaseke Town Council",
+          "Ngoma",
+          "Ngoma Town Council",
+          "Semuto",
+          "Semuto Town Council",
+          "Wakyato"
+        ]
+      },
+      {
+        "name": "Nakasongola",
+        "towns": [
+          "Kakooge",
+          "Kakooge Town Council",
+          "Kalongo",
+          "Kalungi",
+          "Lwabiyata",
+          "Lwampanga",
+          "Migeera Town Council",
+          "Nabisweera",
+          "Nakasongola Town Council",
+          "Nakitoma",
+          "Wabinyonyi"
+        ]
+      },
+      {
+        "name": "Rakai",
+        "towns": [
+          "Byakabanda",
+          "Ddwaniro",
+          "Kacheera",
+          "Kagamba",
+          "Kibanda",
+          "Kifamba",
+          "Kiziba",
+          "Kyalulangira",
+          "Lwamaggwa",
+          "Lwanda",
+          "Rakai Town Council"
+        ]
+      },
+      {
+        "name": "Ssembabule",
+        "towns": [
+          "Lwemiyaga",
+          "Ntuusi",
+          "Lugusulu",
+          "Lwebitakuli",
+          "Mateete",
+          "Mateete Town Council",
+          "Mijwala",
+          "Sembabule Town Council"
+        ]
+      },
+      {
+        "name": "Wakiso",
+        "towns": [
+          "Bussi",
+          "Kajjansi Town Council",
+          "Kakiri",
+          "Kakiri Town Council",
+          "Kasanje",
+          "Katabi Town Council",
+          "Kyengera Town Council",
+          "Masuliita",
+          "Masulita Town Council",
+          "Mende",
+          "Namayumba",
+          "Namayumba Town Council",
+          "Wakiso",
+          "Wakiso Town Council",
+          "Division A",
+          "Division B",
+          "Bweyogerere Division",
+          "Kira Division",
+          "Namugongo Division",
+          "Kasangati Town Council",
+          "Bunamwaya Division",
+          "Masajja Division",
+          "Ndejje Division",
+          "Busukuma Division",
+          "Gombe Division",
+          "Nabweru Division",
+          "Nansana Division"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eastern",
+    "lgas": [
+      {
+        "name": "Amuria",
+        "towns": [
+          "Abarilela",
+          "Akeriau",
+          "Amuria Town Council",
+          "Apeduru",
+          "Asamuk",
+          "Kuju",
+          "Morungatuny",
+          "Ogolai",
+          "Orungo",
+          "Wera",
+          "Willa"
+        ]
+      },
+      {
+        "name": "Budaka",
+        "towns": [
+          "Budaka",
+          "Budaka Town Council",
+          "Kaderuna",
+          "Kakule",
+          "Lyama",
+          "Naboa",
+          "Nansanga",
+          "Iki-Iki",
+          "Kachomo",
+          "Kameruka",
+          "Kamonkoli",
+          "Katiira",
+          "Mugiti"
+        ]
+      },
+      {
+        "name": "Bududa",
+        "towns": [
+          "Bubiita",
+          "Bududa",
+          "Bududa Town Council",
+          "Bukalasi",
+          "Bukibokolo",
+          "Bukigai",
+          "Bulucheke",
+          "Bumasheti",
+          "Bumayoka",
+          "Bushika",
+          "Bushiribo",
+          "Bushiyi",
+          "Buwali",
+          "Nabweya",
+          "Nakatsi",
+          "Nalwanza",
+          "Nangako Town Council"
+        ]
+      },
+      {
+        "name": "Bugiri",
+        "towns": [
+          "Eastern Division",
+          "Western Division",
+          "Budhaya",
+          "Bulesa",
+          "Bulidha",
+          "Buluguyi",
+          "Buwunga",
+          "Iwemba",
+          "Kapyanga",
+          "Muterere",
+          "Nabukalu",
+          "Nankoma"
+        ]
+      },
+      {
+        "name": "Bugweri",
+        "towns": [
+          "Bugweri Town Council",
+          "Busembatia Town Council",
+          "Buyanga",
+          "Ibulanku",
+          "Igombe",
+          "Makuutu",
+          "Namalemba"
+        ]
+      },
+      {
+        "name": "Bukedea",
+        "towns": [
+          "Bukedea",
+          "Bukedea Town Council",
+          "Kachumbala",
+          "Kidongole",
+          "Kolir",
+          "Malera"
+        ]
+      },
+      {
+        "name": "Bukwo",
+        "towns": [
+          "Bukwo",
+          "Bukwo Town Council",
+          "Chepkwasta",
+          "Chesower",
+          "Kabei",
+          "Kamet",
+          "Kaptererwo",
+          "Kortek",
+          "Riwo",
+          "Senendet",
+          "Suam",
+          "Tulel"
+        ]
+      },
+      {
+        "name": "Bulambuli",
+        "towns": [
+          "Buginyanya",
+          "Bukhalu",
+          "Bulaago",
+          "Bulambuli Town Council",
+          "Bulegeni",
+          "Bulegeni Town Council",
+          "Buluganya",
+          "Bumasobo",
+          "Bumugibole",
+          "Bunambutye",
+          "Buyaga Town Council",
+          "Bwikhonge",
+          "Kamu",
+          "Lusha",
+          "Masiira",
+          "Muyembe",
+          "Nabbongo",
+          "Namisuni",
+          "Simu",
+          "Sisiyi"
+        ]
+      },
+      {
+        "name": "Busia",
+        "towns": [
+          "Eastern Division",
+          "Western Division",
+          "Buhehe",
+          "Bulumbi",
+          "Busime",
+          "Busitema",
+          "Buteba",
+          "Buyanga",
+          "Dabani",
+          "Lumino",
+          "Lunyo",
+          "Majanji",
+          "Masaba",
+          "Masafu",
+          "Masinya",
+          "Sikuda"
+        ]
+      },
+      {
+        "name": "Butaleja",
+        "towns": [
+          "Budumba",
+          "Busaba",
+          "Busabi",
+          "Busolwe",
+          "Busolwe Town Council",
+          "Butaleja",
+          "Butaleja Town Council",
+          "Himutu",
+          "Kachonga",
+          "Mazimasa",
+          "Nawanjofu",
+          "Naweyo"
+        ]
+      },
+      {
+        "name": "Butebo",
+        "towns": [
+          "Butebo",
+          "Butebo Town Council",
+          "Kabwangasi",
+          "Kakoro",
+          "Kanginima",
+          "Petete"
+        ]
+      },
+      {
+        "name": "Buyende",
+        "towns": [
+          "Bugaya",
+          "Buyende",
+          "Buyende Town Council",
+          "Kagulu",
+          "Kidera",
+          "Nkondo"
+        ]
+      },
+      {
+        "name": "Iganga",
+        "towns": [
+          "Central Division",
+          "Northern Division",
+          "Bulamogi",
+          "Nabitende",
+          "Nakalama",
+          "Nakigo",
+          "Nambale",
+          "Namungalwe",
+          "Nawandala",
+          "Nawanyingi"
+        ]
+      },
+      {
+        "name": "Jinja",
+        "towns": [
+          "Bugembe Town Council",
+          "Busedde",
+          "Kakira Town Council",
+          "Mafubira",
+          "Central Division",
+          "Masese Walukuba",
+          "Mpumudde Division",
+          "Budondo",
+          "Butagaya",
+          "Buwenge",
+          "Buwenge Town Council",
+          "Buyengo"
+        ]
+      },
+      {
+        "name": "Kaberamaido",
+        "towns": [
+          "Alwa",
+          "Aperkira",
+          "Kaberamaido",
+          "Kaberamaido Town Council",
+          "Kobulubulu",
+          "Ochero"
+        ]
+      },
+      {
+        "name": "Kalaki",
+        "towns": [
+          "Anyara",
+          "Apapai",
+          "Bululu",
+          "Kakure",
+          "Kalaki",
+          "Kalaki Town Council",
+          "Otuboi"
+        ]
+      },
+      {
+        "name": "Kaliro",
+        "towns": [
+          "Budomero",
+          "Bukamba",
+          "Bumanya",
+          "Buyinda",
+          "Gadumire",
+          "Kaliro Town Council",
+          "Kasokwe",
+          "Kisinda",
+          "Namugongo",
+          "Namwiwa",
+          "Nansololo",
+          "Nawaikoke"
+        ]
+      },
+      {
+        "name": "Kamuli",
+        "towns": [
+          "Balawoli",
+          "Bulopa",
+          "Butansi",
+          "Kagumba",
+          "Kitayunjwa",
+          "Nabwigulu",
+          "Namasagali",
+          "Namwendwa",
+          "Bugulumbya",
+          "Kisozi",
+          "Magogo",
+          "Mbulamuti",
+          "Nawanyago",
+          "Wankole",
+          "Northern Division",
+          "Southern Division"
+        ]
+      },
+      {
+        "name": "Kapchorwa",
+        "towns": [
+          "Central Division",
+          "Eastern Division",
+          "Western Division",
+          "Amukol",
+          "Chema",
+          "Chepterech",
+          "Gamogo",
+          "Kabeywa",
+          "Kapsinda",
+          "Kaptanya",
+          "Kaserem",
+          "Kawowo",
+          "Munarya",
+          "Sipi"
+        ]
+      },
+      {
+        "name": "Kapelebyong",
+        "towns": [
+          "Acowa",
+          "Akoromit",
+          "Kapelebyong",
+          "Kapelebyong Town Council",
+          "Obalanga",
+          "Okungur"
+        ]
+      },
+      {
+        "name": "Katakwi",
+        "towns": [
+          "Katakwi",
+          "Katakwi Town Council",
+          "Ngariam",
+          "Ongongoja",
+          "Palam",
+          "Usuk",
+          "Kapujan",
+          "Magoro",
+          "Omodoi",
+          "Toroma"
+        ]
+      },
+      {
+        "name": "Kibuku",
+        "towns": [
+          "Bulangira",
+          "Buseta",
+          "Goli Goli",
+          "Kabweri",
+          "Kadama",
+          "Kagumu",
+          "Kakutu",
+          "Kasasira",
+          "Kibuku",
+          "Kibuku Town Council",
+          "Kirika",
+          "Kituti",
+          "Lwamata",
+          "Nabiswa",
+          "Nandere",
+          "Nankondo",
+          "Tirinyi"
+        ]
+      },
+      {
+        "name": "Kumi",
+        "towns": [
+          "Atutur",
+          "Kanyum",
+          "Kumi",
+          "Mukongoro",
+          "Nyero",
+          "Ongino",
+          "Northern Divison",
+          "Southern Division"
+        ]
+      },
+      {
+        "name": "Kween",
+        "towns": [
+          "Benet",
+          "Binyiny",
+          "Binyiny Town Council",
+          "Kaproron",
+          "Kaproron Town Council",
+          "Kaptoyoy",
+          "Kaptum",
+          "Kiriki",
+          "Kitawoi",
+          "Kwanyiy",
+          "Kwosir",
+          "Moyok",
+          "Ngenge"
+        ]
+      },
+      {
+        "name": "Luuka",
+        "towns": [
+          "Bukanga",
+          "Bukooma",
+          "Bulongo",
+          "Ikumbya",
+          "Irongo",
+          "Luuka Town Council",
+          "Nawampiti",
+          "Waibuga"
+        ]
+      },
+      {
+        "name": "Manafwa",
+        "towns": [
+          "Bugobero",
+          "Bukhofu",
+          "Bukusu",
+          "Bunabwana",
+          "Bunyinza Town Council",
+          "Busukuya",
+          "Butiru",
+          "Butta",
+          "Buwagogo",
+          "Buwangani Town Council",
+          "Kaato",
+          "Khabutoola",
+          "Manafwa Town Council",
+          "Nalondo",
+          "Sibanga",
+          "Sisuni",
+          "Weswa"
+        ]
+      },
+      {
+        "name": "Mayuge",
+        "towns": [
+          "Baitambogwe",
+          "Bukabooli",
+          "Bukatube",
+          "Busakira",
+          "Buwaaya",
+          "Imanyiro",
+          "Jaguzi",
+          "Kigandalo",
+          "Kityerera",
+          "Magamaga Town Council",
+          "Malongo",
+          "Mayuge Town Council",
+          "Mpungwe",
+          "Wairasa"
+        ]
+      },
+      {
+        "name": "Mbale",
+        "towns": [
+          "Bubyangu",
+          "Budwale",
+          "Bufumbo",
+          "Bukasakya",
+          "Bukiende",
+          "Bukonde",
+          "Bumasikye",
+          "Bumbobi",
+          "Bungokho",
+          "Bungokho Mutoto",
+          "Busano",
+          "Busiu",
+          "Busiu Town Council",
+          "Busoba",
+          "Lukhonge",
+          "Lwasso",
+          "Nabumali Town Council",
+          "Nakaloke",
+          "Nakaloke Town Council",
+          "Namambasa",
+          "Namanyonyi",
+          "Nawuyo Town Council",
+          "Nyondo",
+          "Wanale",
+          "Industrial Divison",
+          "Northern Division",
+          "Wanale Division"
+        ]
+      },
+      {
+        "name": "Namayingo",
+        "towns": [
+          "Banda",
+          "Buhemba",
+          "Bukana",
+          "Buswale",
+          "Buyinja",
+          "Lolwe",
+          "Mutumba",
+          "Namayingo Town Council",
+          "Sigulu Island"
+        ]
+      },
+      {
+        "name": "Namisindwa",
+        "towns": [
+          "Bubutu",
+          "Bukhabusi",
+          "Bukhaweka",
+          "Bukiabi",
+          "Bukokho",
+          "Bumbo",
+          "Bumwoni",
+          "Bupoto",
+          "Buwabwala",
+          "Lwakhakha Town Council",
+          "Magale",
+          "Magale Town Council",
+          "Mukoto",
+          "Namabya",
+          "Namboko",
+          "Namisindwa Town Council",
+          "Tsekululu"
+        ]
+      },
+      {
+        "name": "Namutumba",
+        "towns": [
+          "Bulange",
+          "Ivukula",
+          "Kibaale",
+          "Magada",
+          "Mazuba",
+          "Nabweyo",
+          "Namutumba",
+          "Namutumba Town Council",
+          "Nangonde",
+          "Nsinze"
+        ]
+      },
+      {
+        "name": "Ngora",
+        "towns": [
+          "Kapir",
+          "Kobwin",
+          "Mukura",
+          "Ngora",
+          "Ngora Town Council"
+        ]
+      },
+      {
+        "name": "Pallisa",
+        "towns": [
+          "Kibale",
+          "Opwateta",
+          "Agule",
+          "Akisim",
+          "Apopong",
+          "Chelekura",
+          "Gogonyo",
+          "Kameke",
+          "Kamuge",
+          "Kasodo",
+          "Olok",
+          "Pallisa",
+          "Pallisa Town Council",
+          "Puti-Puti"
+        ]
+      },
+      {
+        "name": "Serere",
+        "towns": [
+          "Bugondo",
+          "Kadungulu",
+          "Kadungulu Town Council",
+          "Kasilo Town Council",
+          "Kidetok Town Council",
+          "Labori",
+          "Pingire",
+          "Atiira",
+          "Kateta",
+          "Kyere",
+          "Olio",
+          "Serere Town Council"
+        ]
+      },
+      {
+        "name": "Sironko",
+        "towns": [
+          "Budadiri Town Council",
+          "Bugitimwa",
+          "Buhugu",
+          "Bukhulo",
+          "Bukiise",
+          "Bukiyi",
+          "Bukyabo",
+          "Bukyambi",
+          "Bumalimba",
+          "Bumasifwa",
+          "Bunyafa",
+          "Busulani",
+          "Butandiga",
+          "Buteza",
+          "Buwalasi",
+          "Buwasa",
+          "Buyobo",
+          "Masaba",
+          "Nalusala",
+          "Sironko Town Council",
+          "Zesui"
+        ]
+      },
+      {
+        "name": "Soroti",
+        "towns": [
+          "Arapai",
+          "Asuret",
+          "Gweri",
+          "Kamuda",
+          "Katine",
+          "Soroti",
+          "Tubur",
+          "Eastern Division",
+          "Northern Division",
+          "Western Division"
+        ]
+      },
+      {
+        "name": "Tororo",
+        "towns": [
+          "Kwapa",
+          "Malaba Town Council",
+          "Mella",
+          "Merikit",
+          "Molo",
+          "Mukuju",
+          "Osukuru",
+          "Eastern Division",
+          "Western Division",
+          "Iyolwa",
+          "Kirewa",
+          "Kisoko",
+          "Magola",
+          "Mulanda",
+          "Nabuyoga",
+          "Nagongera",
+          "Nagongera Town Council",
+          "Paya",
+          "Petta",
+          "Rubongi",
+          "Sop-Sop"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Northern",
+    "lgas": [
+      {
+        "name": "Abim",
+        "towns": [
+          "Abim",
+          "Abim Town Council",
+          "Alerek",
+          "Awach",
+          "Lotukei",
+          "Magamaga",
+          "Morulem",
+          "Nyakwae"
+        ]
+      },
+      {
+        "name": "Adjumani",
+        "towns": [
+          "Adjumani Town Council",
+          "Adropi",
+          "Arinyapi",
+          "Ciforo",
+          "Dzaipi",
+          "Itirikwa",
+          "Ofua",
+          "Pacara",
+          "Pakele",
+          "Ukusijoni"
+        ]
+      },
+      {
+        "name": "Agago",
+        "towns": [
+          "Adilang",
+          "Agago Town Council",
+          "Arum",
+          "Kalongo Town Council",
+          "Kotomol",
+          "Lamiyo",
+          "Lapono",
+          "Lira Palwo",
+          "Lokole",
+          "Omiya Pacwa",
+          "Omot",
+          "Paimol",
+          "Parabongo",
+          "Patongo",
+          "Patongo Town Council",
+          "Wol"
+        ]
+      },
+      {
+        "name": "Alebtong",
+        "towns": [
+          "Abako",
+          "Abia",
+          "Akura",
+          "Alebtong Town Council",
+          "Aloi",
+          "Amugu",
+          "Apala",
+          "Awei",
+          "Omoro"
+        ]
+      },
+      {
+        "name": "Amolatar",
+        "towns": [
+          "Agikdak",
+          "Agwingiri",
+          "Akwon",
+          "Amolatar Town Council",
+          "Aputi",
+          "Arwotcek",
+          "Awelo",
+          "Etam",
+          "Muntu",
+          "Namasale",
+          "Namasale Town Council"
+        ]
+      },
+      {
+        "name": "Amudat",
+        "towns": [
+          "Amudat",
+          "Amudat Town Council",
+          "Karita",
+          "Loroo"
+        ]
+      },
+      {
+        "name": "Amuru",
+        "towns": [
+          "Amuru",
+          "Amuru Town Council",
+          "Attiak",
+          "Lamogi",
+          "Pabo"
+        ]
+      },
+      {
+        "name": "Apac",
+        "towns": [
+          "Agulu Division",
+          "Akere Division",
+          "Arocha Division",
+          "Atik Division",
+          "Akokoro",
+          "Apac",
+          "Chegere",
+          "Ibuje"
+        ]
+      },
+      {
+        "name": "Arua",
+        "towns": [
+          "Arua Hill Division",
+          "River Oli Division",
+          "Adumi",
+          "Aroi",
+          "Ayivuni",
+          "Dadamu",
+          "Oluko",
+          "Pajulu",
+          "Aii-Vu",
+          "Bileafe",
+          "Katrini",
+          "Manibe",
+          "Odupi",
+          "Omugo",
+          "Uriama",
+          "Ajia",
+          "Arivu",
+          "Logiri",
+          "Vurra"
+        ]
+      },
+      {
+        "name": "Dokolo",
+        "towns": [
+          "Adeknino",
+          "Adok",
+          "Agwata",
+          "Amwoma",
+          "Batta",
+          "Dokolo",
+          "Dokolo Tc",
+          "Kangai",
+          "Kwera",
+          "Okwalongwen",
+          "Okwongodul"
+        ]
+      },
+      {
+        "name": "Gulu",
+        "towns": [
+          "Awach",
+          "Bungatira",
+          "Paicho",
+          "Palaro",
+          "Patiko",
+          "Unyama",
+          "Bar Dege Division",
+          "Laroo Division",
+          "Layibi Division",
+          "Pece Division"
+        ]
+      },
+      {
+        "name": "Kaabong",
+        "towns": [
+          "Kaabong East",
+          "Kaabong Town Council",
+          "Kaabong West",
+          "Kakamar",
+          "Kalapata",
+          "Kamion",
+          "Kathile",
+          "Kathile South",
+          "Lodiko",
+          "Lolelia",
+          "Lotim",
+          "Loyoro",
+          "Sidok"
+        ]
+      },
+      {
+        "name": "Karenga",
+        "towns": [
+          "Kapedo",
+          "Karenga Town Council",
+          "Kawalakol",
+          "Lobalangit",
+          "Lokori",
+          "Napore Karenga",
+          "Sangar"
+        ]
+      },
+      {
+        "name": "Kitgum",
+        "towns": [
+          "Kitgum Matidi",
+          "Labongo Akwang",
+          "Labongo Amida",
+          "Labongo Layamo",
+          "Lagoro",
+          "Mucwini",
+          "Namokora",
+          "Omiya Anyima",
+          "Orom",
+          "Central Division",
+          "Pager Division",
+          "Pandwong Division"
+        ]
+      },
+      {
+        "name": "Koboko",
+        "towns": [
+          "Abuku",
+          "Dranya",
+          "Kuluba",
+          "Lobule",
+          "Ludara",
+          "Midia",
+          "Northern Divison",
+          "Southern Division",
+          "Western Division"
+        ]
+      },
+      {
+        "name": "Kole",
+        "towns": [
+          "Aboke",
+          "Akalo",
+          "Alito",
+          "Ayer",
+          "Bala",
+          "Kole Town Council",
+          "Okwerodot"
+        ]
+      },
+      {
+        "name": "Kotido",
+        "towns": [
+          "Kacheri",
+          "Kotido",
+          "Nakapelimoru",
+          "Panyangara",
+          "Rengen",
+          "Central Division",
+          "North Division",
+          "South Division",
+          "West Division"
+        ]
+      },
+      {
+        "name": "Kwania",
+        "towns": [
+          "Abongomola",
+          "Aduku",
+          "Aduku Town Council",
+          "Chawente",
+          "Inomo",
+          "Nambieso"
+        ]
+      },
+      {
+        "name": "Lamwo",
+        "towns": [
+          "Agoro",
+          "Lamwo Town Council",
+          "Lokung",
+          "Madi Opei",
+          "Padibe East",
+          "Padibe Town Council",
+          "Padibe West",
+          "Palabek Gem",
+          "Palabek Kal",
+          "Palabek Ogili",
+          "Paloga"
+        ]
+      },
+      {
+        "name": "Lira",
+        "towns": [
+          "Adekokwok",
+          "Agali",
+          "Agweng",
+          "Amach",
+          "Aromo",
+          "Barr",
+          "Lira",
+          "Ngetta",
+          "Ogur",
+          "Adyel Division",
+          "Central Division",
+          "Ojwina Division",
+          "Railway Division"
+        ]
+      },
+      {
+        "name": "Madi Okollo",
+        "towns": [
+          "Anyiribu",
+          "Ewanga",
+          "Inde Town Council",
+          "Offaka",
+          "Ogoko",
+          "Okollo",
+          "Pawor",
+          "Rhino Camp",
+          "Rigbo",
+          "Uleppi"
+        ]
+      },
+      {
+        "name": "Maracha",
+        "towns": [
+          "Kijomoro",
+          "Maracha Town Council",
+          "Nyadri",
+          "Oleba",
+          "Oluffe",
+          "Oluvu",
+          "Tara",
+          "Yivu"
+        ]
+      },
+      {
+        "name": "Moroto",
+        "towns": [
+          "Katikekile",
+          "Nadunget",
+          "Rupa",
+          "Tapac",
+          "Northern Division",
+          "Southern Divison"
+        ]
+      },
+      {
+        "name": "Moyo",
+        "towns": [
+          "Difule",
+          "Laropi",
+          "Lefori",
+          "Metu",
+          "Moyo",
+          "Moyo Town Council"
+        ]
+      },
+      {
+        "name": "Nabilatuk",
+        "towns": [
+          "Lolachat",
+          "Lorengedwat",
+          "Nabilatuk",
+          "Nabilatuk Town Council"
+        ]
+      },
+      {
+        "name": "Nakapiripirit",
+        "towns": [
+          "Kakomongole",
+          "Loregae",
+          "Moruita",
+          "Nakapiripirit Town Council",
+          "Namalu"
+        ]
+      },
+      {
+        "name": "Napak",
+        "towns": [
+          "Iriiri",
+          "Lokopo",
+          "Lopeei",
+          "Lorengecora",
+          "Lotome",
+          "Matany",
+          "Napak Town Council",
+          "Ngoleriet"
+        ]
+      },
+      {
+        "name": "Nebbi",
+        "towns": [
+          "Abindu Division",
+          "Central Division",
+          "Thatha Division",
+          "Akworo",
+          "Atego",
+          "Erussi",
+          "Kucwiny",
+          "Ndhew",
+          "Nebbi",
+          "Nyaravur",
+          "Parombo"
+        ]
+      },
+      {
+        "name": "Nwoya",
+        "towns": [
+          "Alero",
+          "Anaka Payira",
+          "Anaka Town Council",
+          "Got Apwoyo",
+          "Koch-Goma",
+          "Lii",
+          "Lungulu",
+          "Purongo"
+        ]
+      },
+      {
+        "name": "Obongi",
+        "towns": [
+          "Aliba",
+          "Gimara",
+          "Itula",
+          "Obongi Town Council"
+        ]
+      },
+      {
+        "name": "Omoro",
+        "towns": [
+          "Bobi",
+          "Koro",
+          "Lakwana",
+          "Lalogi",
+          "Odek",
+          "Omoro Town Council",
+          "Ongako"
+        ]
+      },
+      {
+        "name": "Otuke",
+        "towns": [
+          "Adwari",
+          "Alango",
+          "Ogor",
+          "Ogwette",
+          "Okwang",
+          "Olilim",
+          "Orum",
+          "Otuke Town Council"
+        ]
+      },
+      {
+        "name": "Oyam",
+        "towns": [
+          "Aber",
+          "Abok",
+          "Acaba",
+          "Aleka",
+          "Iceme",
+          "Kamdini",
+          "Loro",
+          "Minakulu",
+          "Myene",
+          "Ngai",
+          "Otwal",
+          "Oyam Town Council"
+        ]
+      },
+      {
+        "name": "Pader",
+        "towns": [
+          "Acholibur",
+          "Angagura",
+          "Atanga",
+          "Awere",
+          "Laguti",
+          "Lapul",
+          "Latanya",
+          "Ogom",
+          "Pader",
+          "Pader Town Council",
+          "Pajule",
+          "Puranga"
+        ]
+      },
+      {
+        "name": "Pakwach",
+        "towns": [
+          "Alwi",
+          "Pakwach",
+          "Pakwach Town Council",
+          "Panyango",
+          "Panyimur",
+          "Wadelai"
+        ]
+      },
+      {
+        "name": "Yumbe",
+        "towns": [
+          "Apo",
+          "Ariwa",
+          "Drajini",
+          "Kei",
+          "Kerwa",
+          "Kochi",
+          "Kululu",
+          "Kuru",
+          "Lodonga",
+          "Midigo",
+          "Odravu",
+          "Romogi",
+          "Yumbe Town Council"
+        ]
+      },
+      {
+        "name": "Zombo",
+        "towns": [
+          "Abanga",
+          "Akaa",
+          "Alangi",
+          "Athuma",
+          "Atyak",
+          "Jangokoro",
+          "Kango",
+          "Nyapea",
+          "Paidha",
+          "Paidha Town Council",
+          "Warr",
+          "Zeu",
+          "Zombo Town Council"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Western",
+    "lgas": [
+      {
+        "name": "Buhweju",
+        "towns": [
+          "Bihanga",
+          "Bitsya",
+          "Burere",
+          "Engaju",
+          "Karungu",
+          "Nsiika Town Council",
+          "Nyakishana",
+          "Rwengwe"
+        ]
+      },
+      {
+        "name": "Buliisa",
+        "towns": [
+          "Biiso",
+          "Buliisa",
+          "Buliisa Town Council",
+          "Butiaba",
+          "Kigwera",
+          "Kihungya",
+          "Ngwedo"
+        ]
+      },
+      {
+        "name": "Bundibugyo",
+        "towns": [
+          "Bukonzo",
+          "Burondo",
+          "Butama-Mitunda Town Council",
+          "Harugale",
+          "Kagugu",
+          "Kasitu",
+          "Mabere",
+          "Nduguto",
+          "Ngamba",
+          "Ntandi Town Council",
+          "Ntotoro",
+          "Sindila",
+          "Bubandi",
+          "Bubukwanga",
+          "Buganikire Town Councili",
+          "Bundibugyo Town Council",
+          "Bundingoma",
+          "Busaru",
+          "Busunga Twon Council",
+          "Kirumya",
+          "Kisubba",
+          "Mirambi",
+          "Nyahuka Town Council",
+          "Tokwe"
+        ]
+      },
+      {
+        "name": "Bunyangabu",
+        "towns": [
+          "Buheesi",
+          "Buheesi Town Council",
+          "Kabonero",
+          "Katebwa",
+          "Kibiito",
+          "Kibiito Town Council",
+          "Kisomoro",
+          "Kiyombya",
+          "Kyamukube Town Council",
+          "Rubona Town Council",
+          "Rwimi",
+          "Rwimi Town Council"
+        ]
+      },
+      {
+        "name": "Bushenyi",
+        "towns": [
+          "Central Divison",
+          "Ishaka Divison",
+          "Nyakabirizi Division",
+          "Bitooma",
+          "Bumbaire",
+          "Ibaare",
+          "Kakanju",
+          "Kyabugimbi",
+          "Kyamuhunga",
+          "Kyamuhunga Town Council",
+          "Kyeizooba",
+          "Nyabubare",
+          "Ruhumuro",
+          "Rwentuha Town Council"
+        ]
+      },
+      {
+        "name": "Hoima",
+        "towns": [
+          "Buhanika",
+          "Buseruka",
+          "Kigorobya",
+          "Kigorobya Town Council",
+          "Kitoba",
+          "Kyabigambire",
+          "Bujumbura Division",
+          "Busiisi Division",
+          "Kahoora Divison",
+          "Mparo Divison"
+        ]
+      },
+      {
+        "name": "Ibanda",
+        "towns": [
+          "Igorora Town Council",
+          "Ishongororo",
+          "Ishongororo Town Council",
+          "Keihangara",
+          "Kicuzi",
+          "Kijongo",
+          "Kikyenkye",
+          "Nyabuhikye",
+          "Nyamarebe",
+          "Rukiri",
+          "Rushango Town Council",
+          "Rwenkoba Town Council",
+          "Bisheshe Division",
+          "Bufunda Division",
+          "Kagango Division"
+        ]
+      },
+      {
+        "name": "Isingiro",
+        "towns": [
+          "Endiinzi",
+          "Endiinzi Town Council",
+          "Kakamba",
+          "Kashumba",
+          "Mbaare",
+          "Ngarama",
+          "Rugaaga",
+          "Rushasha",
+          "Birere",
+          "Isingiro Town Council",
+          "Kaberebere Town Council",
+          "Kabingo",
+          "Kabuyanda",
+          "Kabuyanda Town Council",
+          "Kikagate",
+          "Masha",
+          "Nyakitunda",
+          "Nyamuyanja",
+          "Ruborogota"
+        ]
+      },
+      {
+        "name": "Kabale",
+        "towns": [
+          "Central Division",
+          "Northern Division",
+          "Southern Division",
+          "Buhara",
+          "Butanda",
+          "Kaharo",
+          "Kamuganguzi",
+          "Katuna Town Council",
+          "Kitumba",
+          "Kyanamira",
+          "Maziba",
+          "Rubaya",
+          "Ryakirimira Town Council"
+        ]
+      },
+      {
+        "name": "Kabarole",
+        "towns": [
+          "Bukuuku",
+          "Busoro",
+          "Hakibaale",
+          "Harugogo",
+          "Karago Town Council",
+          "Karambi",
+          "Karangura",
+          "Kasenda",
+          "Kicwamba",
+          "Kijura Town Council",
+          "Kiko Town Council",
+          "Mabende",
+          "Mugusu",
+          "Mugusu Town Council",
+          "Ruteete",
+          "Eastern Division",
+          "Southern Division",
+          "Western Division"
+        ]
+      },
+      {
+        "name": "Kagadi",
+        "towns": [
+          "Burora",
+          "Bwikara",
+          "Kabamba",
+          "Kagadi",
+          "Kagadi Town Council",
+          "Kiryanga",
+          "Kyakabadiima",
+          "Kyanaisoke",
+          "Kyaterekera",
+          "Kyenzige",
+          "Mabaale",
+          "Mabaale Town Council",
+          "Mpeefu",
+          "Muhorro",
+          "Muhorro Town Council",
+          "Ndaiga",
+          "Paacwa",
+          "Rugashari",
+          "Ruteete"
+        ]
+      },
+      {
+        "name": "Kakumiro",
+        "towns": [
+          "Birembo",
+          "Bwanswa",
+          "Kakindo",
+          "Kakumiro Town Council",
+          "Kasambya",
+          "Katikara",
+          "Kijangi",
+          "Kikwaya",
+          "Kisiita",
+          "Kisiita Town Council",
+          "Kitaihuka",
+          "Mpasaana",
+          "Nalweyo",
+          "Nkooko"
+        ]
+      },
+      {
+        "name": "Kamwenge",
+        "towns": [
+          "Biguli",
+          "Bihanga",
+          "Busiriba",
+          "Bwizi",
+          "Kabambiro",
+          "Kahunge",
+          "Kahunge Town Council",
+          "Kamwenge",
+          "Kamwenge Town Council",
+          "Nkoma",
+          "Nkoma Town Council"
+        ]
+      },
+      {
+        "name": "Kanungu",
+        "towns": [
+          "Butogota Town Council",
+          "Kambuga",
+          "Kambuga Town Council",
+          "Kanungu Town Council",
+          "Kanyantorogo",
+          "Katete",
+          "Kayonza",
+          "Kihihi",
+          "Kihiihi Town Council",
+          "Kinaaba",
+          "Kirima",
+          "Mpungu",
+          "Nyakinoni",
+          "Nyamirama",
+          "Nyanga",
+          "Rugyeyo",
+          "Rutenga"
+        ]
+      },
+      {
+        "name": "Kasese",
+        "towns": [
+          "Bwera",
+          "Ihandiro",
+          "Isango",
+          "Karambi",
+          "Kinyamasrke Town Council",
+          "Kisinga",
+          "Kisinga Town Council",
+          "Kitholhu",
+          "Kyarumba",
+          "Kyondo",
+          "Mahango",
+          "Mpondwe-Lhubiriha",
+          "Munkunyu",
+          "Nyakatonzi",
+          "Nyakiyumbu",
+          "Bugoye",
+          "Buhuhira",
+          "Bwesumbu",
+          "Hima Town Council",
+          "Karusandara",
+          "Katwe Kabatoro Town Council",
+          "Kilembe",
+          "Kitswamba",
+          "Kyabarungira",
+          "Lake Katwe",
+          "Maliba",
+          "Muhokya",
+          "Rugendabara",
+          "Rukoki",
+          "Bulembia Division",
+          "Central Division",
+          "Nyamwamba Division"
+        ]
+      },
+      {
+        "name": "Kazo",
+        "towns": [
+          "Buremba",
+          "Burunga",
+          "Engari",
+          "Kanoni",
+          "Kazo",
+          "Kazo Town Council",
+          "Nkungu",
+          "Rwemikoma"
+        ]
+      },
+      {
+        "name": "Kibaale",
+        "towns": [
+          "Bubango",
+          "Bwamiramira",
+          "Kabasekende",
+          "Karama",
+          "Kasimbi",
+          "Kibaale Town Council",
+          "Kyebando",
+          "Matale",
+          "Mugarama",
+          "Nyamarunda",
+          "Nyamarwa"
+        ]
+      },
+      {
+        "name": "Kikuube",
+        "towns": [
+          "Bugambe",
+          "Buhimba",
+          "Buhimba Town Council",
+          "Kabwoya",
+          "Kikuube Town Council",
+          "Kiziranfumbi",
+          "Kyangwali"
+        ]
+      },
+      {
+        "name": "Kiruhura",
+        "towns": [
+          "Kanyaryeru",
+          "Kashongi",
+          "Kenshunga",
+          "Kikaatsi",
+          "Kinoni",
+          "Kiruhura Town Council",
+          "Kitura",
+          "Nyakashashara",
+          "Sanga",
+          "Sanga Town Council"
+        ]
+      },
+      {
+        "name": "Kiryandongo",
+        "towns": [
+          "Bweyale Town Council",
+          "Kigumba",
+          "Kigumba Town Council",
+          "Kiryandongo",
+          "Kiryandongo Town Council",
+          "Masindi Port",
+          "Mutunda"
+        ]
+      },
+      {
+        "name": "Kisoro",
+        "towns": [
+          "Bukimbiri",
+          "Busanza",
+          "Chahi",
+          "Kanaba",
+          "Kirundo",
+          "Muramba",
+          "Murora",
+          "Nyabwishenya",
+          "Nyakabande",
+          "Nyakinama",
+          "Nyarubuye",
+          "Nyarusiza",
+          "Nyundo",
+          "Rubuguri Town Council",
+          "Central",
+          "Northern",
+          "Southern"
+        ]
+      },
+      {
+        "name": "Kitagwenda",
+        "towns": [
+          "Buhanda",
+          "Kanara",
+          "Kicheche",
+          "Mahyoro",
+          "Ntara",
+          "Ntara Kichwamba Town Council",
+          "Nyabbani"
+        ]
+      },
+      {
+        "name": "Kyegegwa",
+        "towns": [
+          "Hapuuyo",
+          "Kabweza Kyegegwa",
+          "Kakabara",
+          "Kasule",
+          "Kigambo",
+          "Kyegegwa Town Council",
+          "Mpara",
+          "Ruyonza",
+          "Rwentuha"
+        ]
+      },
+      {
+        "name": "Kyenjojo",
+        "towns": [
+          "Bufunjo",
+          "Bugaaki",
+          "Butiiti",
+          "Butunduzi",
+          "Butunduzi Town Council",
+          "Kanyegaramire",
+          "Katooke",
+          "Katooke Town Council",
+          "Kigaraale",
+          "Kihuura",
+          "Kisojo",
+          "Kyamutunzi Town Council",
+          "Kyarusozi",
+          "Kyarusozi Town Council",
+          "Kyembogo",
+          "Kyenjojo Town Council",
+          "Nyabiringo",
+          "Nyabuharwa",
+          "Nyankwanzi",
+          "Nyantungo"
+        ]
+      },
+      {
+        "name": "Masindi",
+        "towns": [
+          "Budongo",
+          "Bwijanga",
+          "Pakanyi",
+          "Kimengo",
+          "Miirya",
+          "Central Division",
+          "Karujubu Division",
+          "Kigulya Division",
+          "Nyangahya Division"
+        ]
+      },
+      {
+        "name": "Mbarara",
+        "towns": [
+          "Biharwe Division",
+          "Bubaare",
+          "Bukiro",
+          "Kagongi",
+          "Kakiika Division",
+          "Kashare",
+          "Nyakayojo Division",
+          "Rubaya",
+          "Rubindi",
+          "Rwanyamahembe",
+          "Kakoba Division",
+          "Kamukuzi Division",
+          "Nyamitanga Division"
+        ]
+      },
+      {
+        "name": "Mitooma",
+        "towns": [
+          "Bitereko",
+          "Kabira",
+          "Kanyabwanga",
+          "Kashenshero",
+          "Kashenshero Town Council",
+          "Katenga",
+          "Kiyanga",
+          "Mayanga",
+          "Mitooma",
+          "Mitooma Town Council",
+          "Mutara",
+          "Rurehe"
+        ]
+      },
+      {
+        "name": "Ntoroko",
+        "towns": [
+          "Butungama",
+          "Bweramule",
+          "Kanara",
+          "Kanara Town Council",
+          "Karugutu",
+          "Karugutu Town Council",
+          "Kibuuku Town Council",
+          "Nombe",
+          "Rwebisengo",
+          "Rwebisengo Town Council"
+        ]
+      },
+      {
+        "name": "Ntungamo",
+        "towns": [
+          "Bwongyera",
+          "Ihunga",
+          "Kagarama Town Council",
+          "Kibatsi",
+          "Nyabihoko",
+          "Nyamunuka Town Council",
+          "Rwashamaire Town Council",
+          "Central Division",
+          "Eastern Division",
+          "Western Division",
+          "Itojo",
+          "Kafunjo-Mirama Town Council",
+          "Kitwe Town Council",
+          "Ntungamo",
+          "Nyakyera",
+          "Ruhaama",
+          "Rukoni East",
+          "Rukoni West",
+          "Rweikiniro",
+          "Kayonza",
+          "Ngoma",
+          "Rubaare",
+          "Rubaare Town Council",
+          "Rugarama"
+        ]
+      },
+      {
+        "name": "Rubanda",
+        "towns": [
+          "Bubaare",
+          "Bufundi",
+          "Hamurwa",
+          "Hamurwa Town Council",
+          "Ikumba",
+          "Muko",
+          "Nyamweru",
+          "Rubanda Town Council",
+          "Ruhija"
+        ]
+      },
+      {
+        "name": "Rubirizi",
+        "towns": [
+          "Katanda",
+          "Katerera",
+          "Katerera Town Council",
+          "Katunguru",
+          "Kichwamba",
+          "Kirugu",
+          "Kyabakara",
+          "Magambo",
+          "Rubiriziri Town Council",
+          "Rutoto",
+          "Ryeru"
+        ]
+      },
+      {
+        "name": "Rukiga",
+        "towns": [
+          "Bukinda",
+          "Kamwezi",
+          "Kashambya",
+          "Mparo Twon Council",
+          "Muhanga Town Council",
+          "Rwamucucu"
+        ]
+      },
+      {
+        "name": "Rukungiri",
+        "towns": [
+          "Bugangari",
+          "Buhunga",
+          "Bukurungu Town Council",
+          "Bwambara",
+          "Nyakagyeme",
+          "Ruhinda",
+          "Rwerere Town Council",
+          "Buyanja",
+          "Buyanja Town Council",
+          "Kebisoni",
+          "Kebisoni Town Council",
+          "Nyakishenyi",
+          "Nyarushanje",
+          "Eastern Divison",
+          "Southern Division",
+          "Western Division"
+        ]
+      },
+      {
+        "name": "Rwampara",
+        "towns": [
+          "Bugamba",
+          "Kinoni Town Council",
+          "Mwizi",
+          "Ndeija",
+          "Rugando"
+        ]
+      },
+      {
+        "name": "Sheema",
+        "towns": [
+          "Bugongi Town Council",
+          "Kakindo Town Council",
+          "Kasaana",
+          "Kigarama",
+          "Kitagata",
+          "Kitagata Town Council",
+          "Kyangyenyi",
+          "Masheruka",
+          "Masheruka Twon Council",
+          "Rugarama",
+          "Shuuku Town Council",
+          "Kabwohe Division",
+          "Kagango Division",
+          "Kashozi Division",
+          "Sheema Central Division"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3140 @@
+[
+  {
+    "name": "Baringo",
+    "lgas": [
+      {
+        "name": "Baringo Central",
+        "towns": [
+          "Sacho",
+          "Kabarnet",
+          "Tenges",
+          "Ewalel/chapchap",
+          "Kapropita"
+        ]
+      },
+      {
+        "name": "Baringo North",
+        "towns": [
+          "Barwessa",
+          "Kabartonjo",
+          "Saimoi/kipsaraman",
+          "Saimo/soi",
+          "Bartabwa"
+        ]
+      },
+      {
+        "name": "Baringo South",
+        "towns": [
+          "Mukutani",
+          "Marigat",
+          "Iichamus",
+          "Mochongoi"
+        ]
+      },
+      {
+        "name": "Eldama Ravine",
+        "towns": [
+          "Lembus",
+          "Lembus kwen",
+          "Ravine",
+          "Mumberes/Maji Mazuri",
+          "Lembus/Perkerra",
+          "Koibatek"
+        ]
+      },
+      {
+        "name": "Mogotio",
+        "towns": [
+          "Mogotio",
+          "Emining",
+          "Kisanana"
+        ]
+      },
+      {
+        "name": "Tiaty",
+        "towns": [
+          "Tirioko",
+          "Kolowa",
+          "Ribkwo",
+          "Silale",
+          "Loiyamorok",
+          "Tangulbei/korossi",
+          "Churo/amaya"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bomet",
+    "lgas": [
+      {
+        "name": "Bomet Central",
+        "towns": [
+          "Silibwet Township",
+          "Ndaraweta",
+          "Singorwet",
+          "Chesoen",
+          "Mutarakwa"
+        ]
+      },
+      {
+        "name": "Bomet East",
+        "towns": [
+          "Merigi",
+          "Kembu",
+          "Longisa",
+          "Kipreres",
+          "Chemaner"
+        ]
+      },
+      {
+        "name": "Chepalungu",
+        "towns": [
+          "Kong'asis",
+          "Nyangores",
+          "Sigor",
+          "Chebunyo",
+          "Siongiroi"
+        ]
+      },
+      {
+        "name": "Konoin",
+        "towns": [
+          "Kimulot",
+          "Mogogosiek",
+          "Boito",
+          "Embomos",
+          "Chepchabas"
+        ]
+      },
+      {
+        "name": "Sotik",
+        "towns": [
+          "Ndanai/abosi",
+          "Chemagel",
+          "Kipsonoi",
+          "Kapletundo",
+          "Rongena/manaret"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bungoma",
+    "lgas": [
+      {
+        "name": "Bumula",
+        "towns": [
+          "Kabula",
+          "Kimaeti",
+          "Siboti",
+          "South Bukusu",
+          "Bumula",
+          "Khasoko",
+          "West Bukusu"
+        ]
+      },
+      {
+        "name": "Kabuchai",
+        "towns": [
+          "West Nalondo",
+          "Mukuyuni",
+          "Kabuchai/chwele",
+          "Bwake/luuya"
+        ]
+      },
+      {
+        "name": "Kanduyi",
+        "towns": [
+          "Bukembe West",
+          "Bukembe East",
+          "Township",
+          "Khalaba",
+          "Musikoma",
+          "East Sang'alo",
+          "Marakaru/tuuti",
+          "West Sang'alo"
+        ]
+      },
+      {
+        "name": "Kimilili",
+        "towns": [
+          "Kibingei",
+          "Kimilili",
+          "Maeni",
+          "Kamukuywa"
+        ]
+      },
+      {
+        "name": "Mt. Elgon",
+        "towns": [
+          "Cheptais",
+          "Kakateny",
+          "Kaptama",
+          "Chesikaki",
+          "Chepyuk",
+          "Elgon"
+        ]
+      },
+      {
+        "name": "Sirisia",
+        "towns": [
+          "Malakisi/south Kulisiru",
+          "Lwandanyi",
+          "Namwela"
+        ]
+      },
+      {
+        "name": "Tongaren",
+        "towns": [
+          "Mbakalo",
+          "Naitiri/kabuyefwe",
+          "Milima",
+          "Ndalu/ Tabani",
+          "Tongaren",
+          "Soysambu/ Mitua"
+        ]
+      },
+      {
+        "name": "Webuye East",
+        "towns": [
+          "Mihuu",
+          "Ndivisi",
+          "Maraka"
+        ]
+      },
+      {
+        "name": "Webuye West",
+        "towns": [
+          "Bokoli",
+          "Misikhu",
+          "Sitikho",
+          "Matulo"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Busia",
+    "lgas": [
+      {
+        "name": "Budalangi",
+        "towns": [
+          "Bunyala Central",
+          "Bunyala North",
+          "Bunyala West",
+          "Bunyala South"
+        ]
+      },
+      {
+        "name": "Butula",
+        "towns": [
+          "Marachi West",
+          "Marachi East",
+          "Marachi North",
+          "Elugulu",
+          "Kingandole",
+          "Marachi Central"
+        ]
+      },
+      {
+        "name": "Funyula",
+        "towns": [
+          "Namboboto Nambuku",
+          "Nangina",
+          "Ageng'a Nanguba",
+          "Bwiri"
+        ]
+      },
+      {
+        "name": "Matayos",
+        "towns": [
+          "Bukhayo West",
+          "Matayos South",
+          "Busibwabo",
+          "Burumba",
+          "Mayenje"
+        ]
+      },
+      {
+        "name": "Nambale",
+        "towns": [
+          "Nambale Township",
+          "Bukhayo North Walatsi",
+          "Bukhayo East",
+          "Bukhayo Central"
+        ]
+      },
+      {
+        "name": "Teso North",
+        "towns": [
+          "Malaba Central",
+          "Malaba North",
+          "Ang'urai South",
+          "Ang'urai North",
+          "Ang'urai East",
+          "Malaba South"
+        ]
+      },
+      {
+        "name": "Teso South",
+        "towns": [
+          "Ang'orom",
+          "Chakol South",
+          "Chakol North",
+          "Amukura West",
+          "Amukura East",
+          "Amukura Central"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elgeyo-Marakwet",
+    "lgas": [
+      {
+        "name": "Keiyo North",
+        "towns": [
+          "Kamariny",
+          "Emsoo",
+          "Tambach",
+          "Kapchemutwa"
+        ]
+      },
+      {
+        "name": "Keiyo South",
+        "towns": [
+          "Soy North",
+          "Soy South",
+          "Kabiemit",
+          "Kaptarakwa",
+          "Chepkorio",
+          "Metkei"
+        ]
+      },
+      {
+        "name": "Marakwet East",
+        "towns": [
+          "Kapyego",
+          "Sambirir",
+          "Endo",
+          "Embobut/Embulot"
+        ]
+      },
+      {
+        "name": "Marakwet West",
+        "towns": [
+          "Lelan",
+          "Sengwer",
+          "Cherangany",
+          "Moiben Kuserwo",
+          "Kapsowar",
+          "Arror"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Embu",
+    "lgas": [
+      {
+        "name": "Gachoka",
+        "towns": [
+          "Mwea",
+          "Makima",
+          "Mbeti south",
+          "Mavuria",
+          "Kiambere"
+        ]
+      },
+      {
+        "name": "Manyatta",
+        "towns": [
+          "Ruguru-Ngandori",
+          "Kithimu",
+          "Nginda",
+          "Mbeti north",
+          "Kirimari",
+          "Gaturi south",
+          "Gaturi north"
+        ]
+      },
+      {
+        "name": "Runyenjes",
+        "towns": [
+          "Kaagari South",
+          "Central ward",
+          "Kaagari North",
+          "Kyeni north",
+          "Kyeni south"
+        ]
+      },
+      {
+        "name": "Siakago",
+        "towns": [
+          "Muminji",
+          "Evurore",
+          "Nthawa"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Garissa",
+    "lgas": [
+      {
+        "name": "Balambala",
+        "towns": [
+          "Balambala",
+          "Danyere",
+          "Jarajara",
+          "Saka"
+        ]
+      },
+      {
+        "name": "Dadaab",
+        "towns": [
+          "Dertu",
+          "Dadaab",
+          "LABISGALE",
+          "Damajale",
+          "Liboi",
+          "Abakaile"
+        ]
+      },
+      {
+        "name": "Dujis",
+        "towns": [
+          "Township",
+          "Waberi",
+          "Sankuri",
+          "Iftin",
+          "Galbet"
+        ]
+      },
+      {
+        "name": "Fafi",
+        "towns": [
+          "Nanighi",
+          "Jarajila",
+          "Fafi",
+          "Bura",
+          "Dekaharia"
+        ]
+      },
+      {
+        "name": "Ijara",
+        "towns": [
+          "Hulugho",
+          "Sangailu",
+          "Masalani",
+          "Ijara"
+        ]
+      },
+      {
+        "name": "Lagdera",
+        "towns": [
+          "Modogashe",
+          "Benane",
+          "Goreale",
+          "Maalimin",
+          "Sabena",
+          "Baraki"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Homa Bay",
+    "lgas": [
+      {
+        "name": "Homa Bay",
+        "towns": [
+          "Homa Bay Central",
+          "Homa Bay Arujo",
+          "Homa Bay East",
+          "Homa Bay West"
+        ]
+      },
+      {
+        "name": "Kabondo Kasipul",
+        "towns": [
+          "Kabondo East",
+          "Kabondo West",
+          "Kokwanyo/kakelo",
+          "Kojwach"
+        ]
+      },
+      {
+        "name": "Karachuonyo",
+        "towns": [
+          "West Karachuonyo",
+          "North Karachuonyo",
+          "Central",
+          "Kanyaluo",
+          "Kibiri",
+          "Wang'chieng",
+          "Kendu Bay Town"
+        ]
+      },
+      {
+        "name": "Kasipul",
+        "towns": [
+          "West Kasipul",
+          "South Kasipul",
+          "Central Kasipul",
+          "East Kamagak",
+          "West Kamagak"
+        ]
+      },
+      {
+        "name": "Ndhiwa",
+        "towns": [
+          "Kwabwai",
+          "Kanyadoto",
+          "Kanyikela",
+          "Kabouch North",
+          "Kabuoch South/pala",
+          "Kanyamwa Kosewe",
+          "Kanyamwa Kologi"
+        ]
+      },
+      {
+        "name": "Rangwe",
+        "towns": [
+          "Kagan",
+          "Kochia",
+          "West Gem",
+          "East Gem"
+        ]
+      },
+      {
+        "name": "Suba North",
+        "towns": [
+          "Mfangano Island",
+          "Rusinga Island",
+          "Kasgunga",
+          "Gembe",
+          "Lambwe"
+        ]
+      },
+      {
+        "name": "Suba South",
+        "towns": [
+          "Gwassi South",
+          "Gwassi North",
+          "Kaksingiri West",
+          "Ruma-kaksingiri East"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Isiolo",
+    "lgas": [
+      {
+        "name": "Isiolo North",
+        "towns": [
+          "WABERA",
+          "BULA PESA",
+          "CHARI",
+          "CHERAB",
+          "NGARE MARA",
+          "BURAT",
+          "OLDONYIRO"
+        ]
+      },
+      {
+        "name": "Isiolo South",
+        "towns": [
+          "GARBATULLA",
+          "KINNA",
+          "SERICHO"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kajiado",
+    "lgas": [
+      {
+        "name": "Kajiado Central",
+        "towns": [
+          "Purko",
+          "Ildamat",
+          "Dalalekutuk",
+          "Matapato north",
+          "Matapato south"
+        ]
+      },
+      {
+        "name": "Kajiado East",
+        "towns": [
+          "Kaputiei north",
+          "Kitengela",
+          "Oloosirkon/sholinke",
+          "Kenyawa-poka",
+          "Imaroro"
+        ]
+      },
+      {
+        "name": "Kajiado North",
+        "towns": [
+          "Olkeri",
+          "Ongata rongai",
+          "Nkaimurunya",
+          "Oloolua",
+          "Ngong"
+        ]
+      },
+      {
+        "name": "Kajiado South",
+        "towns": [
+          "Kimana",
+          "Entonet/lenkism",
+          "Imbrikani/eselelnkei",
+          "Kuku",
+          "Rombo"
+        ]
+      },
+      {
+        "name": "Kajiado West",
+        "towns": [
+          "Keekonyokie",
+          "Iloodokilani",
+          "Magadi",
+          "Ewuaso oonkidong'i",
+          "Mosiro"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kakamega",
+    "lgas": [
+      {
+        "name": "Butere",
+        "towns": [
+          "Marama West",
+          "Marama Central",
+          "Marenyo-shianda",
+          "Marama North",
+          "Marama South"
+        ]
+      },
+      {
+        "name": "Ikolomani",
+        "towns": [
+          "Idakho South",
+          "Idakho East",
+          "Idakho North",
+          "Idakho Central"
+        ]
+      },
+      {
+        "name": "Khwisero",
+        "towns": [
+          "Kisa North",
+          "Kisa East",
+          "Kisa West",
+          "Kisa Central"
+        ]
+      },
+      {
+        "name": "Likuyani",
+        "towns": [
+          "Likuyani",
+          "Sango",
+          "Kongoni",
+          "Nzoia",
+          "Sinoko"
+        ]
+      },
+      {
+        "name": "Lugari",
+        "towns": [
+          "Mautuma",
+          "Lugari",
+          "Lumakanda",
+          "Chekalini",
+          "Chevaywa",
+          "Lwandeti"
+        ]
+      },
+      {
+        "name": "Lurambi",
+        "towns": [
+          "Butsotso East",
+          "Butsotso South",
+          "Butsotso Central",
+          "Sheywe",
+          "Mahiakalo",
+          "Shirere"
+        ]
+      },
+      {
+        "name": "Malava",
+        "towns": [
+          "West Kabras",
+          "Chemuche",
+          "East Kabras",
+          "Butali Chegulo",
+          "Manda-shivanga",
+          "Shirungu-mugai",
+          "South Kabras"
+        ]
+      },
+      {
+        "name": "Matungu",
+        "towns": [
+          "Koyonzo",
+          "Kholera",
+          "Khalaba",
+          "Mayoni",
+          "Namamali"
+        ]
+      },
+      {
+        "name": "Mumias East",
+        "towns": [
+          "Lusheya Lubinu",
+          "Malaha Isongo Makunga",
+          "East Wanga"
+        ]
+      },
+      {
+        "name": "Mumias West",
+        "towns": [
+          "Mumias Central",
+          "Mumias North",
+          "Etenje",
+          "Musanda"
+        ]
+      },
+      {
+        "name": "Navakholo",
+        "towns": [
+          "Ingoste-matiha",
+          "Shinoyi-shikomari-esumeiya",
+          "Bunyala West",
+          "Bunyala East",
+          "Bunyala Central"
+        ]
+      },
+      {
+        "name": "Shinyalu",
+        "towns": [
+          "Isukha North",
+          "Murhanda",
+          "Isukha Central",
+          "Isukha South",
+          "Isukha East",
+          "Isukha West"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kericho",
+    "lgas": [
+      {
+        "name": "Ainamoi",
+        "towns": [
+          "BELGUT",
+          "Kapsoit",
+          "Ainamoi",
+          "Kapkugerwet",
+          "Kipchebor",
+          "Kipchimchim",
+          "Kapsaos"
+        ]
+      },
+      {
+        "name": "Belgut",
+        "towns": [
+          "Chaik",
+          "Waldai",
+          "Kabianga",
+          "Cheptororiet/seretut"
+        ]
+      },
+      {
+        "name": "Buret",
+        "towns": [
+          "Kisiara",
+          "Tebesonik",
+          "Cheboin",
+          "Chemosot",
+          "Litein",
+          "Cheplanget",
+          "Kapkatet"
+        ]
+      },
+      {
+        "name": "Kipkelion East",
+        "towns": [
+          "Kedowa/kimugul",
+          "Chepseon",
+          "Tendeno/sorget",
+          "Londiani"
+        ]
+      },
+      {
+        "name": "Kipkelion West",
+        "towns": [
+          "Chilchila",
+          "Kunyak",
+          "Kamasian",
+          "Kipkelion"
+        ]
+      },
+      {
+        "name": "Sigowet/Soin",
+        "towns": [
+          "Sigowet",
+          "Kaplelartet",
+          "Soliat",
+          "Soin"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kiambu",
+    "lgas": [
+      {
+        "name": "Gatundu North",
+        "towns": [
+          "Gituamba",
+          "Githobokoni",
+          "Chania",
+          "Mang'u"
+        ]
+      },
+      {
+        "name": "Gatundu South",
+        "towns": [
+          "Kiamwangi",
+          "Kiganjo",
+          "Ndarugu",
+          "Ngenda"
+        ]
+      },
+      {
+        "name": "Githunguri",
+        "towns": [
+          "Githiga",
+          "Ikinu",
+          "Ngewa",
+          "Komothai",
+          "Githunguri"
+        ]
+      },
+      {
+        "name": "Juja",
+        "towns": [
+          "Murera",
+          "Theta",
+          "Juja",
+          "Witeithie",
+          "Kalimoni"
+        ]
+      },
+      {
+        "name": "Kabete",
+        "towns": [
+          "Gitaru",
+          "Muguga",
+          "Nyadhuna",
+          "Kabete",
+          "Uthiru"
+        ]
+      },
+      {
+        "name": "Kiambaa",
+        "towns": [
+          "Cianda",
+          "Karuri",
+          "Ndenderu",
+          "Muchatha",
+          "Kihara"
+        ]
+      },
+      {
+        "name": "Kiambu",
+        "towns": [
+          "Ting'ang'a",
+          "Ndumberi",
+          "Riabai",
+          "Kiambu Township"
+        ]
+      },
+      {
+        "name": "Kikuyu",
+        "towns": [
+          "Karai",
+          "Nachu",
+          "Sigona",
+          "Kikuyu",
+          "Kinoo"
+        ]
+      },
+      {
+        "name": "Lari",
+        "towns": [
+          "Kinale",
+          "Nyanduma",
+          "Kamburu",
+          "Lari/kirenga",
+          "Kijabe"
+        ]
+      },
+      {
+        "name": "Limuru",
+        "towns": [
+          "Bibirioni",
+          "Limuru Central",
+          "Ndeiya",
+          "Limuru East",
+          "Ngecha Tigoni"
+        ]
+      },
+      {
+        "name": "Ruiru",
+        "towns": [
+          "Gitothua",
+          "Gatongora",
+          "Kahawa Wendani",
+          "Biashara",
+          "Kahawa/sukari",
+          "Kiuu",
+          "Mwiki",
+          "Mwihoko"
+        ]
+      },
+      {
+        "name": "Thika Town",
+        "towns": [
+          "Thika Township",
+          "Kamenu",
+          "Hospital",
+          "Gatuanyaga",
+          "Ngoliba"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kilifi",
+    "lgas": [
+      {
+        "name": "Ganze",
+        "towns": [
+          "Bamba",
+          "Jaribuni",
+          "Ganze",
+          "Sokoke"
+        ]
+      },
+      {
+        "name": "Kaloleni",
+        "towns": [
+          "Mariakani",
+          "Kayafungo",
+          "Kaloleni",
+          "Mwanamwinga"
+        ]
+      },
+      {
+        "name": "Kilifi North",
+        "towns": [
+          "Mnarani",
+          "Sokoni",
+          "Dabaso",
+          "Watamu",
+          "Kibarani",
+          "Matsangoni",
+          "Tezo"
+        ]
+      },
+      {
+        "name": "Kilifi South",
+        "towns": [
+          "Junju",
+          "Mwarakaya",
+          "Chasimba",
+          "Mtepeni",
+          "Shimo La Tewa"
+        ]
+      },
+      {
+        "name": "Magarini",
+        "towns": [
+          "Marafa",
+          "Magarini",
+          "Gongoni",
+          "Adu",
+          "Garashi",
+          "Sabaki"
+        ]
+      },
+      {
+        "name": "Malindi",
+        "towns": [
+          "Jilore",
+          "Kakuyuni",
+          "Shella",
+          "Ganda",
+          "Malindi Town"
+        ]
+      },
+      {
+        "name": "Rabai",
+        "towns": [
+          "Mwawesa",
+          "Rurumaward",
+          "Kambe/ribe",
+          "Rabai/kisurutini"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kirinyaga",
+    "lgas": [
+      {
+        "name": "Gichugu",
+        "towns": [
+          "Kabare",
+          "Baragwi",
+          "Njukiine",
+          "Ngariama",
+          "Karumandi"
+        ]
+      },
+      {
+        "name": "Kirinyaga Central",
+        "towns": [
+          "Mukure",
+          "Kiine",
+          "Kariti",
+          "Mutira",
+          "Kanyekini",
+          "Kerugoya",
+          "Inoi"
+        ]
+      },
+      {
+        "name": "Mwea",
+        "towns": [
+          "Mutithi",
+          "Kangai",
+          "Thiba",
+          "Wamumu"
+        ]
+      },
+      {
+        "name": "Ndia",
+        "towns": [
+          "Nyangati",
+          "Murinduko",
+          "Gathigiriri",
+          "Tebere"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kisii",
+    "lgas": [
+      {
+        "name": "Bobasi",
+        "towns": [
+          "Masige West",
+          "Masige East",
+          "Basi Central",
+          "Nyacheki",
+          "Bassi Bogetaorio",
+          "Bobasi Chache",
+          "Sameta Mokwerero",
+          "Bobasi Boitangare"
+        ]
+      },
+      {
+        "name": "Bomachoge Borabu",
+        "towns": [
+          "BOMBABA BORABU",
+          "Bokimonge",
+          "Magenche",
+          "BOOCHI BORABU"
+        ]
+      },
+      {
+        "name": "Bomachoge Chache",
+        "towns": [
+          "Majoge Basi",
+          "Boochi Tendere",
+          "Bosoti Sengera"
+        ]
+      },
+      {
+        "name": "Bonchari",
+        "towns": [
+          "Bomariba",
+          "Bogiakumu",
+          "Bomorenda",
+          "Riana"
+        ]
+      },
+      {
+        "name": "Kitutu Chache North",
+        "towns": [
+          "Sensi",
+          "Monyerero",
+          "Marani",
+          "Kegogi"
+        ]
+      },
+      {
+        "name": "Kitutu Chache South",
+        "towns": [
+          "Nyakoe",
+          "Kisii Central",
+          "Bogusero",
+          "Bogeka",
+          "Nyatieko"
+        ]
+      },
+      {
+        "name": "Nyaribari Chache",
+        "towns": [
+          "Bobaracho",
+          "Kisii Central",
+          "Keumbu",
+          "Kiogoro",
+          "Birongo",
+          "Ibeno"
+        ]
+      },
+      {
+        "name": "Nyaribari Masaba",
+        "towns": [
+          "Ichuni",
+          "Nyamasibi",
+          "Masimba",
+          "Gesusu",
+          "Kiamokama"
+        ]
+      },
+      {
+        "name": "South Mugirango",
+        "towns": [
+          "Tabaka",
+          "Boikanga",
+          "Bogetenga",
+          "Borabu Chitago",
+          "Moticho",
+          "Getenga"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kisumu",
+    "lgas": [
+      {
+        "name": "Kisumu Central",
+        "towns": [
+          "Shauri Moyo Kaloleni",
+          "Market Milimani",
+          "Kondele",
+          "Nyalenda B",
+          "Railways",
+          "Migosi"
+        ]
+      },
+      {
+        "name": "Kisumu East",
+        "towns": [
+          "Manyatta B",
+          "Nyalenda A",
+          "Kajulu",
+          "Kolwa East",
+          "Kolwa Central"
+        ]
+      },
+      {
+        "name": "Kisumu West",
+        "towns": [
+          "South West Kisumu",
+          "Central Kisumu",
+          "North Kisumu",
+          "West Kisumu",
+          "North West Kisumu"
+        ]
+      },
+      {
+        "name": "Muhoroni",
+        "towns": [
+          "Miwani",
+          "Ombeyi",
+          "Masogo/nyang'oma",
+          "Chemelil",
+          "Muhoroni Koru"
+        ]
+      },
+      {
+        "name": "Nyakach",
+        "towns": [
+          "South West Nyakach",
+          "North Nyakach",
+          "Central Nyakach",
+          "West Nyakach",
+          "South East Nyakach"
+        ]
+      },
+      {
+        "name": "Nyando",
+        "towns": [
+          "East Kano/wawidhi",
+          "Kabonyo Kanyagwal",
+          "Kobura",
+          "Awasi/onjiko",
+          "Ahero"
+        ]
+      },
+      {
+        "name": "Seme",
+        "towns": [
+          "West Seme",
+          "Central Seme",
+          "East Seme",
+          "North Seme"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kitui",
+    "lgas": [
+      {
+        "name": "Kitui Central",
+        "towns": [
+          "Miambani",
+          "Township",
+          "Kyangwithya west",
+          "Mulango",
+          "Kyangwithya east"
+        ]
+      },
+      {
+        "name": "Kitui East",
+        "towns": [
+          "Nzambani",
+          "Zombe/mwitika",
+          "Voo/kyamatu",
+          "Endau/malalani",
+          "Mutitu/kaliku",
+          "Chuluni"
+        ]
+      },
+      {
+        "name": "Kitui Rural",
+        "towns": [
+          "Kwavonza/yatta",
+          "Kanyangi",
+          "Mbitini",
+          "Kisasi"
+        ]
+      },
+      {
+        "name": "Kitui South",
+        "towns": [
+          "Ikutha",
+          "Athi",
+          "Ikanga/kyatune",
+          "Mutomo",
+          "Mutha",
+          "Kanziko"
+        ]
+      },
+      {
+        "name": "Kitui West",
+        "towns": [
+          "Mutongoni",
+          "Kauwi",
+          "Matinyani",
+          "Kwamutonga/kithumula"
+        ]
+      },
+      {
+        "name": "Mwingi East",
+        "towns": [
+          "Central",
+          "Kivou",
+          "Nguni",
+          "Nuu",
+          "Mui",
+          "Waita"
+        ]
+      },
+      {
+        "name": "Mwingi North",
+        "towns": [
+          "Mumoni",
+          "Tseikuru",
+          "Tharaka",
+          "Ngomeni",
+          "Kyuso"
+        ]
+      },
+      {
+        "name": "Mwingi West",
+        "towns": [
+          "Kyome/thaana",
+          "Nguutani",
+          "Migwani",
+          "Kiomo/kyethani"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kwale",
+    "lgas": [
+      {
+        "name": "Kinango",
+        "towns": [
+          "Ndavaya",
+          "Puma",
+          "Kinango",
+          "Mackinon Road",
+          "Chengoni/samburu",
+          "Mwavumbo",
+          "Kasemeni"
+        ]
+      },
+      {
+        "name": "Lunga Lunga",
+        "towns": [
+          "Pongwe Kikoneni",
+          "Dzombo",
+          "Mwereni",
+          "Vanga"
+        ]
+      },
+      {
+        "name": "Matuga",
+        "towns": [
+          "Tsimba Golini",
+          "Waa Ngombeni",
+          "Tiwi",
+          "Kubo South",
+          "Mkongani"
+        ]
+      },
+      {
+        "name": "Msambweni",
+        "towns": [
+          "Ukunda",
+          "Kinondo",
+          "Ramisi",
+          "Gombato Bongwe"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Laikipia",
+    "lgas": [
+      {
+        "name": "Laikipia East",
+        "towns": [
+          "Ngobit",
+          "Tigithi",
+          "Thingithu",
+          "Nanyuki",
+          "Umande"
+        ]
+      },
+      {
+        "name": "Laikipia North",
+        "towns": [
+          "Sosian",
+          "Segera",
+          "Mugogodo West",
+          "Mugogodo East"
+        ]
+      },
+      {
+        "name": "Laikipia West",
+        "towns": [
+          "Marmanet",
+          "Igwamiti",
+          "Salama",
+          "Ol-Moran",
+          "Rumuruti Township",
+          "Githiga"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lamu",
+    "lgas": [
+      {
+        "name": "Lamu East",
+        "towns": [
+          "FAZA",
+          "KIUNGA",
+          "BASUBA"
+        ]
+      },
+      {
+        "name": "Lamu West",
+        "towns": [
+          "SHELLA",
+          "MKOMAMI",
+          "HINDI",
+          "HONGWE",
+          "MKUNUMBI",
+          "BAHARI",
+          "WITU"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Machakos",
+    "lgas": [
+      {
+        "name": "Kangundo",
+        "towns": [
+          "Kangundo North",
+          "Kangundo Central",
+          "Kangundo East",
+          "Kangundo West"
+        ]
+      },
+      {
+        "name": "Kathiani",
+        "towns": [
+          "Mitamboni",
+          "Kathiani Central",
+          "Upper Kaewa-iveti",
+          "Lower Kaewa-kaani"
+        ]
+      },
+      {
+        "name": "Machakos Town",
+        "towns": [
+          "Kalama",
+          "Mua",
+          "Mutituni",
+          "Township",
+          "Mumbuni North",
+          "Muvuti-kiima-kimwe",
+          "Kola"
+        ]
+      },
+      {
+        "name": "Masinga",
+        "towns": [
+          "Kivaa",
+          "Masinga Central",
+          "Ekalakala",
+          "Muthesya",
+          "Mananja"
+        ]
+      },
+      {
+        "name": "Matungulu",
+        "towns": [
+          "Tala",
+          "Matungulu North",
+          "Matungulu East",
+          "Matungulu West",
+          "Kyeleni"
+        ]
+      },
+      {
+        "name": "Mavoko",
+        "towns": [
+          "Mathatani",
+          "Syokimau-mulolongo",
+          "Athi River",
+          "Kinanie"
+        ]
+      },
+      {
+        "name": "Mwala",
+        "towns": [
+          "Mbiuni",
+          "Makutano-mwala",
+          "Masii",
+          "Muthetheni",
+          "Wamunyu",
+          "Kibauni"
+        ]
+      },
+      {
+        "name": "Yatta",
+        "towns": [
+          "Ndalani",
+          "Matuu",
+          "Kithimani",
+          "Ikombe",
+          "Katangi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makueni",
+    "lgas": [
+      {
+        "name": "Kaiti",
+        "towns": [
+          "Ukia ward",
+          "Kee ward",
+          "Kilungu ward",
+          "Ilima ward"
+        ]
+      },
+      {
+        "name": "Kibwezi East",
+        "towns": [
+          "Masongaleni",
+          "Mtito Andei",
+          "Thange",
+          "Ivingoni/Nzambani"
+        ]
+      },
+      {
+        "name": "Kibwezi West",
+        "towns": [
+          "Makindu",
+          "Nguumo",
+          "Kikumbulyu North",
+          "Kikumbulyu South",
+          "Nguu/Masumba",
+          "Emali/Mulala"
+        ]
+      },
+      {
+        "name": "Kilome",
+        "towns": [
+          "Kasikeu",
+          "Mukaa",
+          "Kiima Kiu/Kalanzoni"
+        ]
+      },
+      {
+        "name": "Makueni",
+        "towns": [
+          "Wote",
+          "Muvau/Kikumini",
+          "Mavindini",
+          "Kitise/Kithuki",
+          "Kathonzweni",
+          "Nzaui/Kilili/Kalamba",
+          "Mbitini"
+        ]
+      },
+      {
+        "name": "Mbooni",
+        "towns": [
+          "Tulimani",
+          "Mbooni",
+          "Kithungo/Kitundu",
+          "Kiteta-Kisau",
+          "Waia/Kako",
+          "Kalawa/ Kathulumbi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mandera",
+    "lgas": [
+      {
+        "name": "Banissa",
+        "towns": [
+          "BANISSA",
+          "DERKHALE",
+          "GUBA",
+          "MALKAMARI",
+          "KILIWAHERI"
+        ]
+      },
+      {
+        "name": "Lafey",
+        "towns": [
+          "LIBEHIA",
+          "FINO",
+          "LAFEY",
+          "WARANKARA",
+          "ALANGO GOF"
+        ]
+      },
+      {
+        "name": "Mandera East",
+        "towns": [
+          "ARABIA",
+          "BULLA MPYA",
+          "KHALALIO",
+          "NEBOI",
+          "TOWNSHIP"
+        ]
+      },
+      {
+        "name": "Mandera North",
+        "towns": [
+          "MAROTHILE",
+          "RHAMU",
+          "RHAMU DIMTU",
+          "ASHABITO",
+          "GUTICHA"
+        ]
+      },
+      {
+        "name": "Mandera South",
+        "towns": [
+          "KOTULO",
+          "ELWAK SOUTH",
+          "SHAMBIR FATUMA",
+          "WARGADUD",
+          "ELWAK NORTH"
+        ]
+      },
+      {
+        "name": "Mandera West",
+        "towns": [
+          "TAKABA SOUTH",
+          "TAKABA",
+          "LAGHSURE",
+          "DANDU",
+          "GITHER"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Marsabit",
+    "lgas": [
+      {
+        "name": "Laisamis",
+        "towns": [
+          "LAISAMIS",
+          "LOIYANGALANI",
+          "KARGI/SOUTH HORR",
+          "KORR/NGURUNIT",
+          "LOGOLOGO"
+        ]
+      },
+      {
+        "name": "Moyale",
+        "towns": [
+          "BUTIYE",
+          "SOLOLO",
+          "HEILLU/MANYATTA",
+          "GOLBO",
+          "MOYALE TOWNSHIP",
+          "URAN",
+          "OBBU"
+        ]
+      },
+      {
+        "name": "North Horr",
+        "towns": [
+          "NORTH HORR",
+          "ILLERET",
+          "DUKANA",
+          "MAIKONA",
+          "TURBI"
+        ]
+      },
+      {
+        "name": "Saku",
+        "towns": [
+          "SAGANTE/JALDESA",
+          "KARARE",
+          "MARSABIT CENTRAL"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Meru",
+    "lgas": [
+      {
+        "name": "Buuri",
+        "towns": [
+          "Timau",
+          "Kisima",
+          "Kiirua Naari",
+          "Ruiru Rwawera",
+          "Kibirichia"
+        ]
+      },
+      {
+        "name": "Cental Imenti",
+        "towns": [
+          "Mwangathia",
+          "Abothuguchi central",
+          "Abothuguchi west",
+          "Kiagu"
+        ]
+      },
+      {
+        "name": "Igembe Central",
+        "towns": [
+          "Akirang'ondu",
+          "Athiru ruujine",
+          "Kiengu/Igembe East ward",
+          "Njia",
+          "Kangeta"
+        ]
+      },
+      {
+        "name": "Igembe North",
+        "towns": [
+          "Antuambui",
+          "Ntunene",
+          "Antubetwe kiongo",
+          "Naathu",
+          "Amwathi"
+        ]
+      },
+      {
+        "name": "Igembe South",
+        "towns": [
+          "Maua",
+          "Kiegoi/antubochiu",
+          "Athiru gaiti",
+          "Akachiu",
+          "Kanuni"
+        ]
+      },
+      {
+        "name": "North Imenti",
+        "towns": [
+          "Municipality",
+          "Ntima east",
+          "Ntima west",
+          "Nyaki west",
+          "Nyaki east"
+        ]
+      },
+      {
+        "name": "South Imenti",
+        "towns": [
+          "Mitunguu",
+          "Igoji east",
+          "Igoji west",
+          "Abogeta east",
+          "Abogeta west",
+          "Nkuene"
+        ]
+      },
+      {
+        "name": "Tigania East",
+        "towns": [
+          "Thangatha",
+          "Mikinduri",
+          "Kiguchwa",
+          "Muthara",
+          "Karama"
+        ]
+      },
+      {
+        "name": "Tigania West",
+        "towns": [
+          "Athwana",
+          "Akithii",
+          "Kianjai",
+          "Nkomo",
+          "Mbeu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Migori",
+    "lgas": [
+      {
+        "name": "Awendo",
+        "towns": [
+          "North Sakwa",
+          "South Sakwa",
+          "West Sakwa",
+          "Central Sakwa"
+        ]
+      },
+      {
+        "name": "Kuria East",
+        "towns": [
+          "Ntimaru West",
+          "Gokeharaka/getambwega",
+          "Ntimaru East",
+          "Nyabasi East",
+          "Nyabasi West"
+        ]
+      },
+      {
+        "name": "Kuria West",
+        "towns": [
+          "Masaba",
+          "Bukira East",
+          "Bukira Central/ikerege",
+          "Isibania",
+          "Mokerero",
+          "Tagare",
+          "Nyamosense/komosoko"
+        ]
+      },
+      {
+        "name": "Nyatike",
+        "towns": [
+          "Kachieng'",
+          "Kanyasa",
+          "North Kadem",
+          "Macalder/kanyarwanda",
+          "Kaler",
+          "Got Kachola",
+          "Muhuru"
+        ]
+      },
+      {
+        "name": "Rongo",
+        "towns": [
+          "North Kamagambo",
+          "Central Kamagambo",
+          "South Kamagambo",
+          "East Kamagambo"
+        ]
+      },
+      {
+        "name": "Suna East",
+        "towns": [
+          "God Jope",
+          "Suna Central",
+          "Kakrao",
+          "Kwa"
+        ]
+      },
+      {
+        "name": "Suna West",
+        "towns": [
+          "Wiga",
+          "Waseweta Ii",
+          "Ragana-oruba",
+          "Wasimbete"
+        ]
+      },
+      {
+        "name": "Uriri",
+        "towns": [
+          "West Kanyamkago",
+          "North  Kanyamkago",
+          "Central Kanyamkago",
+          "South Kanyamkago",
+          "East Kanyamkago"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mombasa",
+    "lgas": [
+      {
+        "name": "Changamwe",
+        "towns": [
+          "Kipevu",
+          "Airport",
+          "Changamwe",
+          "Chaani",
+          "Port Reitz"
+        ]
+      },
+      {
+        "name": "Jomvu",
+        "towns": [
+          "Jomvu Kuu",
+          "Miritini",
+          "Mikindani"
+        ]
+      },
+      {
+        "name": "Kisauni",
+        "towns": [
+          "Mjambere",
+          "Magogoni",
+          "Junda",
+          "Bamburi",
+          "Mwakirunge",
+          "Mtopanga",
+          "Shanzu"
+        ]
+      },
+      {
+        "name": "Likoni",
+        "towns": [
+          "Shika Adabu",
+          "Mtongwe",
+          "Bofu",
+          "Likoni",
+          "Timbwani"
+        ]
+      },
+      {
+        "name": "Mvita",
+        "towns": [
+          "Tudor",
+          "Makadara Ward-mji Wa Kale",
+          "Tononoka",
+          "Ganjoni Ward-shimanzi",
+          "Majengo"
+        ]
+      },
+      {
+        "name": "Nyali",
+        "towns": [
+          "Frere Town",
+          "Kongowea",
+          "Kadzandani",
+          "Ziwa La Ng'ombe",
+          "Mkomani"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Murang'a",
+    "lgas": [
+      {
+        "name": "Gatanga",
+        "towns": [
+          "Ithanga",
+          "Kakuzi/mitubiri",
+          "Mugumo-ini",
+          "Kihumbu-ini",
+          "Gatanga",
+          "Kariara"
+        ]
+      },
+      {
+        "name": "Kandara",
+        "towns": [
+          "Kimorori/wempa",
+          "Makuyu",
+          "Kambiti",
+          "Kamahuhu",
+          "Ichagaki",
+          "Nginda",
+          "Ng'araria",
+          "Muruka",
+          "Kagundu-ini",
+          "Gaichanjiru",
+          "Ithiru",
+          "Ruchu"
+        ]
+      },
+      {
+        "name": "Kangema",
+        "towns": [
+          "Kanyenya-ini",
+          "Muguru",
+          "Rwathia"
+        ]
+      },
+      {
+        "name": "Kigumo",
+        "towns": [
+          "Kahumbu",
+          "Muthithi",
+          "Kigumo",
+          "Kangari",
+          "Kinyona"
+        ]
+      },
+      {
+        "name": "Kiharu",
+        "towns": [
+          "Wangu",
+          "Mugoiri",
+          "Mbiri",
+          "Township",
+          "Murarandia",
+          "Gaturi"
+        ]
+      },
+      {
+        "name": "Maragwa",
+        "towns": [
+          "Maragwa"
+        ]
+      },
+      {
+        "name": "Mathioya",
+        "towns": [
+          "Kiru",
+          "Kamacharia",
+          "Gitugi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nairobi",
+    "lgas": [
+      {
+        "name": "Dagoretti",
+        "towns": [
+          "Kilimani",
+          "Kileleshwa",
+          "Kawangware",
+          "Kabiro",
+          "Mutu-ini",
+          "Ngando",
+          "Riruta",
+          "Uthiru/ruthimitu",
+          "Waithaka",
+          "Gatina"
+        ]
+      },
+      {
+        "name": "Embakasi Central",
+        "towns": [
+          "Kayole North",
+          "Kayole Central",
+          "Kayole South",
+          "Komarock",
+          "Matopeni/spring Valley"
+        ]
+      },
+      {
+        "name": "Embakasi East",
+        "towns": [
+          "Lower Savanna",
+          "Embakasi",
+          "Utawala",
+          "Mihango",
+          "Upper Savanna"
+        ]
+      },
+      {
+        "name": "Embakasi North",
+        "towns": [
+          "Dandora Area Iv",
+          "Kariobangi North",
+          "Dandora Area I",
+          "Dandora Area Ii",
+          "Dandora Area Iii"
+        ]
+      },
+      {
+        "name": "Embakasi South",
+        "towns": [
+          "Imara Daima",
+          "Pipeline",
+          "Kwa Njenga",
+          "Kwa Reuben",
+          "Kware"
+        ]
+      },
+      {
+        "name": "Embakasi West",
+        "towns": [
+          "Umoja I",
+          "Umoja Ii",
+          "Mowlem",
+          "Kariobangi South"
+        ]
+      },
+      {
+        "name": "Kamukunji",
+        "towns": [
+          "Eastleigh South",
+          "Eastleigh North",
+          "California",
+          "Pumwani",
+          "Airbase"
+        ]
+      },
+      {
+        "name": "Kasarani",
+        "towns": [
+          "Mwiki",
+          "Kasarani",
+          "Clay City",
+          "Njiru",
+          "Ruai"
+        ]
+      },
+      {
+        "name": "Kibra",
+        "towns": [
+          "Woodley/kenyatta Golf Course",
+          "Laini Saba",
+          "Lindi",
+          "Makina",
+          "Sarang'ombe"
+        ]
+      },
+      {
+        "name": "Kilimani",
+        "towns": [
+          "Kilimani"
+        ]
+      },
+      {
+        "name": "Langata",
+        "towns": [
+          "Karen",
+          "Nairobi West",
+          "Mugumo-ini",
+          "South C",
+          "Nyayo Highrise"
+        ]
+      },
+      {
+        "name": "Makadara",
+        "towns": [
+          "Viwandani",
+          "Harambee",
+          "Makongeni",
+          "Maringo/hamza"
+        ]
+      },
+      {
+        "name": "Mathare",
+        "towns": [
+          "Huruma",
+          "Hospital",
+          "Mabatini",
+          "Ngei",
+          "Mlango Kubwa",
+          "Kiamaiko"
+        ]
+      },
+      {
+        "name": "Roysambu",
+        "towns": [
+          "Zimmerman",
+          "Roysambu",
+          "Githurai",
+          "Kahawa West",
+          "Kahawa"
+        ]
+      },
+      {
+        "name": "Ruaraka",
+        "towns": [
+          "Mathare North",
+          "Lucky Summer",
+          "Korogocho",
+          "Babandogo",
+          "Utalii"
+        ]
+      },
+      {
+        "name": "Starehe",
+        "towns": [
+          "Landimawe",
+          "Nairobi South",
+          "Nairobi Central",
+          "Ngara Ward",
+          "Pangani",
+          "Ziwani/kariokor"
+        ]
+      },
+      {
+        "name": "Westlands",
+        "towns": [
+          "Parklands/highridge",
+          "Karura",
+          "Kangemi",
+          "Mountain View",
+          "Kitisuru"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nandi",
+    "lgas": [
+      {
+        "name": "Aldai",
+        "towns": [
+          "Kemeloi-maraba",
+          "Kobujoi",
+          "Kaptumo/kaboi",
+          "Koyo/ndurio",
+          "Kabwareng",
+          "Terik"
+        ]
+      },
+      {
+        "name": "Chesumei",
+        "towns": [
+          "Nandi hills",
+          "Chepkunyuk",
+          "Lelmoko/ngechek",
+          "Chemundu/kapng'etunyi",
+          "Kapsimotwo",
+          "Ol'lessos",
+          "Kapchorua",
+          "Kosirai",
+          "Kaptel/kamoiywo",
+          "Kiptuiya"
+        ]
+      },
+      {
+        "name": "Emgwen",
+        "towns": [
+          "Chepkumia",
+          "Kapsabet",
+          "Kilibwoni",
+          "Kapkangani"
+        ]
+      },
+      {
+        "name": "Mosop",
+        "towns": [
+          "Ndalat",
+          "Sangalo/kebulonik",
+          "Chepterwai",
+          "Kipkaren",
+          "Kurgung/surungai",
+          "Kabiyet",
+          "Kabisaga"
+        ]
+      },
+      {
+        "name": "Nandi Hills",
+        "towns": [
+          "Nandi Hills"
+        ]
+      },
+      {
+        "name": "Tinderet",
+        "towns": [
+          "Songhor/Soba",
+          "Tinderet",
+          "Chemelil/chemase"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Narok",
+    "lgas": [
+      {
+        "name": "Emurua Dikirr",
+        "towns": [
+          "Iikerin",
+          "Ololmasani",
+          "Mogondo",
+          "Kapsasian"
+        ]
+      },
+      {
+        "name": "Kilgoris",
+        "towns": [
+          "Kilgoris Central",
+          "Keyian",
+          "Angata Barikoi",
+          "Shankoe",
+          "Kimintet",
+          "Lolgorian"
+        ]
+      },
+      {
+        "name": "Narok East",
+        "towns": [
+          "Mosiro",
+          "Ildamat",
+          "Keekonyokie",
+          "Suswa"
+        ]
+      },
+      {
+        "name": "Narok North",
+        "towns": [
+          "Olorropil",
+          "Melili",
+          "Olposimoru",
+          "Olokurto",
+          "Narok Town",
+          "Nkareta"
+        ]
+      },
+      {
+        "name": "Narok South",
+        "towns": [
+          "Maji Moto/naroosura",
+          "Ololulung'a",
+          "Melelo",
+          "Loita",
+          "Sogoo",
+          "Sagamian"
+        ]
+      },
+      {
+        "name": "Narok West",
+        "towns": [
+          "Ilmotiook",
+          "Mara",
+          "Siana",
+          "Naikarra"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nyamira",
+    "lgas": [
+      {
+        "name": "Borabu",
+        "towns": [
+          "Nyamaiya",
+          "Bogichora",
+          "Bosamaro",
+          "Bonyamatuta",
+          "Township",
+          "Mekenene",
+          "Kiabonyoru",
+          "Nyansiongo",
+          "Esise"
+        ]
+      },
+      {
+        "name": "Kitutu Masaba",
+        "towns": [
+          "Kamera",
+          "Magombo",
+          "Manga"
+        ]
+      },
+      {
+        "name": "North Mugirango",
+        "towns": [
+          "Rigoma",
+          "Gachuba",
+          "Gesima"
+        ]
+      },
+      {
+        "name": "West Mugirango",
+        "towns": [
+          "Itibo",
+          "Bomwagamo",
+          "Bokeira",
+          "Magwagwa",
+          "Ekerenyo"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nyandarua",
+    "lgas": [
+      {
+        "name": "Kinangop",
+        "towns": [
+          "Engineer",
+          "Gathara",
+          "North kinangop",
+          "Murungaru",
+          "Njabani/kiburu",
+          "Nyakio",
+          "Githabai",
+          "Magumu"
+        ]
+      },
+      {
+        "name": "Kipipiri",
+        "towns": [
+          "Githioro",
+          "Wanjohi",
+          "Kipipiri",
+          "Geta"
+        ]
+      },
+      {
+        "name": "Ndaragwa",
+        "towns": [
+          "Leshau/pondo",
+          "Kiritta",
+          "Central",
+          "Shamata"
+        ]
+      },
+      {
+        "name": "Ol Jorok",
+        "towns": [
+          "Charagita",
+          "Gathanji",
+          "Gatimu",
+          "Weru"
+        ]
+      },
+      {
+        "name": "Ol Kalou",
+        "towns": [
+          "Kanjuiri range",
+          "Rurii",
+          "Karau",
+          "Mirangine",
+          "Kaimbaga"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nyeri",
+    "lgas": [
+      {
+        "name": "Kieni",
+        "towns": [
+          "Mweiga",
+          "Naromoru/kiamathaga",
+          "Mwiyogo/endarasha",
+          "Mugunda",
+          "Gatarakwa",
+          "Thegu river",
+          "Kabaru",
+          "Gakawa"
+        ]
+      },
+      {
+        "name": "Mathira",
+        "towns": [
+          "Karatina town",
+          "Iriaini",
+          "Konyu",
+          "Kirimukuyu",
+          "Ruguru",
+          "Magutu"
+        ]
+      },
+      {
+        "name": "Mukurweni",
+        "towns": [
+          "Gikondi",
+          "Rugi",
+          "Mukurwe-ini west",
+          "Mukurwe-ini central"
+        ]
+      },
+      {
+        "name": "Nyeri Town",
+        "towns": [
+          "Kiganjo/mathari",
+          "Rware",
+          "Gatitu/muruguru",
+          "RURING'U / Karia",
+          "Kamakwa/mukaro"
+        ]
+      },
+      {
+        "name": "Othaya",
+        "towns": [
+          "Iria-ini",
+          "Chinga",
+          "Karima",
+          "Mahiga"
+        ]
+      },
+      {
+        "name": "Tetu",
+        "towns": [
+          "Dedan kimathi",
+          "Wamagana",
+          "Aguthi-gaaki"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Samburu",
+    "lgas": [
+      {
+        "name": "Samburu East",
+        "towns": [
+          "Waso",
+          "Wamba west",
+          "Wamba east",
+          "Wamba north"
+        ]
+      },
+      {
+        "name": "Samburu North",
+        "towns": [
+          "El-barta",
+          "Nachola",
+          "Ndoto",
+          "Nyiro"
+        ]
+      },
+      {
+        "name": "Samburu West",
+        "towns": [
+          "Maralal",
+          "Loosuk",
+          "Porro",
+          "Angata nayokie",
+          "Baawa",
+          "Suguta Marmar",
+          "Lodokejek"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Siaya",
+    "lgas": [
+      {
+        "name": "Alego Usonga",
+        "towns": [
+          "Usonga",
+          "West Alego",
+          "Central Alego",
+          "Siaya Township",
+          "North Alego",
+          "South East Alego"
+        ]
+      },
+      {
+        "name": "Bondo",
+        "towns": [
+          "West Yimbo",
+          "Central Sakwa",
+          "South Sakwa",
+          "Yimbo East",
+          "West Sakwa",
+          "North Sakwa"
+        ]
+      },
+      {
+        "name": "Gem",
+        "towns": [
+          "North Gem",
+          "West Gem",
+          "Central Gem",
+          "Yala Township",
+          "East Gem",
+          "South Gem"
+        ]
+      },
+      {
+        "name": "Rarieda",
+        "towns": [
+          "North Uyoma",
+          "South Uyoma",
+          "West Uyoma",
+          "East Asembo",
+          "West Asembo"
+        ]
+      },
+      {
+        "name": "Ugenya",
+        "towns": [
+          "West Ugenya",
+          "Ukwala",
+          "North Ugenya",
+          "East Ugenya"
+        ]
+      },
+      {
+        "name": "Ugunja",
+        "towns": [
+          "Sidindi",
+          "Sigomere",
+          "Ugunja"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taita Taveta",
+    "lgas": [
+      {
+        "name": "Mwatate",
+        "towns": [
+          "Bura",
+          "Ronge",
+          "Mwatate",
+          "Wusi/kishamba",
+          "Chawia"
+        ]
+      },
+      {
+        "name": "Taveta",
+        "towns": [
+          "Chala",
+          "Mata",
+          "Bomani",
+          "Mboghoni",
+          "Mahoo"
+        ]
+      },
+      {
+        "name": "Voi",
+        "towns": [
+          "Kasigau",
+          "Mbololo",
+          "Sagala",
+          "Marungu",
+          "Ngolia",
+          "Kaloleni"
+        ]
+      },
+      {
+        "name": "Wundanyi",
+        "towns": [
+          "Wundanyi/mbale",
+          "Wumingu/kishushe",
+          "Mwanda/mgange",
+          "Werugha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tana River",
+    "lgas": [
+      {
+        "name": "Bura",
+        "towns": [
+          "Bangale",
+          "Sala",
+          "Hirimani",
+          "Chewele",
+          "Madogo"
+        ]
+      },
+      {
+        "name": "Galole",
+        "towns": [
+          "Chewani",
+          "Kinakomba",
+          "Mikinduni",
+          "Wayu"
+        ]
+      },
+      {
+        "name": "Garsen",
+        "towns": [
+          "Kipini east",
+          "Garsen south",
+          "Kipini west",
+          "Garsen central",
+          "Garsen west",
+          "Garsen north"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "lgas": [
+      {
+        "name": "Maara",
+        "towns": [
+          "Mitheru",
+          "Muthambi",
+          "Karingani",
+          "Magumoni",
+          "Mugwe"
+        ]
+      },
+      {
+        "name": "Nithi",
+        "towns": [
+          "Mwimbi",
+          "Ganga",
+          "Chogoria",
+          "Igambang`ombe",
+          "Mariani"
+        ]
+      },
+      {
+        "name": "Tharaka",
+        "towns": [
+          "Gatunga",
+          "Mukothima",
+          "Nkondi",
+          "Chiakagira",
+          "Marimanti"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trans Nzoia",
+    "lgas": [
+      {
+        "name": "Cherangany",
+        "towns": [
+          "Makutano",
+          "Kaplamai",
+          "Motosiet",
+          "Cherangany/suwerwa",
+          "Chepsiro/kiptoror",
+          "Sinyerere",
+          "Sitatunga"
+        ]
+      },
+      {
+        "name": "Endebess",
+        "towns": [
+          "Chepchoina",
+          "Endebess",
+          "Matumbei"
+        ]
+      },
+      {
+        "name": "Kiminini",
+        "towns": [
+          "Kiminini",
+          "Waitaluk",
+          "Sirende",
+          "Nabiswa",
+          "Hospital",
+          "Sikhendu"
+        ]
+      },
+      {
+        "name": "Kwanza",
+        "towns": [
+          "Kapomboi",
+          "Kwanza",
+          "Keiyo",
+          "Bidii"
+        ]
+      },
+      {
+        "name": "Saboti",
+        "towns": [
+          "Kinyoro",
+          "Matisi",
+          "Tuwani",
+          "Saboti",
+          "Machewa"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turkana",
+    "lgas": [
+      {
+        "name": "Loima",
+        "towns": [
+          "Turkwel",
+          "Lokiriama/Lorengippi",
+          "Kotaruk/Lobei",
+          "Loima"
+        ]
+      },
+      {
+        "name": "Turkana Central",
+        "towns": [
+          "Kerio Delta",
+          "KANG'ATOTHA",
+          "Kalokol",
+          "Lodwar Township",
+          "Kanamkemer"
+        ]
+      },
+      {
+        "name": "Turkana East",
+        "towns": [
+          "Kapedo/napeitom",
+          "Katilia",
+          "Lokori/kochodin"
+        ]
+      },
+      {
+        "name": "Turkana North",
+        "towns": [
+          "Kaeris",
+          "Lakezone",
+          "Lapur",
+          "Kaaleng/kaikor",
+          "Kibish"
+        ]
+      },
+      {
+        "name": "Turkana South",
+        "towns": [
+          "Kaputir",
+          "Lobokat",
+          "Kalapata",
+          "Lokichar",
+          "Katilu"
+        ]
+      },
+      {
+        "name": "Turkana West",
+        "towns": [
+          "Nakalale",
+          "Lopur",
+          "Letea",
+          "Songot",
+          "Lokichoggio",
+          "Kakuma",
+          "Kalobeyei",
+          "Nanaam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uasin Gishu",
+    "lgas": [
+      {
+        "name": "Ainabkoi",
+        "towns": [
+          "Kapsoya",
+          "Kaptagat",
+          "Ainabkoi/olare"
+        ]
+      },
+      {
+        "name": "Kapseret",
+        "towns": [
+          "Simat/ Kapseret",
+          "Kipkenyo",
+          "Megun",
+          "Ngeria",
+          "Langas"
+        ]
+      },
+      {
+        "name": "Kesses",
+        "towns": [
+          "Racecourse",
+          "Cheptiret/kipchamo",
+          "Tulwet/chiyat",
+          "Tarakwa"
+        ]
+      },
+      {
+        "name": "Moiben",
+        "towns": [
+          "Tembelio",
+          "Sergoit",
+          "Karuna/meibeki",
+          "Moiben",
+          "Kimumu"
+        ]
+      },
+      {
+        "name": "Soy",
+        "towns": [
+          "Moi's Bridge",
+          "Kapkures",
+          "Ziwa",
+          "Soy",
+          "Kuinet/kapsuswa",
+          "Segeroi/barsombe",
+          "Kipsomba"
+        ]
+      },
+      {
+        "name": "Turbo",
+        "towns": [
+          "Ngenyilel",
+          "Tapsagoi",
+          "Kamagut",
+          "Kiplombe",
+          "Kapsaos",
+          "Huruma"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vihiga",
+    "lgas": [
+      {
+        "name": "Emuhaya",
+        "towns": [
+          "North East Bunyore",
+          "Central Bunyore",
+          "West Bunyore"
+        ]
+      },
+      {
+        "name": "Hamisi",
+        "towns": [
+          "Shiru",
+          "Gisambai",
+          "Muhudu",
+          "Tambua",
+          "Jepkoyai",
+          "Banja",
+          "Shamakhokho"
+        ]
+      },
+      {
+        "name": "Luanda",
+        "towns": [
+          "Luanda South",
+          "Luanda Township",
+          "Wemilabi",
+          "Mwibona",
+          "Emabungo"
+        ]
+      },
+      {
+        "name": "Sabatia",
+        "towns": [
+          "Chavakali",
+          "Busali",
+          "Lyaduywa/izava",
+          "West Sabatia",
+          "North Maragoli",
+          "Wodanga"
+        ]
+      },
+      {
+        "name": "Vihiga",
+        "towns": [
+          "South Maragoli",
+          "Lugaga-wamuluma",
+          "Central Maragoli",
+          "Mungoma"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wajir",
+    "lgas": [
+      {
+        "name": "Eldas",
+        "towns": [
+          "Elnur/tula tula",
+          "Eldas",
+          "Della",
+          "Lakoley south/basir"
+        ]
+      },
+      {
+        "name": "Tarbaj",
+        "towns": [
+          "Elben",
+          "Sarman",
+          "Tarbaj",
+          "Wargadud"
+        ]
+      },
+      {
+        "name": "Wajir East",
+        "towns": [
+          "Khorof/Harar",
+          "Wagberi",
+          "Township",
+          "Barwaqo"
+        ]
+      },
+      {
+        "name": "Wajir North",
+        "towns": [
+          "Malkagufu",
+          "Batalu",
+          "Godoma",
+          "Bute",
+          "Korondile",
+          "Gurar",
+          "Danaba"
+        ]
+      },
+      {
+        "name": "Wajir South",
+        "towns": [
+          "Benane",
+          "Burder",
+          "Ibrahim ure",
+          "Dadaja bulla",
+          "Habasswein",
+          "Lagboghoi south",
+          "Diif"
+        ]
+      },
+      {
+        "name": "Wajir West",
+        "towns": [
+          "Hadado Athibohol",
+          "Arbajahan",
+          "ADEMASAJIDE",
+          "Ganyure Wagalla"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "West Pokot",
+    "lgas": [
+      {
+        "name": "Kacheliba",
+        "towns": [
+          "Suam",
+          "Kodich",
+          "Kasei",
+          "Kapchok",
+          "Kiwawa",
+          "Alale"
+        ]
+      },
+      {
+        "name": "Kapenguria",
+        "towns": [
+          "Riwo",
+          "Kapenguria",
+          "Mnagei",
+          "Siyoi",
+          "Endugh",
+          "Sook"
+        ]
+      },
+      {
+        "name": "Pokot South",
+        "towns": [
+          "Chepareria",
+          "Batei",
+          "Lelan",
+          "Tapach"
+        ]
+      },
+      {
+        "name": "Sigor",
+        "towns": [
+          "Sekerr",
+          "Masool",
+          "Lomut",
+          "Wei wei"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nakuru",
+    "lgas": [
+      {
+        "name": "Bahati",
+        "towns": [
+          "Dundori",
+          "Kabatini",
+          "Kiamaina",
+          "Lanet/umoja",
+          "Bahati"
+        ]
+      },
+      {
+        "name": "Gilgil",
+        "towns": [
+          "Gilgil",
+          "Elementaita",
+          "Mbaruk/eburu",
+          "Malewa West",
+          "Murindat"
+        ]
+      },
+      {
+        "name": "Kuresoi North",
+        "towns": [
+          "Kiptororo",
+          "Nyota",
+          "Sirikwa",
+          "Kamara"
+        ]
+      },
+      {
+        "name": "Kuresoi South",
+        "towns": [
+          "Amalo",
+          "Keringet",
+          "Kiptagich",
+          "Tinet"
+        ]
+      },
+      {
+        "name": "Molo",
+        "towns": [
+          "Elburgon",
+          "Mariashoni",
+          "Turi",
+          "Molo"
+        ]
+      },
+      {
+        "name": "Naivasha",
+        "towns": [
+          "Biashara",
+          "Hells Gate",
+          "Lake View",
+          "Mai Mahiu",
+          "Maeilla",
+          "Olkaria",
+          "Naivasha East",
+          "Viwandani"
+        ]
+      },
+      {
+        "name": "Nakuru Town East",
+        "towns": [
+          "Biashara",
+          "Kivumbini",
+          "Flamingo",
+          "Menengai",
+          "Nakuru East"
+        ]
+      },
+      {
+        "name": "Nakuru Town West",
+        "towns": [
+          "Kaptembwo",
+          "Kapkures",
+          "Rhoda",
+          "Shaabab",
+          "Barut",
+          "London"
+        ]
+      },
+      {
+        "name": "Njoro",
+        "towns": [
+          "Njoro",
+          "Mau Narok",
+          "Mauche",
+          "Kihingo",
+          "Nessuit",
+          "Lare"
+        ]
+      },
+      {
+        "name": "Rongai",
+        "towns": [
+          "Menengai West",
+          "Visoi",
+          "Soin",
+          "Mosop",
+          "Solai"
+        ]
+      },
+      {
+        "name": "Subukia",
+        "towns": [
+          "Subukia",
+          "Waseges",
+          "Kabazi"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "name": "@softalxhq/location-selector",
+  "version": "0.4.0",
+  "description": "Framework-agnostic country → state/region → LGA/district → town location data (Africa + US + UK)",
+  "license": "MIT",
+  "author": "Alex",
+  "homepage": "https://lsdemo.vercel.app/",
+  "keywords": [
+    "location",
+    "nigeria",
+    "ghana",
+    "kenya",
+    "south-africa",
+    "egypt",
+    "ethiopia",
+    "tanzania",
+    "uganda",
+    "rwanda",
+    "senegal",
+    "morocco",
+    "usa",
+    "uk",
+    "cascading-select"
+  ],
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "data",
+    "README.md",
+    "demo.jpg"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  },
+  "packageManager": "pnpm@10.14.0+sha512.ad27a79641b49c3e481a16a805baa71817a04bbe06a38d17e60e2eaee83f6a146c6a688125f5792e48dd5ba30e7da52a5cda4c3992b9ccf333f9ce223af84748"
+}

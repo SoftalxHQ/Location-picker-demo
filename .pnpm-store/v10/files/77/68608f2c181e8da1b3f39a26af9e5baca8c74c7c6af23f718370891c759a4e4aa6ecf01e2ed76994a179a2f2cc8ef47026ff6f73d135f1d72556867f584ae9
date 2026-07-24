@@ -1,0 +1,15 @@
+[
+  { "code": "NG", "name": "Nigeria" },
+  { "code": "GH", "name": "Ghana" },
+  { "code": "US", "name": "United States" },
+  { "code": "GB", "name": "United Kingdom" },
+  { "code": "KE", "name": "Kenya" },
+  { "code": "ZA", "name": "South Africa" },
+  { "code": "EG", "name": "Egypt" },
+  { "code": "ET", "name": "Ethiopia" },
+  { "code": "TZ", "name": "Tanzania" },
+  { "code": "UG", "name": "Uganda" },
+  { "code": "RW", "name": "Rwanda" },
+  { "code": "SN", "name": "Senegal" },
+  { "code": "MA", "name": "Morocco" }
+]

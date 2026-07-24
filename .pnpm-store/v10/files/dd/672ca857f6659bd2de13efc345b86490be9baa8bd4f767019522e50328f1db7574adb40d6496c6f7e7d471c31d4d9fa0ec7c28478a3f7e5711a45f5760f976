@@ -1,0 +1,7692 @@
+[
+  {
+    "name": "Alexandria",
+    "lgas": [
+      {
+        "name": "A L Labban",
+        "towns": [
+          "El-Gedod wa El-Labban - El-Warsha",
+          "El-Gineina El-Saghira w Kom Bekir",
+          "El-Gineina El-Kabira w Souq El-Ma'iz",
+          "El-Hara El-Wase'a w El-Takhshiba",
+          "Al-Sikka Al-Jadida wal Tartoushi",
+          "El-Sabourah",
+          "Al-Nagaa Al-Gedid",
+          "Al-Nagaa Al-Qadim",
+          "Bab Sedret el-Gawani w Geninet el-Ouyouni w el-Sakouneya",
+          "Haret al-Faraheda",
+          "Souq Al-Gomaa wa Al-Mounir",
+          "Mashmas al-Basal"
+        ]
+      },
+      {
+        "name": "Al Amreia",
+        "towns": [
+          "Al-Diraa al-Bahari",
+          "El-Aamriya Sharq",
+          "El-Aamriya Gharb",
+          "El-Agamy El-Qibliya - Om Zaghiw",
+          "Al-Hawariya",
+          "Eikingy Mariout",
+          "Zawiyat Abd al-Qadir",
+          "Qita' El-Nahda",
+          "Qita' Mariout",
+          "Margham"
+        ]
+      },
+      {
+        "name": "Al Attarin",
+        "towns": [
+          "El-Souri",
+          "El-Attarin Sharq",
+          "El-Attarin Gharb",
+          "El-Marghani",
+          "El-Masalla Sharq",
+          "El-Masalla Gharb wa Sherif Pasha",
+          "Koum El Dekka Sharq",
+          "Koum El Dekka Gharb"
+        ]
+      },
+      {
+        "name": "Al Dikhila",
+        "towns": [
+          "El-Bitash Sharq",
+          "El-Bitash Gharb",
+          "Al-Dakhila",
+          "El-Agamy El-Bahariya",
+          "El-Maks"
+        ]
+      },
+      {
+        "name": "Al Gumruk",
+        "towns": [
+          "Abu Shusha",
+          "El-Baraka",
+          "El-Balqatriya",
+          "El-Tamraziya",
+          "El-Hagari",
+          "El-Halwagi",
+          "Al-Siyala Sharq",
+          "Al-Siyala Gharb",
+          "El-Shamarliyouz Zawiyat El-A'raj",
+          "El-Sayyadin",
+          "El-Mazar",
+          "El-Maghawri",
+          "Haret Madawwara",
+          "Ras al-Tin",
+          "Zawiyat al-Qabaniya",
+          "Zawiyat Khattab",
+          "Souq Al-Samak Al-Qadim",
+          "Safar Basha",
+          "Qabw El-Mallaha"
+        ]
+      },
+      {
+        "name": "Al Manshiyya",
+        "towns": [
+          "Al-Manshiya Al-Kubra",
+          "Al-Hamamil",
+          "Souq Al-Turk",
+          "Souq Al-Bersim"
+        ]
+      },
+      {
+        "name": "Al Raml",
+        "towns": [
+          "Al-Qas'a - Bahari Sikkah Hadid Abu Qir",
+          "Al-Qas'i Qibli",
+          "Dana al-Gedida wa Ezbet al-Wastaniya",
+          "San Stefano",
+          "Flameng"
+        ]
+      },
+      {
+        "name": "Bab Sharqi",
+        "towns": [
+          "Shiakhet El-Ibrahimia Qebli wal Hadra Bahari",
+          "Shiakhet El-Ibrahimia Bahari wa Sidi Gaber",
+          "Shiakhet El-Azarito wal Shatby",
+          "Shiakhet El-Hadra Qebli",
+          "Shiakhet Bab Sharqi wa Wabor El-Miah",
+          "Shiakhet Ezbet El-Gamaa"
+        ]
+      },
+      {
+        "name": "Burg al-Arab",
+        "towns": [
+          "Abu Sir",
+          "El-Gweira",
+          "Al-Diraa al-Bahari",
+          "Al-Sanaqra",
+          "El-Arabaniyat",
+          "Al-Nahda",
+          "Bahig",
+          "Hamlis",
+          "Hawd Sukkara wa Abu Hamad",
+          "Burj al-Arab"
+        ]
+      },
+      {
+        "name": "Burg Al-Arab City",
+        "towns": [
+          "Burj al-Arab al-Gadida"
+        ]
+      },
+      {
+        "name": "Karmuz",
+        "towns": [
+          "Al-Kara wa Al-Toubagiya wa Kafr Al-Ghatis",
+          "Bab Sedra el-Barani Bahari",
+          "Bab Sedra el-Barani Sharq",
+          "Bab Sedra el-Barani Gharb",
+          "Game' Sultan",
+          "Gheit El-Enab Sharq",
+          "Gheit El-Enab Gharb",
+          "Karmoz Sharq",
+          "Karmoz Gharb",
+          "Noubar"
+        ]
+      },
+      {
+        "name": "Kesm than Al Raml",
+        "towns": [
+          "Abis wa Khurshid",
+          "El-Zaheriya wa Ezbet El-Safih",
+          "El-Aaqsa wa Bakos",
+          "El-Mahrousa",
+          "Hagar al-Nawatiya",
+          "Za'rabana wal-Hammam"
+        ]
+      },
+      {
+        "name": "Mina Al-Basal",
+        "towns": [
+          "El-Boursa wa Kafr Ashari",
+          "El-Aamoud",
+          "Al-Qabari Sharq",
+          "Al-Qabari Gharb",
+          "El-Metras",
+          "El-Mafrouza Sharq",
+          "El-Mafrouza Gharb",
+          "Al-Wardiyan Sharq",
+          "Al-Wardiyan Gharb",
+          "El-Wardiyan Qibli",
+          "Tabiet Saleh",
+          "Koum El Shaqafa Sharq",
+          "Koum El Shaqafa Gharb"
+        ]
+      },
+      {
+        "name": "Muharam Bik",
+        "towns": [
+          "Abis 7_8_9_10",
+          "El-Bab El-Gadeed Sharqy",
+          "El-Bab El-Gadeed w Mansha",
+          "El-Sabhiyah wa Ezbet Sharaks wa Ezbet Raafat",
+          "Ambroz w Mohambak",
+          "Bowalino wal Eskandarani",
+          "Ragheb Basha"
+        ]
+      },
+      {
+        "name": "Muntazah",
+        "towns": [
+          "Abu Qir Al-Sharqiya",
+          "Abu Qir Al-Gharbiya",
+          "El-Tawfiqiya",
+          "Al-Siyouf Bahari",
+          "Al-Siyouf Qibli_Tashmal Ezbet Dirbala",
+          "El-Omrawy",
+          "Al-Qardahi",
+          "El-Ma'moura",
+          "Al-Mandara Bahari",
+          "Al-Mandara Qibli",
+          "Al-Manshiya Al-Bahariya",
+          "Al-Mohajireen",
+          "Al-Nasseriya",
+          "Khorshid al-Bahariya",
+          "Sidi Bishr Bahari",
+          "Sidi Bishr Qibli",
+          "Tolombat El-Tabia"
+        ]
+      },
+      {
+        "name": "North Coast",
+        "towns": [
+          "Al-Sahel Al-Shamali"
+        ]
+      },
+      {
+        "name": "Port Alexandria Police Department",
+        "towns": [
+          "Al-Da'ira al-Gumrukiya"
+        ]
+      },
+      {
+        "name": "Sidi Gabir",
+        "towns": [
+          "Abu Al-Nawatir",
+          "Al-Riyada",
+          "Sidi Gaber",
+          "Ezbet al-Nozha",
+          "Ezbet Saad",
+          "Mostafa Kamel wa Bolokli"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Assiut",
+    "lgas": [
+      {
+        "name": "Abnub",
+        "towns": [
+          "El-Hammam",
+          "Al-Sawalm Al-Bahariya",
+          "El-Awamer",
+          "El-Ma'abda El-Sharqiya",
+          "El-Ma'abda El-Gharbiya",
+          "Bani Ibrahim",
+          "Bani Mohamediyat",
+          "Geziret Bahig",
+          "Deir al-Jabrawi",
+          "Deir Shu",
+          "Sawalem Abnoub",
+          "Shaqlqil",
+          "Arab al-Shanabla",
+          "Arab al-Atiyat al-Bahariya",
+          "Koum Abu Sheil",
+          "Koum El Mansoura",
+          "Abnoub",
+          "Nazlet El-Qadadeeh"
+        ]
+      },
+      {
+        "name": "Abu Tig",
+        "towns": [
+          "Abu Khurs",
+          "El-Aqadema",
+          "El-Balayza",
+          "Al-Zarabi",
+          "Al-Zira",
+          "El-Mas'oudi",
+          "Al-Nakhila",
+          "Baqour",
+          "Bani Samie",
+          "Dakran",
+          "Duwayna",
+          "Abu Teeg",
+          "Nazlet Baqour"
+        ]
+      },
+      {
+        "name": "Al- Badari",
+        "towns": [
+          "El-Bayadiya",
+          "El-Sheikh Otman",
+          "El-Othmaniya",
+          "El-Aqal Bahary",
+          "El-Aqal Qibly",
+          "El-Koum El-Ahmar",
+          "El-Marawna",
+          "Al-Nawamis",
+          "Al-Nawawra",
+          "Al-Hamamiya",
+          "Toama",
+          "Ezbet al-Aqbat",
+          "Koum Saada",
+          "al-Badari",
+          "Manshaat al-Badari",
+          "Manshaat al-Oqqal",
+          "Manshaat Hammam",
+          "Nag' Geziret Faw",
+          "Nag' Zoreiq",
+          "Nogou' El-Maadi"
+        ]
+      },
+      {
+        "name": "Al-Ghanayem",
+        "towns": [
+          "El-Aamry",
+          "El-Azayza",
+          "El-Mashay'a Qibli",
+          "El-Mashay'a Bahari",
+          "Deir al-Janadla",
+          "al-Ghanayem",
+          "Nazlet El-Qadeem",
+          "Nazlet Awlad Mohamed"
+        ]
+      },
+      {
+        "name": "Al-Qusia",
+        "towns": [
+          "Abu Khalil",
+          "El-Ansar",
+          "El-Tatalya",
+          "El-Temsahiya",
+          "El-Habalsa",
+          "El-Haradna",
+          "Al-Sarraqna",
+          "El-Sheikh Dawoud",
+          "El-Sheikh Ounallah",
+          "El-Sabha",
+          "Al-Manshaat Al-Sughra",
+          "Al-Manshaat Al-Kubra",
+          "Balout",
+          "Bani Idris",
+          "Bani Zeid Bouq",
+          "Bani Saleh",
+          "Bani Qorra",
+          "Bani Helal",
+          "Bani Yahya Qibli",
+          "Bo'oq",
+          "Tetagha",
+          "Deir al-Quseir",
+          "Rizqat al-Deir al-Muharraq",
+          "Aramiya al-Diwan",
+          "Arab al-Gahma",
+          "Anak",
+          "Fazara",
+          "Quseir El-Amarna",
+          "al-Qusiya",
+          "Manshaat Khashaba",
+          "Meir",
+          "Nazaly Ganoub"
+        ]
+      },
+      {
+        "name": "Alfath",
+        "towns": [
+          "El-Akrad",
+          "El-Tawabiyah",
+          "El-Atiyat El-Qibliya",
+          "Al-Fima",
+          "Al-Qasr",
+          "Al-Qouta",
+          "Al-Kalabat",
+          "El-Ma'sara",
+          "Al-Wasta",
+          "Awlad Badr",
+          "Awlad Sarag",
+          "Basra",
+          "Bani Zeid",
+          "Bani Taleb",
+          "Bani Alig",
+          "Bani Mar",
+          "Tell Awlad Serag",
+          "Deir Basra",
+          "Araba al-Tawila",
+          "Arab Matir",
+          "Madinet El Fath wa Tashmal El Nasriya",
+          "Manshaat al-Ma'sara",
+          "Nazlet El-Assara"
+        ]
+      },
+      {
+        "name": "Assuit",
+        "towns": [
+          "El-Boura",
+          "El-Hassani",
+          "Al-Zawya",
+          "El-Shaghabah",
+          "El-Adar",
+          "El-Moti'a",
+          "Al-Namayisa",
+          "Al-Hadaya",
+          "Awlad Ali",
+          "Awlad Ibrahim",
+          "Awlad Rayeq",
+          "Bani Hussein",
+          "Bani Ghalib",
+          "Bahig",
+          "Daranka",
+          "Deir Dronka",
+          "Rifa",
+          "Salam",
+          "Shatb",
+          "Alwan",
+          "Qarqarous",
+          "Masraa",
+          "Manqabad",
+          "Mousha",
+          "Nag' El-Eisawiya",
+          "Nag' Sabaa",
+          "Nag' Abd El-Rasoul Abu Hasouba",
+          "Nogou' Beni Hussein",
+          "Nazlet Abdel-Elah"
+        ]
+      },
+      {
+        "name": "Assuit City",
+        "towns": [
+          "Madinet Assiut El Gedida"
+        ]
+      },
+      {
+        "name": "Dayrut",
+        "towns": [
+          "Abu Al-Hadar",
+          "Abu Karim",
+          "El-Howta El-Sharqiya",
+          "El-Howta El-Gharbiya",
+          "Al-Riyadh",
+          "El-Mahmoudia",
+          "El-Mataw'a",
+          "El-Manashi",
+          "Al-Mandara Bahari",
+          "Al-Nihaya",
+          "Amshoul",
+          "Banoub Zahr el-Gammal",
+          "Bawit",
+          "Beblaw",
+          "Bani Yahya Bahari",
+          "Garf Sarhan",
+          "Kharfa",
+          "Dashlout",
+          "Deirout al-Sharif",
+          "Zawiyat Haroun",
+          "Saw",
+          "Sarqana",
+          "Shalash",
+          "Sanbou",
+          "Aramiya al-Khudairi",
+          "Awaga",
+          "Qasr Haidar",
+          "Koudyet Mubarak",
+          "Koum Angasha",
+          "Koum Bouha Bahari",
+          "Deirout",
+          "Marina",
+          "Massara",
+          "Nag' Khodeir",
+          "Nazlet El-Awamer",
+          "Nazlet Badawi",
+          "Nazlet Saw",
+          "Nazlet Sarqana",
+          "Nazlet Zaher",
+          "Nazlet Abdalla",
+          "Nazlet Farag Mahmoud",
+          "Nazlet Mostafa Abdel-Halim"
+        ]
+      },
+      {
+        "name": "Kesm Awal Assuit",
+        "towns": [
+          "Shiakhet El-Oula",
+          "Shiakhet El-Baysari",
+          "Shiakhet El-Thaletha",
+          "Shiakhet El-Khamisa",
+          "Shiakhet El-Rabea",
+          "Shiakhet El-Sadsa",
+          "Shiakhet El-Sherkat",
+          "Shiakhet El-Madabigh wa Gabbanat El-Muslimeen",
+          "Shiakhet Thania"
+        ]
+      },
+      {
+        "name": "Kesm Than Assuit",
+        "towns": [
+          "Shiakhet El-Hamraa El-Oula",
+          "Shiakhet El-Hamraa El-Thania",
+          "Shiakhet El-Sabea",
+          "Shiakhet El-Walideya El-Bahareya",
+          "Shiakhet El-Walideya El-Qebliya",
+          "Shiakhet El-Walideya El-Wastaneya"
+        ]
+      },
+      {
+        "name": "Manfalut",
+        "towns": [
+          "El-Gawli",
+          "El-Hawatka",
+          "Al-Sahrij",
+          "El-Atamna",
+          "El-Ezba",
+          "El-Madawwar",
+          "Al-Mandara Qibli",
+          "Om el-Qusour",
+          "Bani Rafea",
+          "Bani Sanad",
+          "Bani Shaaran",
+          "Bani Shaqir",
+          "Bani Adiyat",
+          "Bani Magd",
+          "Gahdam",
+          "Geziret El-Ma'abda El-Bahariya",
+          "Damanhour",
+          "Sarawa",
+          "Sukkarah",
+          "Arab al-Amayem",
+          "Koum El Shahid",
+          "Koum Bouha Qibli",
+          "Manfalout",
+          "Nazlet Romeih",
+          "Nazlet Qarar wa Guheina"
+        ]
+      },
+      {
+        "name": "Sahil Silim",
+        "towns": [
+          "El-Tanagha",
+          "Al-Khawaled",
+          "Al-Ruweigat",
+          "Al-Shamiya",
+          "El-Afadra",
+          "El-Ouna",
+          "Al-Gharib",
+          "El-Louqa",
+          "El-Matmar",
+          "Al-Nazla Al-Mustagedda",
+          "Bowait",
+          "Tasa",
+          "Deir Tasa",
+          "Sahel Selim",
+          "Nazlet Bakhoum",
+          "Nazlet El-Sheikh Shahata",
+          "Nazlet El-Malek"
+        ]
+      },
+      {
+        "name": "Sidfa",
+        "towns": [
+          "El-Ablaq",
+          "El-Baroud Sharq",
+          "El-Baroud Gharb",
+          "El-Barba",
+          "Al-Duweir",
+          "El-Shanayinah",
+          "El-Kourdi",
+          "El-Wa'adla",
+          "Awlad el-Yas",
+          "Bani Faiz",
+          "Kardous",
+          "Koum Abu Hagar",
+          "Koum Asfaht",
+          "Koum Said El Gharbi",
+          "Keiman Said El Sharqi wa Toma",
+          "Magrees",
+          "Sidfa",
+          "Nogou' El-Sadadra"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Aswan",
+    "lgas": [
+      {
+        "name": "Abu Simbel",
+        "towns": [
+          "Adandan",
+          "Qastil",
+          "Abu Simbel"
+        ]
+      },
+      {
+        "name": "Adfu",
+        "towns": [
+          "Edfu Qebly",
+          "El-Ahrar",
+          "El-Ashraf",
+          "El-Eiman",
+          "El-Basaliya El-Wusta",
+          "El-Basaliya Qibli",
+          "El-Gihad",
+          "El-Hagz Bahari",
+          "El-Hagz Qibli",
+          "Al-Ridisia Bahari",
+          "Al-Ramadi Bahari",
+          "Al-Ramadi Qibli",
+          "Al-Ra'isiya",
+          "Al-Sharawna",
+          "El-Shahadah",
+          "El-Sa'aydah",
+          "El-Tounab",
+          "Al-Qanan",
+          "Al-Karama",
+          "Al-Kalh Sharq",
+          "Al-Kalh Gharb",
+          "El-Marwa",
+          "Al-Nidal",
+          "Amr ibn al-Aas",
+          "Madinet El Baseila Bahari",
+          "Madinet El Redisiya Qibli",
+          "Madinet El Sibaiya Gharb",
+          "Edfu",
+          "Mantaqat Managem El-Fosfat",
+          "Wadi Abadi 1",
+          "Wadi Abadi 2",
+          "Wadi Abadi 3",
+          "Wadi Abadi 4"
+        ]
+      },
+      {
+        "name": "Aswan",
+        "towns": [
+          "Oula",
+          "Thaletha",
+          "Thaniya",
+          "Mantaqat Khazan Aswan"
+        ]
+      },
+      {
+        "name": "Aswan",
+        "towns": [
+          "Abu Al-Rish Bahari",
+          "Abu Al-Rish Qibli",
+          "El-Aaqab",
+          "Al-Subu'",
+          "Al-Sanqari",
+          "El-Alaqy",
+          "El-Koubania",
+          "El-Malaki",
+          "Buhayrat Nasser",
+          "Geziret Baharif",
+          "Shatarma",
+          "Sahari City",
+          "Gharb Aswan",
+          "Matar Aswan",
+          "Mantaqat Hodoud Aswan",
+          "Mantaqat El-Sadd El-Aaly",
+          "Mantaqat El-Hadid wal Solb"
+        ]
+      },
+      {
+        "name": "Aswan City",
+        "towns": [
+          "Madinet Aswan El Gedida"
+        ]
+      },
+      {
+        "name": "Daraw",
+        "towns": [
+          "El-Gaafra",
+          "Al-Raqaba",
+          "El-Tuwaysah",
+          "Al-Mansouriya",
+          "Banban",
+          "Banban Qibli",
+          "Daraw",
+          "Masaken Daraw",
+          "Nogou' El-Shatb"
+        ]
+      },
+      {
+        "name": "Kum Umbu",
+        "towns": [
+          "Aqlit",
+          "Al-Sabil",
+          "El-Abbasiya",
+          "El-Atmour",
+          "Al-Kagoug",
+          "Al-Manshiya Al-Gedida",
+          "Salwah Bahari",
+          "Salwah Qibli",
+          "Fares",
+          "Fatira",
+          "Kofour Kom Ombo",
+          "Kom Ombo",
+          "Maliha",
+          "Manshiet El-Raghamah",
+          "Nemra 7 Bahari",
+          "Nemra 7 Qebli"
+        ]
+      },
+      {
+        "name": "Nasr",
+        "towns": [
+          "Abrim",
+          "Abu Hur",
+          "Abu Sunbul",
+          "Adandan",
+          "Armana",
+          "El-Amir Kab",
+          "El-Gineina w El-Shubbak",
+          "Al-Dikka",
+          "Al-Subu' - Tahjir",
+          "Al-Sanqari - Tahjir",
+          "El-Alaqy - Tahgeer",
+          "El-Malaki - Tahjir",
+          "El-Mahraqa",
+          "El-Madiq",
+          "Balana",
+          "Toshka Sharq",
+          "Toshka Gharb",
+          "Toumas wa Afiya",
+          "Garf Hussein",
+          "Kharita 1",
+          "Dabour",
+          "Dar al-Salam",
+          "Dahmit",
+          "Siyala",
+          "Shatarm - Tahgir",
+          "Aniba",
+          "Qarsha",
+          "Qastal",
+          "Qourta",
+          "Kashtamanna Sharq",
+          "Kashtamanna Gharb",
+          "Mariya",
+          "Nasr al-Nouba",
+          "Kalabsha",
+          "Maraw",
+          "Masmas",
+          "Wadi El-Naqra",
+          "Wadi El-Arab"
+        ]
+      },
+      {
+        "name": "Tushaka",
+        "towns": [
+          "Toshka al-Gadida"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Behera",
+    "lgas": [
+      {
+        "name": "Abu-l-Matamir",
+        "towns": [
+          "Abu Al-Ata",
+          "Abu Al-Matamir Al-Bahariya",
+          "Ahmed Shawqy",
+          "El-Amal",
+          "El-Eiman",
+          "El-Horreya",
+          "El-Huweihi",
+          "Al-Dawagen 1, 2, 3",
+          "Al-Rida",
+          "Al-Salam",
+          "El-Shahid As'ad Khayr",
+          "El-Shahid Rizq Darwish",
+          "El-Shahid Fouad Oweis",
+          "El-Shahid Mohamed Sabah",
+          "El-Shahid Mohamed Abdel Mawla",
+          "El-Shahid Mohamed Farag",
+          "El-Sheikh Mohamed Metwally El-Shaarawi",
+          "El-Siddiq El-Gadid",
+          "El-Safa",
+          "El-Adl",
+          "El-Azima",
+          "Al-Gheita",
+          "Al-Qahir",
+          "Al-Kifah",
+          "El-Mostasmerin",
+          "Al-Mahdi",
+          "Al-Mahdiya",
+          "Al-Nasser",
+          "Al-Nageili wa Awlad Al-Sheikh",
+          "Al-Nimriya",
+          "Al-Nour",
+          "El-Yasineya",
+          "Terougy",
+          "Zawiyat Salim",
+          "Zawiyat Saqr",
+          "Sa'd Zaghloul",
+          "Taha Hussein",
+          "Abd al-Raqib",
+          "Koum El Farag",
+          "Koum El Qadah",
+          "Koum Haffeen",
+          "Madinet Abu El Matameer",
+          "Manshaat Tharwat",
+          "Manshaat Gianaclis",
+          "Manshaat Alouba"
+        ]
+      },
+      {
+        "name": "Abu Hummus",
+        "towns": [
+          "Abu Al-Khidr",
+          "El-Garadat",
+          "El-Gorn",
+          "El-Herfa",
+          "Al-Rizqa",
+          "Al-Zayni",
+          "El-Shahid Gawad Husni",
+          "El-Sakhrah",
+          "El-Ghaba",
+          "Al-Qarawi",
+          "Al-Nakhla Al-Bahariya",
+          "Barseq",
+          "Birket Ghattas",
+          "Bastaway",
+          "Batoris",
+          "Balqatr",
+          "Balqatr El-Gharbiya",
+          "Dasounis al-Halfaya",
+          "Deir Amis",
+          "Rawdat Khairy",
+          "Zawiyat Na'im",
+          "Sahali",
+          "Tolombat Halaq El-Gammal",
+          "Ezab Amin Sayed Ahmed",
+          "Qafla",
+          "Kafr Hossam",
+          "Kafr Azzaz",
+          "Koum El Qanater",
+          "Mahallat Keil",
+          "Madinet Abu Hommos",
+          "Manshaat al-Wakil",
+          "Manshaat Demeisna"
+        ]
+      },
+      {
+        "name": "Al-Dilingat",
+        "towns": [
+          "Abu Sa'ifa",
+          "Abu Samada",
+          "Abu Masoud",
+          "Ibya Al-Hamra",
+          "Ahmed Ramy",
+          "Atlamees",
+          "El-Imam El-Hussein",
+          "El-Imam El-Ghazaly",
+          "El-Bustan",
+          "El-Bustan Qibli El-Noubariya",
+          "El-Hagar El-Mahrouq",
+          "Al-Khaliliya",
+          "El-Orouba",
+          "El-Ezba El-Hamra",
+          "El-Alamiya",
+          "El-Masin",
+          "Al-Manshiya Al-Gedida",
+          "El-Wafa'eya",
+          "El-Yousefeya",
+          "Gazayer Eissa",
+          "Darshay",
+          "Razafa",
+          "Zawiyat Abu Shusha",
+          "Zawiyat Hammour",
+          "Zawiyat Muslim",
+          "Zamran al-Nakhl",
+          "Tiba",
+          "Abd al-Magid Saleh",
+          "Ezab Sherket al-Ittihad",
+          "Ezbet al-Qasy Matroud wa Tashmal Ezbet Abdallah al-Maqrihy",
+          "Ezbet al-Teiriya",
+          "Ezbet al-Manshawy al-Lahhah",
+          "Ezbet Saad Dawoud",
+          "Ezbet Youssef Hamza",
+          "Qubour El-Omaraa",
+          "Qamha",
+          "Kafr Lahaimer",
+          "Koum Zamran",
+          "Lahimer",
+          "Mahmoud Abu Wafiya",
+          "Madinet El Delengat",
+          "Manshaat Abu Wafiya",
+          "Manshaat Bishara",
+          "Manshaat Fadel",
+          "Mantaqat El-Zamam El-Mostagadda",
+          "Moassaset El-Bustan"
+        ]
+      },
+      {
+        "name": "Al-Mahmudiyya",
+        "towns": [
+          "El-Atf",
+          "Al-Qasr",
+          "El-Lowaya",
+          "Dasya al-Kanayes",
+          "Deirout",
+          "Saranbay",
+          "Sanabada",
+          "Sidi Oqba",
+          "Ezab Basantawy",
+          "Fazara",
+          "Fisha Belkha",
+          "Kafr El-Rahmaniya",
+          "Kafr Amlit",
+          "Kafr Nakla",
+          "Koum El Nasr",
+          "al-Mahmoudiya",
+          "Manshaat Arimoun",
+          "Minyet El-Saeed",
+          "Nazaret El-Rawda",
+          "Nazaret El-Sa'eideya",
+          "Nazaret El-Masa'ada"
+        ]
+      },
+      {
+        "name": "Al-Rahmaniyya",
+        "towns": [
+          "Abu Kharash",
+          "El-Abreeqgy",
+          "El-Ashrak",
+          "Al-Qahwaqiya",
+          "Al-Kafr Al-Gadida",
+          "El-Magd",
+          "Bowait",
+          "Darshaba",
+          "Samadis",
+          "Samkhrat",
+          "Ezbet al-Bakawat",
+          "Ezbet al-Magd",
+          "Ezbet Gergis Nakhla",
+          "Ezbet Hassan Qaboudan",
+          "Ezbet Kafr Ghoneim",
+          "Kafr al-Sheikh Hassan",
+          "Kafr Ghoneim",
+          "Kafr Mahalla Dawoud",
+          "Mahallat Thabet",
+          "Mahallat Dawoud",
+          "Madinet El Rahmaniya",
+          "Minyet Salama",
+          "Nazaret El-Ensha",
+          "Nazaret El-Manshiya",
+          "Nazaret El-Minya",
+          "Nazaret Samadis"
+        ]
+      },
+      {
+        "name": "Badr",
+        "towns": [
+          "Abu Bakr Al-Siddiq",
+          "Ahmed Oraby",
+          "El-Eiman 1",
+          "El-Eiman 2",
+          "El-Eiman 3",
+          "El-Tell El-Kebir",
+          "El-Khartoum",
+          "Al-Sokhna",
+          "El-Azima",
+          "Al-Falouja",
+          "Al-Kifah",
+          "El-Magd",
+          "El-Ma'raka",
+          "Al-Nagah",
+          "Om Saber",
+          "Baghdad",
+          "Hira'",
+          "Khaled Ibn al-Walid",
+          "Salah El-Din",
+          "Abd al-Magid Morsi",
+          "Abd al-Salam Aref",
+          "Othman ibn Affan",
+          "Abd al-Hamid Abu Zeid",
+          "Ali ibn Abi Talib",
+          "Omar ibn al-Khattab",
+          "Omar Shahin",
+          "Omar Makram",
+          "Amr ibn al-Aas",
+          "Ain Galout",
+          "Falasteen",
+          "Kamal El Din Salah",
+          "Badr",
+          "Mostafa Kamel",
+          "Nabil El-Waqqad"
+        ]
+      },
+      {
+        "name": "Damanhur",
+        "towns": [
+          "Skanida",
+          "Shubra",
+          "Tamous",
+          "Qurtasa",
+          "Naqarha"
+        ]
+      },
+      {
+        "name": "Damanhur",
+        "towns": [
+          "Ab'adiya Damanhur",
+          "Aflaqa",
+          "El-Barnougi",
+          "El-Basatin",
+          "El-Hammamiya",
+          "El-Shoukah",
+          "El-Safasif",
+          "El-Omriya",
+          "El-Awga",
+          "El-Makhayid",
+          "Al-Manshiya Al-Ibrahimia",
+          "Bastara",
+          "Hafs",
+          "Dasounis Amdinar",
+          "Danshal",
+          "Zawiyat Ghazal",
+          "Zarqoun",
+          "Zahra al-Bahariya",
+          "Zahra al-Qibliya",
+          "Santis",
+          "Sanhour",
+          "Sharnoub",
+          "Tarabenba",
+          "Ezab al-Awqaf",
+          "Ezab Shubra Damanhour",
+          "Ezab Qabil",
+          "Ezab Qortasa wa Tamos",
+          "Ezab Naqraha",
+          "Ezbet al-Abriqgy",
+          "Ezbet al-Darwish",
+          "Ezbet al-Sarw",
+          "Ezbet al-Salanlaki",
+          "Ezbet Badr al-Din",
+          "Ezbet Bastara",
+          "Ezbet Hussein Amr",
+          "Ezbet Sakanida",
+          "Ezbet Selim Toubgian",
+          "Ezbet Tarabanba",
+          "Ezbet Mohamed Awad",
+          "Qabil",
+          "Qaraqas",
+          "Kafr El-Hamayda",
+          "Kafr Bani Hilal",
+          "Kafr Santis",
+          "Manshaat Hamour",
+          "Manshaat al-Habashi",
+          "Manshaat al-Khazan",
+          "Manshaat al-Matran",
+          "Manshaat Ragheb",
+          "Manshaat Said Tousoun",
+          "Manshaat Ghorbal",
+          "Manshaat Mohamed El-Wakil",
+          "Manshaat Nassar",
+          "Manshiet El-Awqaf",
+          "Minyet Beni Mous",
+          "Minyet Atiya",
+          "Nadeeba"
+        ]
+      },
+      {
+        "name": "Hush Isa",
+        "towns": [
+          "Abu Al-Shaqaf",
+          "El-Abqaeen",
+          "El-Herfa",
+          "Al-Rizimat",
+          "Al-Stamana",
+          "Al-Qarnayn",
+          "Al-Kardoud",
+          "El-Koum El-Akhdar",
+          "Harara",
+          "Shaltout",
+          "Kafr al-Waq",
+          "Housh Eissa",
+          "Manshaat Khayyat"
+        ]
+      },
+      {
+        "name": "Idku",
+        "towns": [
+          "6 October",
+          "El-Ma'diya",
+          "Madinet Edko",
+          "Manshiet Debono"
+        ]
+      },
+      {
+        "name": "Itay Al-Barud",
+        "towns": [
+          "Abrak Al-Hamam",
+          "Athariyat Fadel",
+          "Armania",
+          "Ashleema",
+          "El-Ibrahimia",
+          "El-Bahi",
+          "El-Tawfiqiya",
+          "El-Houta",
+          "Al-Khawaled",
+          "Al-Darmaliya",
+          "Al-Rawqa",
+          "Al-Sha'ira",
+          "El-Dhahriyah",
+          "El-Awamer",
+          "El-Ouyoun",
+          "Al-Nabira",
+          "Al-Naqrash",
+          "Amlit",
+          "Barqama",
+          "Talbana",
+          "Gabbarsal El-Bahariya",
+          "Gabbarsal El-Qibliya",
+          "Ga'eif",
+          "Ganbway",
+          "Hasset al-Dahriya",
+          "Hawd Faris",
+          "Khammara",
+          "Daqdouqa",
+          "Dameisna",
+          "Rub' Shandit",
+          "Ramsis",
+          "Zubaida",
+          "Shubra Al-Nouna",
+          "Shisht Al-An'am",
+          "Shandid",
+          "Safeya",
+          "Saft El-Horreya",
+          "Saft Khaled",
+          "Dahr al-Temsah",
+          "Ezbet Rady",
+          "Ezbet Hawd Fares",
+          "Ezbet Talaat",
+          "Ezbet Youssef al-Askary",
+          "Qadous",
+          "Quleishan",
+          "Kafr Abu Mandour",
+          "Kafr El-Haga",
+          "Kafr El-Saqa",
+          "Kafr al-Sheikh Makhlouf",
+          "Kafr al-Ghaba",
+          "Kafr Khalifa",
+          "Kafr Askar Shandeed",
+          "Kafr Askar Saft",
+          "Kafr Awana",
+          "Kafr Mosaad",
+          "Kofour El-Sawalm Bahari",
+          "Kofour El-Sawalm Qebli",
+          "Kaniset El Dahriya",
+          "Mahallat Obeid",
+          "Itay al-Barud",
+          "Maaniya",
+          "Manshaat al-Seirafi",
+          "Manshaat al-Nasr",
+          "Minyet Beni Mansour",
+          "Nekla El-Enab"
+        ]
+      },
+      {
+        "name": "Kafr Al-Dawwar",
+        "towns": [
+          "Al-Sa'raniya",
+          "El-Akresha",
+          "Bardala",
+          "Kafr Selim",
+          "Kafr al-Dawwar",
+          "Manshaat al-Awqaf"
+        ]
+      },
+      {
+        "name": "Kafr Al-Dawwar",
+        "towns": [
+          "Abu Al-Nawm",
+          "Abis 1",
+          "Abis 3",
+          "Abis 4",
+          "Abis 5",
+          "Abis 6",
+          "Abis El-Mostagadda",
+          "El-Omaraa",
+          "El-Baslaqoun",
+          "El-Beida",
+          "El-Tamama",
+          "El-Hager",
+          "El-Khadra",
+          "El-Tarh",
+          "El-Aaly",
+          "El-Arqoub",
+          "Al-Karioun",
+          "Al-Kanayis",
+          "El-Malqa",
+          "Al-Nashw Al-Bahari",
+          "El-Wastaneya",
+          "Zahra",
+          "Sidi Ghazi",
+          "Sira",
+          "Ezab Dafshou",
+          "Koumbaniya Abu Qir",
+          "Koumbaniya Louqin",
+          "Kanj Othman",
+          "Koum Ashou",
+          "Koum El Baraka",
+          "Koum El Tarfaya",
+          "Koum Dafshou",
+          "Louqeen",
+          "Maamal al-Zogag",
+          "Manshaat Boulin",
+          "Manshaat al-Helbawi",
+          "Manshaat Basyouni",
+          "Manshaat Balbaa",
+          "Manshaat Amer",
+          "Manshaat Younes"
+        ]
+      },
+      {
+        "name": "Kum Hamada",
+        "towns": [
+          "Ibrahimiya Muhanna",
+          "Absum Al-Sharqiya",
+          "Absum Al-Gharbiya",
+          "Abu Al-Khawi",
+          "Abyouqa",
+          "El-Barigat",
+          "El-Balakous",
+          "El-Hadein",
+          "Al-Dakhli",
+          "Al-Za'farani",
+          "El-Sawwaf",
+          "El-Toud",
+          "El-Tayriyah",
+          "Al-Qalawat",
+          "Al-Nageila",
+          "Al-Naqidi",
+          "Bareim",
+          "Boulin El-Fawayed",
+          "Biban",
+          "Tal Baqa",
+          "Kharbata",
+          "Khuneiza",
+          "Dust al-Ashraf",
+          "Damtiwah",
+          "Damshali",
+          "Zawiyat al-Bahr",
+          "Zawiyat Khuniza",
+          "Zawiyat Mubarak",
+          "Sarsiqa",
+          "Salamoun",
+          "Shabour",
+          "Shubra Wasim",
+          "Saft El-Enab",
+          "Ezbet Hassan Ali Hamza",
+          "Alqam",
+          "Kafr al-Eis",
+          "Kafr Boulin",
+          "Kafr Damtiwah",
+          "Kafr Ziyada",
+          "Kafr Salamoun",
+          "Kafr Ghanem",
+          "Kafr Gharein",
+          "Kafr Mougahed",
+          "Koum Sherik",
+          "Mahallat Ahmed",
+          "Kom Hamada",
+          "Maghanin",
+          "Maliha",
+          "Manshaat Amin Ismail",
+          "Manshaat Abu Riya",
+          "Manshaat al-Gourbagy_al-Shourbagy",
+          "Manshaat Radi",
+          "Manshaat Ali Mehana",
+          "Mit Yazeed",
+          "Natma",
+          "Waqed"
+        ]
+      },
+      {
+        "name": "Nubariyya West",
+        "towns": [
+          "Ahmed Badawy",
+          "Adam",
+          "Al-Shaga'a",
+          "El-Sheikh",
+          "El-Masna'",
+          "Bilal",
+          "Hussein Abu al-Yusr",
+          "Dr. Mohamed Abdel Wahab",
+          "Sidna Suleiman",
+          "Abd al-Halim",
+          "Mohamed Abdel Raqeeb",
+          "Mohamed Azzam",
+          "al-Nubariya al-Gadida"
+        ]
+      },
+      {
+        "name": "Rashid",
+        "towns": [
+          "Edfeena",
+          "El-Tafteesh",
+          "El-Gediya",
+          "El-Gedida",
+          "El-Hammad",
+          "Al-Sahel",
+          "El-Shamasimah",
+          "El-Aamriya El-Sharqiya",
+          "El-Aamriya El-Gharbiya",
+          "El-Koum",
+          "El-Malqa",
+          "Borg Rashid",
+          "Dibi",
+          "Sidi Omar",
+          "Mahallat El Ameer",
+          "Rashid",
+          "Manshiet Alwan"
+        ]
+      },
+      {
+        "name": "Shubra Khit",
+        "towns": [
+          "Abtuk",
+          "Abu Al-Sahma",
+          "Abu Durra",
+          "Abu Manjouj",
+          "Abu Yahya",
+          "Ismania",
+          "El-Aslab",
+          "Al-Rabadan",
+          "El-Manashla",
+          "Om Hakim",
+          "Omri",
+          "Ourein",
+          "Geziret Nakla",
+          "Zamzam",
+          "Shubra Ris",
+          "Ezbet Ibrahim Agha",
+          "Ezbet al-Ashrak",
+          "Ezbet al-Goukhdar",
+          "Ezbet al-Shamashargy",
+          "Ezbet al-Kanisa",
+          "Ezbet Bishara Hanna",
+          "Ezbet Hussein al-Deeb",
+          "Ezbet Saada",
+          "Ezbet Fathallah al-Gazzar",
+          "Ezbet Farnawy",
+          "Ezbet Kafr al-Saby",
+          "Ezbet Yaqoub",
+          "Ezbet Youssef Kamal",
+          "Farnawi",
+          "Kafr El-Dafrawy",
+          "Kafr El-Saby",
+          "Kafr al-Sanadidi",
+          "Kafr Khodeir",
+          "Kafr Othman",
+          "Kafr Qashash",
+          "Kafr Mostanan",
+          "Kaniset Ourin",
+          "Laqana",
+          "Mahallat Bashar",
+          "Mahallat Sa",
+          "Mahallat Farnawi",
+          "Mahallat Qays",
+          "Mahallat Nasr",
+          "Shubrakhit",
+          "Manshaat Abu Hanna",
+          "Manshaat Razafa",
+          "Manshiet Awqaf Laqana",
+          "Manshiet Hamada"
+        ]
+      },
+      {
+        "name": "Wadi Al-NatrUn",
+        "towns": [
+          "El-Gaar",
+          "El-Hamra",
+          "Bani Salama",
+          "Adnan Madany",
+          "Kafr Dawoud",
+          "Wadi El-Natroun"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beni Suef",
+    "lgas": [
+      {
+        "name": "Ahnasya",
+        "towns": [
+          "Adrasia",
+          "El-Ansar",
+          "El-Bahsamoun",
+          "El-Shoubak",
+          "El-Awawna",
+          "El-Masid El-Abyad",
+          "Al-Nuweira",
+          "Barawet el-Waqf",
+          "Bani Hani",
+          "Bahnamouh",
+          "Deir Barawa",
+          "Sidmant al-Jabal",
+          "Sharhi",
+          "Tama Fayoum",
+          "Qay",
+          "Qalla",
+          "Qallaha",
+          "Kafr Abu Shahba",
+          "Koum El Raml El Bahari",
+          "Ihnasiya",
+          "Ma'saret Naasan",
+          "Manshaat al-Omaraa",
+          "Manshaat al-Badini",
+          "Manshaat al-Hagg",
+          "Manshaat Taher",
+          "Manshaat Abdel Samad",
+          "Manshaat Kassab",
+          "Manhara",
+          "Manharou",
+          "Menyel Gheidan",
+          "Menyel Hany",
+          "Miyana",
+          "Nazlet El-Masharqa",
+          "Nazlet El-Mamaleek",
+          "Nazlet Khalaf",
+          "Nazlet Shawish",
+          "Nena wa Behnena"
+        ]
+      },
+      {
+        "name": "Al Fashn",
+        "towns": [
+          "Absuj",
+          "Aqfahass",
+          "El-Barqi",
+          "El-Gafadoun",
+          "El-Gamhoud",
+          "El-Heiba",
+          "Al-Zawya al-Khadra",
+          "El-Shaqr",
+          "Al-Fant",
+          "Al-Fant Al-Gharbiya",
+          "Al-Qadabi",
+          "Al-Qulay'a",
+          "El-Kanisa",
+          "Basfa",
+          "Bani Saleh",
+          "Bani Manin",
+          "Telt",
+          "Geziret El-Wokliya",
+          "Dalhans",
+          "Shanari",
+          "Saleh",
+          "Saft El-Kharsa",
+          "Saft El-Arfa",
+          "Saft El-Nour",
+          "Tala",
+          "Ezbet Telt",
+          "Kafr Darwish",
+          "Kafr Mansaba",
+          "Madinet El Fashn",
+          "Manshaat al-Sadat",
+          "Manshaat Amro",
+          "Nazlet Aqfahas",
+          "Nazlet El-Barqi",
+          "Nazlet Hanna Hanna"
+        ]
+      },
+      {
+        "name": "Al Wasta",
+        "towns": [
+          "Abu Sir Al-Malaq",
+          "Abwit",
+          "Atwab",
+          "Afwa",
+          "El-Houma",
+          "Al-Diabya",
+          "El-Masloub",
+          "Al-Maimoun",
+          "Al-Nawamis",
+          "Al-Haram",
+          "Anfast",
+          "Bani Sulaiman",
+          "Bani Mohamed",
+          "Bani Hadir",
+          "Bani Ghoneim",
+          "Bani Naseer",
+          "Geziret El-Mosa'ada",
+          "Geziret El-Nour",
+          "Zawiyat al-Maslub",
+          "Saft El-Sharqeya",
+          "Saft El-Gharbeya",
+          "Atf Afouh",
+          "Qamn El-Arous",
+          "Kafr Abgig",
+          "Kafr Bani Otman",
+          "Koum Abu Radi",
+          "Koum Adreiga",
+          "al-Wasta",
+          "Ma'saret Abu Seer",
+          "Manshaat Abu Seer",
+          "Meidum",
+          "Nazlet El-Guneidi",
+          "Wana El-Qass"
+        ]
+      },
+      {
+        "name": "Bani Swayf",
+        "towns": [
+          "El-Gezira Bahari",
+          "El-Gezira Qibli",
+          "Al-Rahba wa al-Gibali",
+          "Al-Ghamrawi",
+          "El-Marmah Bahari",
+          "El-Marmah Qibli",
+          "Al-Mawlid Al-Nabawi",
+          "Bani Atiya",
+          "Souq Al-Khodar",
+          "Moqbel"
+        ]
+      },
+      {
+        "name": "Bani Swayf",
+        "towns": [
+          "Abshana wa Bani Musa",
+          "El-Hakamna",
+          "El-Halabiya",
+          "Al-Dawalta",
+          "Al-Dawiya",
+          "Al-Zarabi",
+          "El-Koum El-Ahmar",
+          "Ehnasya el-Khadra",
+          "Ahwa",
+          "Barout",
+          "Baha el-Agouz",
+          "Balfiya",
+          "Bani Bakheet",
+          "Bani Hamad",
+          "Bani Radwan",
+          "Bani Sulaiman El-Sharqiya",
+          "Bani Affan",
+          "Bani Haroun",
+          "Bayad El-Arab",
+          "Tazment El-Sharqiya",
+          "Tazment El-Gharbiya",
+          "Tell Narouz",
+          "Hagar Bani Suleiman",
+          "Damoushiya",
+          "Riyad",
+          "Sanour",
+          "Sharif",
+          "Manshaat Heidareken",
+          "Manshaat Asem",
+          "Manqarish",
+          "Nazlet Abu Seleim",
+          "Nazlet El-Saadna",
+          "Nazlet Ma'arek",
+          "Na'im"
+        ]
+      },
+      {
+        "name": "Bani Swayf City",
+        "towns": [
+          "Bani Suef al-Gadida"
+        ]
+      },
+      {
+        "name": "Biba",
+        "towns": [
+          "Abu Sharban",
+          "El-Baranqa",
+          "El-Bakriya",
+          "El-Gezira El-Sharqiya",
+          "Al-Sultani",
+          "El-Sheikh Hassan Allam",
+          "El-Daba'nah",
+          "Al-Fuqa'i",
+          "El-Mallahiya",
+          "El-Mallahiya El-Bahariya",
+          "Om el-Ganazir",
+          "Bani Ahmed",
+          "Bani Khalil",
+          "Bani Oqba",
+          "Bani Awad",
+          "Bani Qasem",
+          "Bani Madi",
+          "Bani Mohamed El-Sharqiya",
+          "Bani Mo'mena",
+          "Bani Hashem",
+          "Gabal El-Nour",
+          "Geziret El-Foqa'i",
+          "Geziret Biba",
+          "Rizqat al-Masharqa",
+          "Zawiyat al-Nawiya",
+          "Sids al-Umara",
+          "Saft Rashin",
+          "Taha El-Bisha",
+          "Tarshoub",
+          "Tansa Beni Malo",
+          "Toha",
+          "Ghiyadet El-Sharqiya",
+          "Ghiyadet El-Gharbiya",
+          "Fazara",
+          "Qanbesh El-Hamra",
+          "Kafr Gom'a",
+          "Kafr Mansour",
+          "Kafr Nasser",
+          "Biba",
+          "Manshaat Abu Dukhan",
+          "Minyet El-Geid",
+          "Menyel Moussa",
+          "Nazlet El-Zawya",
+          "Nazlet El-Sherif",
+          "Nazlet Ali Kilani",
+          "Harbashant",
+          "Helya"
+        ]
+      },
+      {
+        "name": "Nasir",
+        "towns": [
+          "Ashmant",
+          "El-Borg",
+          "El-Harga",
+          "El-Hammam",
+          "Al-Riyadh",
+          "Al-Zaytoun",
+          "Al-Mansoura",
+          "Bani Khalifa",
+          "Bani Adi",
+          "Bahbashin",
+          "Gabal Abu Seir",
+          "Geziret Abu Saleh",
+          "Dalas",
+          "Dandil",
+          "Taha Boush",
+          "Tansa El-Malaq",
+          "Gheit El-Bahari",
+          "Kafr El-Gezira",
+          "Koum Abu Khallad",
+          "Nasser",
+          "Manshaat al-Sherka",
+          "Manshaat Hodeib"
+        ]
+      },
+      {
+        "name": "Sumusta",
+        "towns": [
+          "El-Shantour",
+          "El-Asakra",
+          "Al-Qasaba",
+          "El-Mahmoudia",
+          "Badhal",
+          "Bani Hella",
+          "Bani Mohamed Rashed",
+          "Dashasha",
+          "Dashtout",
+          "Sarbu",
+          "Ezbet al-Shantour",
+          "Ezbet Qaftan",
+          "Kafr al-Sheikh Abed",
+          "Kafr Bani Ali",
+          "Koum El Ramli El Qibli",
+          "Koum El Nour",
+          "Samasta",
+          "Mazoura",
+          "Manshaat Abu Malih",
+          "Manshaat Suleiman",
+          "Nazlet El-Deeb",
+          "Nazlet Saeed"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cairo",
+    "lgas": [
+      {
+        "name": "15 Mayu",
+        "towns": [
+          "El-Shiyakha El-Oula",
+          "El-Shiyakha El-Thalithah wa Tashmal El-Mugawarat min 2 ila 52",
+          "El-Shiyakha El-Thaniyah wa Tashmal El-Mugawarat min 7 ila 21"
+        ]
+      },
+      {
+        "name": "Abdin",
+        "towns": [
+          "El-Balaqsa",
+          "El-Gezira El-Gedida",
+          "Al-Dawawin",
+          "Al-Saha",
+          "Al-Saqayyin",
+          "El-Sheikh Abdullah",
+          "Al-Fawwala",
+          "Bab el-Louq",
+          "Rahbat Abidin",
+          "Gheit El-Edda"
+        ]
+      },
+      {
+        "name": "Ain Shams",
+        "towns": [
+          "Al-Zahraa wa Masakin Al-Hilmiya",
+          "Helmiet al-Zeitoun",
+          "Helmiet al-Na'am",
+          "Tolombat Ain Shams",
+          "Ain Shams al-Sharqiya",
+          "Manshiet El-Tahrir"
+        ]
+      },
+      {
+        "name": "Al Azbakiyya",
+        "towns": [
+          "El-Giyara",
+          "Al-Rayhani",
+          "Al-Zahhar",
+          "Al-Faggala",
+          "Al-Qabila",
+          "Al-Qallali",
+          "Araby",
+          "Kalout Bek"
+        ]
+      },
+      {
+        "name": "Al Darb al-Ahmar",
+        "towns": [
+          "El-Bateneya",
+          "Al-Dawoudiya",
+          "Al-Darb al-Ahmar",
+          "Al-Sarugiya",
+          "El-Omry",
+          "Al-Ghouriya",
+          "Al-Qarbiya",
+          "El-Magharbelin",
+          "Bab el-Wazir",
+          "Taht El-Rob'",
+          "Haret al-Roum",
+          "Darb Shughlan wal-Gharib",
+          "Darb Sa'ada",
+          "Souq Al-Selah"
+        ]
+      },
+      {
+        "name": "Al Khalifa",
+        "towns": [
+          "Atlas G",
+          "El-Abageya",
+          "El-Imamein",
+          "El-Baqli",
+          "El-Tounsi",
+          "El-Giza",
+          "El-Hataba",
+          "El-Helmiya",
+          "Al-Khalifa",
+          "Al-Sayyida Aisha",
+          "El-Sa'id",
+          "El-Salibah",
+          "El-Abd",
+          "Al-Qadiriya",
+          "El-Mahgar",
+          "Darb al-Hasr",
+          "Darb Ghaziya",
+          "Sab'in Faddan",
+          "Sobhy Hussein",
+          "Arab al-Yasar"
+        ]
+      },
+      {
+        "name": "Al Matariyya",
+        "towns": [
+          "El-Azab",
+          "El-Matariya El-Bahariya",
+          "El-Matariya El-Gharbiya",
+          "El-Matariya El-Qibliya",
+          "Shagaret Mariam",
+          "Arab Abu Tawila",
+          "Arab al-Hosn",
+          "Ain Shams al-Gharbiya"
+        ]
+      },
+      {
+        "name": "Al Sahil",
+        "towns": [
+          "Asaad",
+          "El-Barad",
+          "El-Khazindara",
+          "Al-Sahel",
+          "Barham",
+          "Sharif",
+          "Minyet El-Seirg"
+        ]
+      },
+      {
+        "name": "Al Salam",
+        "towns": [
+          "Al-Salam Al-Sharqiya",
+          "Al-Salam Al-Gharbiya",
+          "El-Asara El-Gedida",
+          "Al-Nahda",
+          "Birket el-Nasr"
+        ]
+      },
+      {
+        "name": "Al Sharabiyya",
+        "towns": [
+          "Al-Zawya al-Hamra al-Balad",
+          "Al-Sharabiya",
+          "El-Azab",
+          "Mahamsha"
+        ]
+      },
+      {
+        "name": "Al Tibbin",
+        "towns": [
+          "El-Tebbin El-Bahariya",
+          "El-Tebbin El-Qibliya",
+          "Hakr al-Tebbin",
+          "al-Solb",
+          "Masaken al-Tebbin al-Shaabiya"
+        ]
+      },
+      {
+        "name": "Al Wayli",
+        "towns": [
+          "Al-Demerdash",
+          "Al-Za'faran",
+          "Al-Sarayat",
+          "El-Abbasiya El-Bahariya",
+          "El-Abbasiya El-Sharqiya",
+          "El-Abbasiya El-Gharbiya",
+          "El-Abbasiya El-Qibliya",
+          "El-Mohammadi",
+          "Bein El-Ganayen",
+          "Ganayen El-Wayliya",
+          "Kobri El Qobba"
+        ]
+      },
+      {
+        "name": "Al Zahir",
+        "towns": [
+          "Abu Khawda",
+          "El-Ganzouri",
+          "Al-Sakakini",
+          "El-Dhahir",
+          "Al-Qubaysi",
+          "Ghamra"
+        ]
+      },
+      {
+        "name": "Al Zaytun",
+        "towns": [
+          "Al-Zaytoun Al-Bahariya",
+          "Al-Zaytoun Al-Sharqiya",
+          "Al-Zaytoun Al-Gharbiya",
+          "Al-Zaytoun Al-Qibliya",
+          "Masaken al-Amiriya al-Shamaliya"
+        ]
+      },
+      {
+        "name": "Bab Al-Shariyya",
+        "towns": [
+          "El-Benhawi",
+          "El-Shambaki",
+          "El-Sawabi",
+          "El-Adawy",
+          "Al-Mansi",
+          "Al-Nasr",
+          "Bab el-Bahr",
+          "Bab el-Shaareya",
+          "Birket el-Ratli",
+          "Darb al-Iqma'iya",
+          "Sidi Madin"
+        ]
+      },
+      {
+        "name": "Badr",
+        "towns": [
+          "Shiakhet El-Hay El-Awal wal Hadiqa El-Markazia",
+          "Shiakhet El-Hay El-Thaleth wal Mantaqa El-Tarfeheya",
+          "Shiakhet El-Hay El-Thani wa Mantaqat El-Emtedad El-Mustaqbali",
+          "Shiakhet El-Hay El-Rabea",
+          "Shiakhet El-Hay El-Motamayez",
+          "Shiakhet El-Mantaqa El-Senaeya Sharq Tareeq El-Robiky",
+          "Shiakhet El-Mantaqa El-Senaeya wa Mantaqat El-Emtedad El-Mustaqbali",
+          "Shiakhet Badr 1"
+        ]
+      },
+      {
+        "name": "Basatin",
+        "towns": [
+          "El-Basatin El-Sharqiya",
+          "El-Basatin El-Gharbiya",
+          "El-Eisawiya",
+          "Dar al-Salam",
+          "Ezbet Gabril",
+          "Ezbet Fahmy",
+          "Ezbet Nafe'"
+        ]
+      },
+      {
+        "name": "Bulaq",
+        "towns": [
+          "Abu Al-Ala",
+          "El-Ahmadeen",
+          "El-Torgoman",
+          "El-Galladeen",
+          "El-Gawabir",
+          "Al-Khotairy",
+          "Al-Sabtiya",
+          "Al-Sandabisi",
+          "El-Sheikh Ali",
+          "El-Sheikh Farag",
+          "El-Adawiya",
+          "El-Eleimy",
+          "Al-Qalaya",
+          "Hawd al-Zuhour",
+          "Darb Nasr",
+          "Sanan Basha",
+          "Souq Al-Asr",
+          "Sharaks",
+          "Oshash al-Nakhl"
+        ]
+      },
+      {
+        "name": "Gamaliyya",
+        "towns": [
+          "El-Azhar",
+          "El-Bayraqdar",
+          "El-Gamaliya",
+          "El-Hamzawi",
+          "El-Kharnafash",
+          "Al-Khawass",
+          "Al-Dirasa",
+          "Al-Sha'rani",
+          "El-Atouf",
+          "Al-Kurdi",
+          "El-Mashhad El-Husseini",
+          "Al-Mansouriya",
+          "Bab el-Futouh",
+          "Bein El-Sourein",
+          "Gawhar al-Qa'id",
+          "Khan al-Khalili",
+          "Qasr El-Shawq"
+        ]
+      },
+      {
+        "name": "Hadaiq Al-Qubba",
+        "towns": [
+          "El-Hada'eq",
+          "El-Khassa",
+          "Al-Qubba",
+          "Al-Wayli Al-Kabir Sharq",
+          "Al-Wayli Al-Kabir Gharb",
+          "Hada'iq al-Qubba",
+          "Masaken al-Amiriya al-Ganoubiya",
+          "Manshiet El-Sadr"
+        ]
+      },
+      {
+        "name": "Hilwan",
+        "towns": [
+          "El-Masaken El-Eqtesadiya",
+          "El-Ma'sara El-Balad",
+          "El-Ma'sara El-Mahatta",
+          "Helwan al-Bahariya",
+          "Helwan al-Balad",
+          "Helwan al-Sharqiya",
+          "Helwan al-Gharbiya",
+          "Helwan al-Qibliya",
+          "Ain Helwan",
+          "Kafr al-Olou",
+          "Manshaat Nasser"
+        ]
+      },
+      {
+        "name": "Maadi",
+        "towns": [
+          "Maadi al-Khabiri al-Sharqiya",
+          "Maadi al-Khabiri al-Gharbiya",
+          "Maadi al-Khabiri al-Wusta",
+          "Maadi al-Sarayat al-Sharqiya",
+          "Maadi al-Sarayat al-Gharbiya"
+        ]
+      },
+      {
+        "name": "Madinat Nasr-2",
+        "towns": [
+          "El-Estad",
+          "El-Hayy El-Sabe'",
+          "El-Hayy El-Sades",
+          "Al-Sarayat Al-Sharqiya",
+          "Game'et El-Azhar",
+          "Ezbet al-Arab",
+          "Nadi El-Sekka El-Hadeed"
+        ]
+      },
+      {
+        "name": "Marg",
+        "towns": [
+          "El-Marg El-Bahariya",
+          "El-Marg El-Qibliya",
+          "Birket el-Haj",
+          "Ezbet al-Nakhl",
+          "Kafr Abu Seir",
+          "Kafr El-Basha",
+          "Kafr El-Sharfa"
+        ]
+      },
+      {
+        "name": "Minshat Nasir",
+        "towns": [
+          "El-Khazan",
+          "Al-Sultan Barqouq",
+          "El-Magawrin",
+          "El-Mahager",
+          "El-Ma'dasa",
+          "Suzanne Mubarak Al-Gedida",
+          "Qaytbay",
+          "Manshaat Nasser"
+        ]
+      },
+      {
+        "name": "Misr al-Gadida",
+        "towns": [
+          "El-Bustan",
+          "El-Maza",
+          "Al-Montazah",
+          "Manshiet El-Bakry"
+        ]
+      },
+      {
+        "name": "Misr Al-Qadima",
+        "towns": [
+          "Abu Al-Saud wa Al-Madabigh",
+          "Athar El-Nabi",
+          "El-Anwar w Oshash El-Baroud",
+          "Al-Khokha wa al-Qanaya",
+          "Al-Diyoura",
+          "Al-Rawda wa al-Miqyas",
+          "Al-Kufour wa Sa'i Al-Bahr",
+          "Al-Manyal Al-Sharqi",
+          "Al-Manyal Al-Gharbi",
+          "Ain al-Sira",
+          "Fam El-Khalig wa Deir El-Nuhas",
+          "Koum Ghorab"
+        ]
+      },
+      {
+        "name": "Muski",
+        "towns": [
+          "Al-Ramli",
+          "El-Sheikh Nada",
+          "El-Tammar",
+          "El-Ashmawy",
+          "El-Liwaa Amin El-Sherif",
+          "Al-Manasra",
+          "Al-Noubi",
+          "Darb al-Gineina",
+          "Safi El-Din",
+          "Koum El Sheikh Salama"
+        ]
+      },
+      {
+        "name": "Nasr City",
+        "towns": [
+          "El-Tawfiq",
+          "El-Golf",
+          "El-Hadiqa El-Dawliya",
+          "El-Hayy El-Asher",
+          "Al-Sharikat",
+          "Al-Mintaqa Al-Sadisa",
+          "Al-Mintaqa Al-Oula",
+          "Al-Mintaqa Al-Tasi'a",
+          "Al-Mintaqa Al-Tamina",
+          "Al-Mintaqa Al-Sabi'a",
+          "Al-Mintaqa Al-Ashira",
+          "Al-Nadi Al-Ahli",
+          "El-Wafaa wal-Amal",
+          "Rabi'a al-Adawiya",
+          "Sharq Al-Mintaqa Al-Sadisa",
+          "Ezbet al-Hagana",
+          "Masaken al-Mohandessin",
+          "Mantaqat El-Cinema"
+        ]
+      },
+      {
+        "name": "New Cairo-1",
+        "towns": [
+          "El-Tagammu El-Khamis",
+          "El-Gamaa El-Amrikiya wa Rawda",
+          "Al-Narges Al-Mustathmireen Al-Ganoubiya",
+          "El-Yasmin w el-Banafsaj w el-Mustathmeroun el-Shamaleya"
+        ]
+      },
+      {
+        "name": "New Cairo-2",
+        "towns": [
+          "Akadeemeyat El-Shorta w El-Mirage",
+          "Al-Rehab wa al-Mustathmeroun",
+          "Al-Firdaws wa Al-Kawthar"
+        ]
+      },
+      {
+        "name": "New Cairo-3",
+        "towns": [
+          "Iskan Mubarak Lel-Shabab",
+          "El-Andalus",
+          "El-Ansheta",
+          "Al-Qattamiya",
+          "Al-Mintaqa Al-Sina'iya"
+        ]
+      },
+      {
+        "name": "Nuzha",
+        "towns": [
+          "Al-Nozha",
+          "Al-Hayasktab",
+          "Sheraton El-Matar",
+          "Matar al-Qahira"
+        ]
+      },
+      {
+        "name": "Qasr Al-Nile",
+        "towns": [
+          "El-Ismailia",
+          "Garden City",
+          "Qasr El-Doubara",
+          "Maarouf"
+        ]
+      },
+      {
+        "name": "Rud Al-Farag",
+        "towns": [
+          "Ibn Al-Rashid",
+          "El-Mabyada",
+          "Geziret Badran",
+          "Rawd al-Farag al-Balad",
+          "Touson",
+          "Qasouret El-Shawam"
+        ]
+      },
+      {
+        "name": "Sayyida Zainab",
+        "towns": [
+          "El-Ansha w El-Moneera",
+          "El-Baghala",
+          "El-Hanafi",
+          "Al-Darb al-Gadid",
+          "Al-Saba'in",
+          "Al-Sayyida",
+          "El-Atriss",
+          "El-Einy",
+          "Al-Kabsh",
+          "Hada'iq Zeinhom",
+          "Kheirat",
+          "Darb al-Gamamiz",
+          "Zeinhom",
+          "Sanqour",
+          "Toulon"
+        ]
+      },
+      {
+        "name": "Shroq",
+        "towns": [
+          "Shiakhet El-Shorouk 1",
+          "Shiakhet El-Shorouk 2",
+          "Shiakhet Madinet El-Dobat"
+        ]
+      },
+      {
+        "name": "Shubra",
+        "towns": [
+          "El-Terea El-Boulaqiya",
+          "El-Shamashirji",
+          "El-Attar",
+          "Gesr Shubra"
+        ]
+      },
+      {
+        "name": "Tura",
+        "towns": [
+          "El-Hagara",
+          "Al-Zahraa",
+          "Tora El-Asmant",
+          "Tora El-Balad",
+          "Tora El-Heit",
+          "Manshiet El-Masry"
+        ]
+      },
+      {
+        "name": "Zamalik",
+        "towns": [
+          "Abu Al-Fida",
+          "El-Gablaya",
+          "Omar al-Khayam",
+          "Mohamed Mazhar"
+        ]
+      },
+      {
+        "name": "Zawiyya Al-Hamra",
+        "towns": [
+          "El-Amireya",
+          "Al-Zawya al-Hamra Masaken"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dakahlia",
+    "lgas": [
+      {
+        "name": "Aga",
+        "towns": [
+          "Abu Dawud Al-Inab",
+          "Abu Zeid",
+          "Akhtab",
+          "El-Ansasya",
+          "El-Basatin",
+          "El-Bahoufrik",
+          "El-Baylouq",
+          "Al-Dabbous wa Kafr Latif",
+          "Al-Deir",
+          "Al-Sabkha",
+          "Al-Salam",
+          "Al-Salamiya",
+          "El-Gharaqa",
+          "Al-Karama",
+          "Al-Mandara",
+          "Borg Nour el-Homs",
+          "Baqtaris",
+          "Talbent Aga",
+          "Garah",
+          "Galmouh",
+          "Darwa",
+          "Deir Babqatars",
+          "Samaha",
+          "Sanbakht",
+          "Sanjid",
+          "Shubra Al-Bahw",
+          "Shubrawish",
+          "Shansha",
+          "Shanfas",
+          "Shanisa",
+          "Shiwa El-Sharqeya",
+          "Shiwa El-Gharbeya",
+          "Sahregt El-Soghra wa Kafr El-Sayed",
+          "Tanamel El-Sharqi wa Ezbet El-Atraba",
+          "Tanamel El-Gharbi",
+          "Ezab al-Arab",
+          "Fisha Bana",
+          "Qarmout El-Bahw",
+          "Kafr El-Sharaqwa El-Saneita",
+          "Kafr al-Lawandi",
+          "Kafr al-Mandara",
+          "Kafr al-Nogaba",
+          "Kafr Deir Baqtaris",
+          "Kafr Awad El-Suneita",
+          "Madinet Aga",
+          "Manshaat al-Ikhwa",
+          "Manshaat Abdel Nabi",
+          "Manshaat Mansour",
+          "Manshaat El-Baqlly",
+          "Minyet Samannoud",
+          "Mit Abu El-Hares",
+          "Mit Abu El-Hussein",
+          "Mit Ashna",
+          "Mit El-Amel",
+          "Mit Damsis wa Kafr Abu Garg",
+          "Mit Fadala",
+          "Mit Masoud",
+          "Mit Maaned",
+          "Nousa El-Bahr",
+          "Nousa El-Gheit"
+        ]
+      },
+      {
+        "name": "Bany Abeed",
+        "towns": [
+          "Abu Al-Maati Al-Baz",
+          "El-Hadada",
+          "Al-Disa",
+          "Al-Zuhayri",
+          "El-Salahat",
+          "El-Yousefeya",
+          "Deir bil-Khidr",
+          "Tolombat Beni Obeid",
+          "Kafr al-Salahat",
+          "Kafr Mit Faris",
+          "Mubarak",
+          "Bani Ubaid",
+          "Manshaat Mosbeh",
+          "Mit Sweid",
+          "Mit Fares wa Kafrha",
+          "Mit Adlan"
+        ]
+      },
+      {
+        "name": "Bilqas",
+        "towns": [
+          "Abu Basal",
+          "Abu Dishisha",
+          "Abu Sharif",
+          "Abu Taha",
+          "El-Gawadiya",
+          "El-Hefeir w El-Amal - El-Markaziya",
+          "Al-Khalala",
+          "Al-Damayra",
+          "Al-Domen",
+          "Al-Ramla",
+          "Al-Zahraa",
+          "Al-Sabkhawiya",
+          "Al-Stamouni",
+          "Al-Samahiya Al-Kubra",
+          "Al-Sharika",
+          "El-Shawami",
+          "El-Aarid",
+          "Al-Qanan",
+          "El-Ma'sara",
+          "Al-Nashra",
+          "Basandila",
+          "Ziyan",
+          "Sharqiya Al-Maasara",
+          "Qalbshouh",
+          "Kafr al-Ghanama",
+          "Kafr Damallash",
+          "Bilqas",
+          "Manshaat Basandila",
+          "Manshaat Shouman",
+          "Manshaat Abdel Qader"
+        ]
+      },
+      {
+        "name": "Dikirnis",
+        "towns": [
+          "Al-Jazira",
+          "Abu Taha",
+          "Ashmoun El-Romman",
+          "El-Bashmour",
+          "El-Horreya",
+          "El-Khashashna",
+          "Al-Rabi'a",
+          "Al-Salam",
+          "El-Azazna",
+          "Al-Qabab Al-Sughra",
+          "Al-Qabab Al-Kubra",
+          "Al-Qalyoubiya",
+          "Al-Kurama'",
+          "Al-Kurama' Al-Gadida",
+          "El-Mahmoudia",
+          "El-Marsa",
+          "Al-Nahda Al-Gedida",
+          "Hamada",
+          "Damshalt",
+          "Damwah",
+          "Kafr Abu Ali",
+          "Kafr Abu Nasser",
+          "Kafr El-Baz",
+          "Kafr El-Zahaira",
+          "Kafr al-Qabab",
+          "Kafr Abd El-Mo'men w El-Sheikh Radwan",
+          "Dekernes",
+          "Manshaat Abdel Rahman",
+          "Mit Taref",
+          "Mit El-Soudan",
+          "Mit El-Nahhal",
+          "Mit Saadan",
+          "Mit Sharaf",
+          "Mit Dhafer",
+          "Nasser",
+          "Nageer wa Mit Sheddad"
+        ]
+      },
+      {
+        "name": "E Mansora 2",
+        "towns": [
+          "Gedila",
+          "Qism El-Mansoura",
+          "Qism Khamis Siyam",
+          "Qism Sabi' El-Bahr El-Saghir",
+          "Qism Sadis Mit Haidar",
+          "Qism Kafr El-Badmas",
+          "Qoulengeil"
+        ]
+      },
+      {
+        "name": "El Mansora",
+        "towns": [
+          "El-Badala",
+          "El-Baramoun",
+          "El-Baqliya",
+          "El-Bandira",
+          "El-Hawawsha",
+          "Al-Khalij",
+          "Al-Khiyariya",
+          "Al-Danabiq",
+          "Al-Raydaniya",
+          "Al-Zammar",
+          "El-Malha",
+          "Al-Nozha",
+          "Al-Nassimiya",
+          "Oweish el-Hagar",
+          "Baheqira",
+          "Bedawi",
+          "Badein",
+          "Barq el-Ezz",
+          "Balgay",
+          "Talbana",
+          "Galya",
+          "Gedida El-Hala",
+          "Gameiza Belgay",
+          "Dabou Awam",
+          "Salamoun",
+          "Silka",
+          "Sallant",
+          "Shawa",
+          "Shubra Badin",
+          "Shaha",
+          "Taranees El-Bahr",
+          "Tanah",
+          "Karam El-Gedida",
+          "Kafr Abu Shawarib",
+          "Kafr El-Amshouty",
+          "Kafr El-Baramoun",
+          "Kafr al-Shenhab",
+          "Kafr Badawi al-Gadid",
+          "Kafr Badawi al-Qadim",
+          "Kafr Talbana",
+          "Kafr Tanah",
+          "Kafr Mit Fatek",
+          "Koum El Darbi",
+          "Koum Beni Miras",
+          "Magar",
+          "Minyet Badawy",
+          "Minyet Sandoub",
+          "Mit El-Akrad",
+          "Mit El-Sarem",
+          "Mit Badr Khamis",
+          "Mit Garrah",
+          "Mit Khamis wa Kafr El-Mogi",
+          "Mit Kheiroun",
+          "Mit Azzoun",
+          "Mit Ali",
+          "Mit Awam",
+          "Mit Lowza",
+          "Mit Mahmoud",
+          "Mit Mazah",
+          "Nesim 2",
+          "Naqita"
+        ]
+      },
+      {
+        "name": "El Mansora 1",
+        "towns": [
+          "Sandoub wa Kafr Al-Manasra",
+          "Qism Awwal Mit Talkha",
+          "Qism Thalith El-Rayhan",
+          "Qism Than El-Hiwar",
+          "Qism Rabi' El-Naggar"
+        ]
+      },
+      {
+        "name": "Gamaliyya",
+        "towns": [
+          "El-Mahalawi",
+          "Al-Hisha",
+          "Mubarak",
+          "Madinet El Gamaliya",
+          "Mit Marg Salseil"
+        ]
+      },
+      {
+        "name": "Gamsa",
+        "towns": [
+          "Gamasa"
+        ]
+      },
+      {
+        "name": "Mahalet Demna",
+        "towns": [
+          "Al-Nassera",
+          "Kafr al-Olou",
+          "Kafr Saafan",
+          "Mubarak El Gedida",
+          "Mahallat Damana - Maqar El Markaz",
+          "Manshaat al-Salam",
+          "Minyet Mahallat Damana"
+        ]
+      },
+      {
+        "name": "Manzala",
+        "towns": [
+          "Abu Al-Akhdar",
+          "Alexandria El-Gadeeda",
+          "El-Ahmadeya",
+          "El-Basayela",
+          "El-Basrat",
+          "El-Gamamla",
+          "El-Houta",
+          "Al-Khalayfa",
+          "Al-Daqanwa",
+          "Al-Rawda",
+          "Al-Stayta",
+          "Al-Shaboul",
+          "Al-Sharifiya",
+          "El-Aamra",
+          "El-Aryan",
+          "El-Aziza",
+          "El-Amarna",
+          "Al-Furusat",
+          "Al-Qazaqza",
+          "Al-Qatsha",
+          "Al-Mawajed",
+          "Al-Nasayma",
+          "Al-Hanayda",
+          "Awlad Bana",
+          "Awlad Hana",
+          "Awlad Sarag",
+          "Awlad Alam",
+          "Awlad Nasser",
+          "Awlad Nour",
+          "Bani Helal",
+          "Gedida El-Manzala",
+          "Dar al-Salam",
+          "Ezbet al-Tawabra",
+          "Kafr Haggag",
+          "al-Manzala",
+          "Mit Khodeir",
+          "Mit Sherif"
+        ]
+      },
+      {
+        "name": "Matariyya",
+        "towns": [
+          "El-Dhahir",
+          "El-Asafra",
+          "Awlad Sabour",
+          "al-Matariya"
+        ]
+      },
+      {
+        "name": "Minya Al-Nasr",
+        "towns": [
+          "El-Bagalat",
+          "El-Gineina",
+          "El-Hamidiya",
+          "El-Khodeiri",
+          "Al-Riyadh",
+          "Al-Nazl",
+          "El-Washayha",
+          "Barmbal el-Gedida",
+          "Barmbal el-Qadima",
+          "Ghoneim Shatta",
+          "Kafr Abu Zekry",
+          "Kafr Allam",
+          "Kafr Qaneish",
+          "Minyat al-Nasr",
+          "al-Kurdi",
+          "Manshaat al-Gamal",
+          "Manshaat Asem",
+          "Manshaat Mubarak",
+          "Mit Tamama",
+          "Mit Hadeed",
+          "Mit Aasem"
+        ]
+      },
+      {
+        "name": "Mit Ghamr",
+        "towns": [
+          "Mit Ghamr"
+        ]
+      },
+      {
+        "name": "Mit Ghamr",
+        "towns": [
+          "Atmeeda",
+          "El-Bouha",
+          "El-Hakimiya",
+          "Al-Diyouniya",
+          "Al-Rahmaniya",
+          "Al-Qaytoun",
+          "El-Ma'sara wa Kofourha",
+          "Ouleila",
+          "Bashalush",
+          "Bashla",
+          "Bahida",
+          "Tafahnet El-Ashraf",
+          "Gosfa",
+          "Damas",
+          "Dandit wa Kafr Mahmoud Nafe'",
+          "Saranga",
+          "Sanbou Maqam",
+          "Santamay",
+          "Sanfa",
+          "Sahregt El-Kobra wa Kafr Gorgi Youssef",
+          "Kafr Behida",
+          "Kafr Rushdy",
+          "Kafr Sharaf",
+          "Kafr Ibrahim Youssef",
+          "Kafr Abu El-Enein",
+          "Kafr Abu Nabhan",
+          "Kafr El-Gohary",
+          "Kafr El-Hegazy",
+          "Kafr El-Sharaqwa",
+          "Kafr al-Shahid",
+          "Kafr al-Sheikh",
+          "Kafr al-Mohamadiya",
+          "Kafr al-Meqdam",
+          "Kafr al-Na'im",
+          "Kafr al-Wazir",
+          "Kafr Barabari Suleiman",
+          "Kafr Dawoud Matar",
+          "Kafr Saranga",
+          "Kafr Sulaiman Tadros",
+          "Kafr Atallah Sulaiman",
+          "Kafr Ali Abdallah",
+          "Kafr Mit El-Ezz",
+          "Kafr Nou'man",
+          "Kofour El-Bahayta",
+          "Koum El Nour wa Kafr El Dalil",
+          "Mit Abu Khaled wa Kafr Ali Badra",
+          "Mit El-Ezz",
+          "Mit El-Farmawy",
+          "Mit El-Qorashy",
+          "Mit Mohsen",
+          "Mit Nagi",
+          "Mit Yaeesh wa Kofourha",
+          "Hala"
+        ]
+      },
+      {
+        "name": "MIt Salsil",
+        "towns": [
+          "El-Etihad",
+          "El-Gaafra",
+          "El-Gawabir",
+          "Al-Kafr Al-Gadida",
+          "Salsil"
+        ]
+      },
+      {
+        "name": "Nebro",
+        "towns": [
+          "Abstawa",
+          "Afneesh",
+          "El-Khazindar",
+          "Al-Darawteen",
+          "El-Taybah",
+          "Banoub",
+          "Bahout",
+          "Tirwa",
+          "Darein",
+          "Tanbouha",
+          "Taneeng",
+          "Kafr El-Abhar",
+          "Kafr El-Ganeina El-Bahary",
+          "Kafr El-Hessa",
+          "Kafr El-Dakroury",
+          "Kafr Bahout",
+          "Nabaroh",
+          "Mit Eiyad",
+          "Nesha Tashmal Kafr El-Bashabsha wa Kafr El-Hawarni"
+        ]
+      },
+      {
+        "name": "Shirbin",
+        "towns": [
+          "Abu Jalal",
+          "El-Ahmadeya",
+          "El-Hesas",
+          "Al-Sa'diya",
+          "Al-Salam",
+          "El-Shinawi",
+          "El-Sabriyah",
+          "El-Dhahriyah",
+          "El-Awadiya",
+          "El-Ayadiya",
+          "Basat Karim El-Din",
+          "Ter'et Ghoneim",
+          "Dangaway",
+          "Ras al-Khalij",
+          "Kafr Abu Zaher w Azabha",
+          "Kafr El-Atrash",
+          "Kafr El-Ter'a El-Gedida",
+          "Kafr El-Ter'a El-Qadim",
+          "Kafr El-Haj Sherbiny",
+          "Kafr El-Hataba",
+          "Kafr El-Dabbousy",
+          "Kafr al-Sheikh Atiya",
+          "Kafr al-Wakalah",
+          "Kafr Manshaat El-Nasr",
+          "Kafr Youssef",
+          "Mahallat Anshaq",
+          "Sherbin"
+        ]
+      },
+      {
+        "name": "Sinbillawin",
+        "towns": [
+          "Mubarak",
+          "Abu Qaramit",
+          "El-Orman",
+          "El-Bashnini",
+          "El-Bakariya",
+          "El-Balamoun",
+          "El-Tamad El-Hagar",
+          "El-Galayela",
+          "El-Hagayza",
+          "El-Hasayna",
+          "El-Haswa",
+          "Al-Ramziya",
+          "Al-Rawda",
+          "Al-Zuriqi",
+          "Al-Zahayra",
+          "Al-Sarsi",
+          "Al-Salam - Kafr Tanboul Al-Jadid Sabiqan",
+          "Al-Sha'ala",
+          "El-Azawy",
+          "Al-Fath",
+          "Al-Qanan",
+          "El-Matouh",
+          "El-Makhzan",
+          "El-Maqata'a",
+          "Al-Wahda Al-Arabiya",
+          "Borg Nour el-Arab",
+          "Barqin",
+          "Barhamtoush",
+          "Bashams",
+          "Diwa al-Wusta",
+          "Sa'd al-Din",
+          "Shubra Sandi",
+          "Shubra Qabala",
+          "Shubra Hour",
+          "Taranees El-Arab",
+          "Tamay El-Zahayra",
+          "Tanbara",
+          "Tanboul El-Kobra",
+          "Tohway",
+          "Toukh El-Aqlam",
+          "Ghazala",
+          "Qarqeera",
+          "Kafr El-Haj Azab",
+          "Kafr El-Shaheed Mostafa Hamouda",
+          "Kafr El-Azzawy",
+          "Kafr Mit Ghorab",
+          "Kafr El-Rouk",
+          "Kafr El-Sharfa",
+          "Kafr al-Ananiya",
+          "Kafr Badawi Girgis",
+          "Kafr Bani Salem",
+          "Kafr Sa'd",
+          "Kafr Salama",
+          "Kafr Shubra Hour",
+          "Kafr Tanboul El-Qadim",
+          "Kafr Abd El-Amin Hasaballah",
+          "Kafr Azzam",
+          "Kafr Ghannam",
+          "Kafr Qansawa",
+          "Kafr Mohamed El-Shennawy",
+          "Kafr Youssef Awad",
+          "Madinet El Senbellawein",
+          "Manshaat Adham",
+          "Manshaat Reda",
+          "Manshaat Ezzat",
+          "Manshaat Helal",
+          "Mit Ghorab",
+          "Mit Ghareeta",
+          "Noub Tarif"
+        ]
+      },
+      {
+        "name": "Talkha",
+        "towns": [
+          "Al-Rawda",
+          "El-Tawilah",
+          "Al-Manyal",
+          "Orman Talkha",
+          "Basat",
+          "Batra",
+          "Jawjar",
+          "Dar al-Salam",
+          "Dameira",
+          "Disht",
+          "Qaryet Sarsaq",
+          "Katamet El-Sharqiya",
+          "Kafr El-Khouzam",
+          "Kafr al-Tawila",
+          "Kafr al-Arab",
+          "Kafr al-Qasali",
+          "Kafr Besat",
+          "Kafr Damira al-Gadid",
+          "Kafr Damira al-Qadim",
+          "Kofour El-Arab",
+          "Talkha",
+          "Manshaat al-Badawi",
+          "Mit El-Koranaa",
+          "Mit Zanqar",
+          "Mit Antar",
+          "Mit Nabt"
+        ]
+      },
+      {
+        "name": "Tamy Al-Amdid",
+        "towns": [
+          "Abu Dawud",
+          "Abu Al-Sayr",
+          "El-Beida",
+          "Al-Khamsa",
+          "Al-Rob'",
+          "Al-Sa'udiya",
+          "Al-Samara",
+          "El-Safa",
+          "El-Amid w Kafr Ali El-Sayed",
+          "Al-Fath Al-Gadida",
+          "Al-Kamal",
+          "Al-Maihi",
+          "Tag El-Ezz",
+          "Zafr",
+          "Sedqa",
+          "Kafr El-Amir Abdallah",
+          "Kafr Sanjab",
+          "Timay al-Amdid",
+          "Manshaat al-Maalouh",
+          "Manshaat Sabry",
+          "Manshiet El-Salam",
+          "Manshiet El-Sharfaa",
+          "Manshiet El-Gharby"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Damietta",
+    "lgas": [
+      {
+        "name": "Dumyat",
+        "towns": [
+          "El-Bustan wa Kafr Tabikha",
+          "Al-Khalifiya",
+          "Al-Sananiya",
+          "El-Adliya",
+          "El-Ananiya",
+          "Awlad Hammam",
+          "Khareg al-Zemam",
+          "Shat Al-Khayata",
+          "Shat Al-Sho'araa",
+          "Shat Al-Sheikh Dargham",
+          "Shat Gariba",
+          "Shat Ezbet Al-Lahm",
+          "Shat Gheit Al-Nasara",
+          "Shat Mahboub wa Al-Siyala",
+          "Shatta",
+          "Ezab al-Basarta",
+          "Ezab al-Nahda",
+          "Ezbet al-Borg"
+        ]
+      },
+      {
+        "name": "Dumyat 1",
+        "towns": [
+          "Shiakhet Qesm Awal",
+          "Shiakhet Qesm Than"
+        ]
+      },
+      {
+        "name": "Dumyat 2",
+        "towns": [
+          "Shiakhet Qesm Thaleth",
+          "Shiakhet Qesm Rabea"
+        ]
+      },
+      {
+        "name": "Dumyat Al-Gadida",
+        "towns": [
+          "Damietta al-Gadida"
+        ]
+      },
+      {
+        "name": "Fariskur",
+        "towns": [
+          "Abu Jarida",
+          "El-Arbaeen",
+          "El-Barashiya",
+          "El-Hawarni",
+          "Al-Rahamna",
+          "Al-Salmiya",
+          "El-Dhahrah",
+          "El-Tarhah",
+          "El-Obaidiya",
+          "El-Azazma",
+          "El-Atwy",
+          "Al-Ghunaymiya",
+          "Al-Ghawabin",
+          "Al-Nasseriya",
+          "Al-Naggareen",
+          "Awlad Khalaf",
+          "Haggaga",
+          "Sharbas",
+          "Kafr El-Fawabin",
+          "Kafr al-Shinawi",
+          "Kafr al-Arab",
+          "al-Rawda",
+          "Fareskour",
+          "Manshaat Karam Rizq",
+          "Mit El-Shioukh"
+        ]
+      },
+      {
+        "name": "Kafr Sad",
+        "towns": [
+          "Umm Al-Rida Al-Jadida",
+          "Abu Rashid",
+          "Abu Ayyad",
+          "El-Ibrahimia El-Bahareya",
+          "El-Ibrahimia El-Qeblya",
+          "El-Ismailia",
+          "El-Badrawi",
+          "El-Basatin - El-Awamer Sabeqan",
+          "El-Tawfiqiya",
+          "El-Husseiniya",
+          "Al-Dahayma",
+          "Al-Rikabiya",
+          "Al-Riyadh",
+          "Al-Zahraa - Mit Abu Ghalib Sabiqan",
+          "Al-Sa'idiya Al-Bahariya",
+          "Al-Sa'idiya Al-Qibliya",
+          "Al-Sawahl",
+          "Al-Sawalm",
+          "El-Abbasiya",
+          "El-Mohammadia",
+          "Al-Nawasriya",
+          "Om el-Reda",
+          "Taftish Than",
+          "Gamasa",
+          "Dar al-Salam",
+          "Ezab Umm al-Rizq",
+          "Ezbet al-Lawzy",
+          "Kahil",
+          "Kafr El-Wastany",
+          "Kafr Abu Saad",
+          "Kafr al-Marab'een al-Sharqiya",
+          "Kafr al-Manazla",
+          "Kafr Sulaiman El-Bahari",
+          "Kofour El-Ghab",
+          "Kofour Shahata",
+          "Kafr al-Battikh",
+          "Kafr Saad",
+          "Mit Abu Ghalib",
+          "Manshiet Nasser"
+        ]
+      },
+      {
+        "name": "Police Department Port of Damietta",
+        "towns": [
+          "Mina Damietta El-Gadeed"
+        ]
+      },
+      {
+        "name": "Ras al-Bar",
+        "towns": [
+          "Ras al-Bar"
+        ]
+      },
+      {
+        "name": "Zarqa",
+        "towns": [
+          "Al-Za'atra",
+          "Al-Salam",
+          "Al-Kashif Al-Gadida",
+          "Daqahla",
+          "Seif Al-Din",
+          "Sharmisah",
+          "Ezbet al-Baz",
+          "Kafr al-Mayasra",
+          "Kafr Taqi",
+          "Madinet El Sarw",
+          "al-Zarqa",
+          "Mit El-Khouly Abdalla"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fayoum",
+    "lgas": [
+      {
+        "name": "Abshaway",
+        "towns": [
+          "Abu Danqash",
+          "Abu Kasah",
+          "El-Gilani",
+          "El-Khaldiya",
+          "El-Agamyin",
+          "El-Alawiya",
+          "Al-Nassariya",
+          "Zeid",
+          "Sanour Al-Bahariya",
+          "Sinrou Al-Qibliya",
+          "Shakshouk",
+          "Tabhar",
+          "Tahawi",
+          "Qasr Bayad",
+          "Kafr Abboud",
+          "Ibshaway",
+          "Manshaat Howeidy"
+        ]
+      },
+      {
+        "name": "Atsa",
+        "towns": [
+          "Abu Jandir",
+          "Abu Dafiya",
+          "Abu Sir Dafnu",
+          "El-Gaafra",
+          "El-Hamidiya",
+          "El-Hagar",
+          "El-Husseiniya",
+          "Al-Sa'da",
+          "El-Atamna w El-Mazaraa",
+          "El-Oufy",
+          "El-Ghaba",
+          "El-Garaq",
+          "Al-Gharaq Qibli",
+          "Al-Qasimiya",
+          "El-Mahmoudia",
+          "Al-Minya",
+          "El-Wanaysa",
+          "Bahr Abu el-Mir",
+          "Tatoun",
+          "Gardou",
+          "Khalf",
+          "Danyal",
+          "Shadmooh",
+          "Ezbet Qalmashat",
+          "Anak",
+          "Qasr El-Basel",
+          "Qalmashat",
+          "Qalhana",
+          "Kafr El-Zaafarany",
+          "Kofour Hashmat",
+          "Itsa",
+          "Matoul",
+          "Maagoun",
+          "Ma'saret Arafa",
+          "Manshaat al-Amir",
+          "Manshaat Halfa",
+          "Manshaat Rabie",
+          "Manshaat Rahmi",
+          "Manshaat Ramzy",
+          "Manshaat Seif al-Nasr",
+          "Manshaat Sabry",
+          "Manshaat Zafer",
+          "Manshaat Abdel Megid",
+          "Manshaat Alawi",
+          "Manshaat Faisal",
+          "Nawara",
+          "Heryet El-Gharbeya"
+        ]
+      },
+      {
+        "name": "Fayyum",
+        "towns": [
+          "Dar al-Ramad",
+          "Qahafa",
+          "Qism Awwal",
+          "Qism Thalith",
+          "Qism Thani",
+          "Qism Rabi'"
+        ]
+      },
+      {
+        "name": "Fayyum",
+        "towns": [
+          "Abjij",
+          "Abu Al-Saud",
+          "El-Aalam",
+          "El-Basyouniya",
+          "El-Hadqa",
+          "El-Hamidiya El-Gedida",
+          "Al-Sunbat",
+          "El-Salhiyah",
+          "El-Adwa",
+          "El-Azab",
+          "El-Lahoun",
+          "Al-Mandara",
+          "Al-Nasseriya",
+          "Bani Saleh",
+          "Talat",
+          "Dasya",
+          "Damashqin",
+          "Damou",
+          "Zawiyat al-Kurdasa",
+          "Sanoufar",
+          "Sila",
+          "Amereya al-Fayoum",
+          "Kofour El-Sheikh Fadl",
+          "Kofour El-Nil",
+          "Manashi al-Khatib",
+          "Manshaat al-Ashiri",
+          "Manshaat al-Fayoum",
+          "Manshaat Baghdadi",
+          "Manshaat Damou",
+          "Manshaat Abdallah",
+          "Manshaat Fetih",
+          "Manshaat Kamal",
+          "Manshaat El-Gazaer",
+          "Manshiet Sakran",
+          "Nazlet El-Horeishy",
+          "Nazlet Bashir",
+          "Hawara El-Maqta'",
+          "Hawara Adlan"
+        ]
+      },
+      {
+        "name": "Fayyum City",
+        "towns": [
+          "Madinet El Fayoum El Gedida"
+        ]
+      },
+      {
+        "name": "Sinuras",
+        "towns": [
+          "Abhit Al-Hajar",
+          "El-Ekhsas",
+          "El-Tawfiqiya",
+          "Al-Zawya al-Khadra",
+          "Al-Sa'idiya",
+          "Al-Siliyin",
+          "Al-Ka'abi Al-Gadida",
+          "Al-Ka'abi Al-Qadima",
+          "Bahmou",
+          "Tersa",
+          "Taqalifa",
+          "Gabla",
+          "Garfas",
+          "Sanhour",
+          "Sanhour Al-Bahariya",
+          "Fadimein",
+          "Kafr Fazara",
+          "Senoures",
+          "Matar Taris",
+          "Manshaat al-Dokm",
+          "Manshaat al-Sadat",
+          "Manshaat Bani Othman",
+          "Manshaat Sennoures",
+          "Manshaat Tantawi",
+          "Manshaat Atifa"
+        ]
+      },
+      {
+        "name": "Tamya",
+        "towns": [
+          "Abu Talib",
+          "El-Barani",
+          "El-Gomhouriya",
+          "Al-Roubyat",
+          "Al-Rawda",
+          "El-Aziziya",
+          "Al-Fahmiya",
+          "El-Koumi",
+          "El-Mazatli",
+          "El-Moqatla",
+          "Dar al-Salam",
+          "Sarsana",
+          "Fanous",
+          "Farqas",
+          "Qasr Rashwan",
+          "Kafr Omeira",
+          "Kafr Mahfouz",
+          "Tamiya",
+          "Ma'saret Sawy",
+          "Manshaat al-Doctor al-Gamal",
+          "Min - Hogmin"
+        ]
+      },
+      {
+        "name": "Yousef El sadeq",
+        "towns": [
+          "El-Hamouli",
+          "El-Shawashnah",
+          "El-Sa'aydah El-Qibliyah",
+          "El-Moshrek Qibli",
+          "El-Maqrani",
+          "Al-Nazla",
+          "Batn Ahrit",
+          "Riwaq",
+          "Sidna Al-Khidr",
+          "Shaalan",
+          "Ali Pasha al-Rouby",
+          "Ghisan",
+          "Qaroun",
+          "Qasr Abu Lati'a Basel",
+          "Qasr El-Gibali",
+          "Kahk",
+          "Youssef al-Seddiq",
+          "Moussa Mezar",
+          "Wadi El-Rayyan - Ezbet Fathy"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gharbia",
+    "lgas": [
+      {
+        "name": "Basyun",
+        "towns": [
+          "El-Haddad",
+          "Al-Farastaq",
+          "Al-Qadaba",
+          "Bar el-Hammam",
+          "Ganag",
+          "Hasset Abyar",
+          "Salamoun al-Ghobar",
+          "Shubra Tana",
+          "Shubra Tou",
+          "Shafa wa Qoroun",
+          "Sa El-Hagar",
+          "Qarnasho",
+          "Katamet El-Ghaba",
+          "Kafr Soliman",
+          "Kafr El-Hammam",
+          "Kafr El-Dawwar",
+          "Kafr al-Manshi Abu Hamar",
+          "Kafr Salma al-Habbab",
+          "Kafr Naseer",
+          "Kaniset Shubrato",
+          "Koum El Naggar",
+          "Mahallat El Laban",
+          "Basyoun",
+          "Mashal",
+          "Manshaat al-Ya'qoubiya",
+          "Manshaat Basyoun",
+          "Mit El-Kheir",
+          "Mit Sherif",
+          "Nagrig"
+        ]
+      },
+      {
+        "name": "El Mahalla El Kobra",
+        "towns": [
+          "Abu Al-Najah",
+          "El-Ansha",
+          "El-Banawan",
+          "El-Gabriya",
+          "El-Hawamdiya El-Gedida",
+          "Al-Dawakhliya",
+          "Al-Sag'iya",
+          "El-Shahidi",
+          "El-Aamriya",
+          "El-Othmaniya",
+          "Al-Qaratiya",
+          "Al-Qasriya",
+          "Al-Kamaliya",
+          "El-Mo'tamadiya",
+          "Al-Hayatem",
+          "Bashbish",
+          "Batina",
+          "Balqina",
+          "Dakhmis",
+          "Damtanou",
+          "Damrou Khammara",
+          "Danawsher",
+          "Deir Bahashim",
+          "Samoul",
+          "Sanbara",
+          "Sandasis",
+          "Shubra Babel",
+          "Shubra Malakan",
+          "Shubra Nabat",
+          "Saft Tarab",
+          "Tareena",
+          "Tanbara",
+          "Attaf",
+          "Kafr Dakhmis",
+          "Kafr El-Bastawisy",
+          "Kafr El-Ganeina El-Qebly",
+          "Kafr al-Abayda",
+          "Kafr Hegazi",
+          "Kafr Damrou",
+          "Kafr Damantou",
+          "Kafr Fiyala",
+          "Kafr Qareitna",
+          "Labshit",
+          "Loumana El Gedida",
+          "Mahallat Abu Ali El Qantara",
+          "Mahallat El Qasab",
+          "Mahallat Hassan",
+          "Manshiet El-Omaraa",
+          "Manshiet El-Awqaf",
+          "Manshiet Tanbara",
+          "Minyet Shentena Ayash",
+          "Mit El-Serag",
+          "Mit El-Leit Hashem",
+          "Nemra El-Basal"
+        ]
+      },
+      {
+        "name": "El Mahalla El Kobra 1",
+        "towns": [
+          "El-Tahrir",
+          "Al-Mansi Sarhan",
+          "Hussein Sayed",
+          "Abd al-Hay Shalaby",
+          "Mahallat El Borg",
+          "Nasser"
+        ]
+      },
+      {
+        "name": "El Mahalla El Kobra 2",
+        "towns": [
+          "Ahmed El-Mansy",
+          "Imam el-Husseini",
+          "Habib al-Sakhawi",
+          "Mohamed Hussein El Sahli",
+          "Mostafa Mostafa al-Agroudi"
+        ]
+      },
+      {
+        "name": "Kafr Al-Zayyat",
+        "towns": [
+          "Abu Al-Ghur",
+          "Abyar",
+          "Abij",
+          "Adshay",
+          "Asdeema",
+          "Akwa El-Hessa",
+          "Al-Dalagmon",
+          "El-Talbiyah",
+          "Al-Nahariya",
+          "Banoufar",
+          "Hasset Akwa",
+          "Daqarn",
+          "Dalbshan",
+          "Shubra Ris",
+          "Qusta",
+          "Qasr Baghdad",
+          "Qasr Nasr El-Din",
+          "Quleib Abyar",
+          "Kafr El-Shorbagy",
+          "Kafr Akhsha",
+          "Kafr El-Ashqar",
+          "Kafr El-Baga",
+          "Kafr al-Arab",
+          "Kafr al-Qassar",
+          "Kafr al-Hawashim",
+          "Kafr Hashad",
+          "Kafr Dima",
+          "Kafr Shamakh",
+          "Kafr Mashala",
+          "Kafr Yaqoub",
+          "Kofour Balshay",
+          "Kafr al-Zayat",
+          "Mashla",
+          "Manshaat al-Kurdi",
+          "Manshaat Suleiman",
+          "Manshiet El-Sheikh El-Mahrouqy",
+          "Mansouriet El-Farastaq",
+          "Minyet Abyar"
+        ]
+      },
+      {
+        "name": "Qutur",
+        "towns": [
+          "Abshawai Al-Malaq",
+          "Al-Rayayna",
+          "El-Shin",
+          "El-Atwa El-Bahariya",
+          "El-Atwa El-Qibliya",
+          "El-Amma",
+          "Amyout",
+          "Baltag",
+          "Boreig",
+          "Huwein",
+          "Khabbata",
+          "Damat",
+          "Sagin al-Koum",
+          "Samatay",
+          "Samla",
+          "Shubra Baloula Al-Sakhawiya",
+          "Shubra Nbas",
+          "Sard",
+          "Atf Abu Gendy",
+          "Kafr Abu Gendy",
+          "Kafr al-Na'na'i",
+          "Kafr Baladam",
+          "Kafr Saadoun",
+          "Kafr Mahalla Maseer",
+          "Kafr Ahmed Shalaby",
+          "Koum Ali",
+          "Mahallat Maseer",
+          "Qutour",
+          "Manshaat al-Ayyari",
+          "Mit El-Sheikh",
+          "Nashil"
+        ]
+      },
+      {
+        "name": "Samannud",
+        "towns": [
+          "Abu Sirina",
+          "Al-Rahebin",
+          "El-Aziziya",
+          "Al-Nasseriya",
+          "Al-Nawiya",
+          "Bana Abu Sir",
+          "Bahbit El-Hagara",
+          "Talima",
+          "Kafr El-Taabaniya",
+          "Kafr El-Sharaqwa",
+          "Kafr al-Sarem al-Bahari",
+          "Kafr al-Aziziya",
+          "Kafr Hassan",
+          "Magoul",
+          "Mahallat Ziyad",
+          "Mahallat Khalaf",
+          "Samannoud",
+          "Manshaat Nazif",
+          "Mit Assas",
+          "Mit Hashem",
+          "Mit Badr Halawa",
+          "Mit Habib El-Sharqiya"
+        ]
+      },
+      {
+        "name": "Santa",
+        "towns": [
+          "Abu Al-Jahour",
+          "Ashnaway",
+          "El-Anboteen",
+          "El-Badanganeya",
+          "El-Bandara",
+          "El-Gaafariya",
+          "El-Gameiza",
+          "Al-Ragabya",
+          "Al-Qarshiya",
+          "Al-Karma",
+          "Al-Manshaat Al-Gedida",
+          "Al-Manshaat Al-Kubra",
+          "Baqlula",
+          "Balay",
+          "Balkim",
+          "Balous El-Hawy",
+          "Tag El-Agam",
+          "Tatay",
+          "Suhaim",
+          "Shubra Baloula Al-Samannoudiya",
+          "Shubra Qas",
+          "Shubra Bil Al-Kinaniya",
+          "Shandalaat",
+          "Shanraq",
+          "Shanra El-Bahareya",
+          "Toukh Mazeed",
+          "Ezbet Toukh",
+          "Kafr El-Haj Dawoud",
+          "Kafr al-Sheikh Meftah",
+          "Kafr Khaza'el",
+          "Kafr Salma al-Nahhal",
+          "Kafr Sulaiman Awad",
+          "Kafr Qartam",
+          "Kafr Kala El-Bab",
+          "Kafr Mit Haway",
+          "Madinet El Santa",
+          "Moshala",
+          "Manshaat Abu Abdallah",
+          "Minyet Toukh",
+          "Minyet El-Bandara",
+          "Mit El-Leit Baqloula",
+          "Mit Haway",
+          "Mit Ghazal",
+          "Mit Meimoun",
+          "Mit Yazeed"
+        ]
+      },
+      {
+        "name": "Tanta",
+        "towns": [
+          "Akhnawy El-Zallaqa",
+          "El-Gawhariya",
+          "Al-Ragdiya",
+          "Al-Ramliya",
+          "Al-Karsa",
+          "Barma",
+          "Bareik el-Hagar",
+          "Talbent Qaysar",
+          "Hasset Barma",
+          "Hasset Shabshir",
+          "Khersit",
+          "Dafra",
+          "Dakouda",
+          "Damshit",
+          "Sabarbay",
+          "Sabtas",
+          "Shubra Al-Namla",
+          "Shabshir Al-Hessa",
+          "Shaqraf",
+          "Shoubar",
+          "Shouna",
+          "Sanadid",
+          "Fisha Selim",
+          "Kafr Abu Dawoud",
+          "Kafr El-Hama",
+          "Kafr El-Sahel",
+          "Kafr El-Sharfa El-Sharqy",
+          "Kafr al-Sheikh Salim",
+          "Kafr al-Iraqi",
+          "Kafr al-Manshi al-Qibli",
+          "Kafr al-Mansoura",
+          "Kafr Khadr",
+          "Kafr Sabtas",
+          "Kafr Tarna",
+          "Kafr Essam",
+          "Kafr Alwan",
+          "Kafr Masoud",
+          "Kaniset Damshit",
+          "Mahallat Rouh",
+          "Mahallat Marhoum wa Hessetha",
+          "Mahallat Menouf",
+          "Manshaat al-Guneidi",
+          "Manshiet El-Awqaf",
+          "Manshiet Ganzour",
+          "Menyel El-Howeishat",
+          "Mit El-Soudan",
+          "Mit Habeish El-Bahariya",
+          "Mit Habeish El-Qibliya",
+          "Nafya",
+          "Nawag"
+        ]
+      },
+      {
+        "name": "Tanta 1",
+        "towns": [
+          "El-Boursa",
+          "Al-Dawawin",
+          "Kafr Seiger",
+          "Kobri El Mahatta",
+          "Marzouq",
+          "Meidan El-Saa",
+          "Wabour El-Nour"
+        ]
+      },
+      {
+        "name": "Tanta 2",
+        "towns": [
+          "Al-Salkhana",
+          "El-Omry",
+          "Al-Kafra Al-Sharqiya",
+          "El-Malga'",
+          "Sabry",
+          "Tanta Khareg El-Kourdon",
+          "Ali Agha",
+          "Qahafa"
+        ]
+      },
+      {
+        "name": "Zifta",
+        "towns": [
+          "Al-Riyadh",
+          "Al-Samlawiya",
+          "El-Dababshah",
+          "El-Aaysha",
+          "Al-Gharib",
+          "Tafahna El-Azab",
+          "Hanout",
+          "Hanoun",
+          "Damanhour al-Wahsh",
+          "Dahtoura",
+          "Sanbat wa Hessetha",
+          "Sanbou wa Manshaat Al-Sabahi",
+          "Sand Bast",
+          "Shubra Al-Yaman",
+          "Shubra Mels",
+          "Sharshaba",
+          "Shishta",
+          "Farsis",
+          "Kafr Abry",
+          "Kafr Ismail",
+          "Kafr El-Gezira",
+          "Kafr El-Gendy",
+          "Kafr El-Daghayda",
+          "Kafr El-Deeb",
+          "Kafr El-Zeitoun",
+          "Kafr El-Soheimya",
+          "Kafr El-Sanadiya",
+          "Kafr al-Sarem al-Qibli",
+          "Kafr al-Arab",
+          "Kafr Hanout al-Bahari",
+          "Kafr Hanout al-Qibli",
+          "Kafr Hussein",
+          "Kafr Damanhour al-Qadim",
+          "Kafr Sanbat",
+          "Kafr Sanbou",
+          "Kafr Shahin",
+          "Kafr Shubra El-Yaman",
+          "Kafr Shubra Qalouj",
+          "Kafr Shishta",
+          "Kafr Shamara",
+          "Kafr Abd El-Rahman",
+          "Kafr Ghazi",
+          "Kafr Farsis",
+          "Kafr Mit El-Haroun",
+          "Kafr Naway",
+          "Zifta",
+          "Masged Wasif",
+          "Manshaat Hatem",
+          "Manshaat Hassan",
+          "Mit El-Bazz",
+          "Mit El-Haroun",
+          "Mit El-Rakha",
+          "Mit El-Mobashereen",
+          "Mit El-Mokhles",
+          "Nahtay"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giza",
+    "lgas": [
+      {
+        "name": "6 October-1",
+        "towns": [
+          "El-Shiyakha El-Oula",
+          "El-Shiyakha El-Tasi'ah",
+          "El-Shiyakha El-Thalithah",
+          "El-Shiyakha El-Thaminah",
+          "El-Shiyakha El-Thaniyah",
+          "El-Shiyakha El-Sabi'ah",
+          "Khareg Zemam al-Shiyakhat"
+        ]
+      },
+      {
+        "name": "6 October-2",
+        "towns": [
+          "El-Shiyakha El-Thaniyah Ashar",
+          "El-Shiyakha El-Hadiyah Ashar",
+          "El-Shiyakha El-Khamisah",
+          "El-Shiyakha El-Rabi'ah",
+          "El-Shiyakha El-Sadisah",
+          "El-Shiyakha El-Ashirah",
+          "Khareg Zemam al-Shiyakhat"
+        ]
+      },
+      {
+        "name": "Al-Aguza",
+        "towns": [
+          "El-Houtiya",
+          "El-Agouza",
+          "Geziret Mit Oqba",
+          "Madinet El Awqaf - El Ealam",
+          "Mit Aqaba"
+        ]
+      },
+      {
+        "name": "Al-Ahram",
+        "towns": [
+          "Ghatati",
+          "Kafret El-Gabal",
+          "Kafret Nassar w Funduq Mena House",
+          "Manshaat al-Bakkari",
+          "Nazlet El-Batran",
+          "Nazlet El-Samman"
+        ]
+      },
+      {
+        "name": "Atfeh",
+        "towns": [
+          "El-Barmabal",
+          "El-Half",
+          "El-Half El-Gharbi",
+          "El-Kharman",
+          "Al-Raqqa al-Bahariya",
+          "Al-Raqqa al-Qibliya",
+          "El-Salhiyah",
+          "Al-Qababat",
+          "Al-Kadaya",
+          "Al-Karimat",
+          "Bani Saleh",
+          "Geziret El-Kareimat",
+          "Deir al-Maimun",
+          "Soul",
+          "Kafr al-Waslin",
+          "Kafr Halawa",
+          "Kafr Qandil",
+          "Madinet Atfih",
+          "Masged Moussa",
+          "Manshaat Suleiman",
+          "Minyet El-Raqqa",
+          "Menyel El-Soltan",
+          "Nazlet Targam"
+        ]
+      },
+      {
+        "name": "Auseem",
+        "towns": [
+          "El-Baragil",
+          "Al-Zaydiya",
+          "Al-Qirattiyin",
+          "El-Koum El-Ahmar",
+          "Bartas",
+          "Zawiyat Thabit",
+          "Saqil",
+          "Shanbari",
+          "Sayda",
+          "Awsim"
+        ]
+      },
+      {
+        "name": "Ayat",
+        "towns": [
+          "Abu Al-Abbas",
+          "Abu Ruwaish",
+          "El-Barghouti",
+          "El-Buleida",
+          "El-Gamla",
+          "Al-Danawiya",
+          "Al-Raqqa al-Gharbiya",
+          "Al-Sa'udiya",
+          "El-Aamriya",
+          "El-Atf",
+          "Al-Qattouri",
+          "El-Lisht",
+          "El-Lehibi",
+          "El-Matania",
+          "El-Masanda",
+          "El-Maqatfiya",
+          "Al-Nasseriya",
+          "Baget el-Sheikh",
+          "Badsa",
+          "Barnasht",
+          "Bamha",
+          "Bahbit",
+          "Bidaf",
+          "Garza",
+          "Zawiyat Aw Suwaylim",
+          "Tohma",
+          "Kafr Torky w Kafr Tarkhan",
+          "Kafr El-Rifaey",
+          "Kafr al-Daba'i",
+          "Kafr Barakat",
+          "Kafr Garza",
+          "Kafr Hamid",
+          "Kafr Shahata",
+          "Kafr Ammar",
+          "Kafr Qassem",
+          "Madinet El Ayyat",
+          "Manshaat Abu al-Abbas",
+          "Manshaat Abdel Sayed",
+          "Manshiet Fadel",
+          "Mit El-Qayed"
+        ]
+      },
+      {
+        "name": "Badrashain",
+        "towns": [
+          "Abu Rajwan Al-Bahari",
+          "Abu Rajwan Al-Qibli",
+          "Abu Sir",
+          "El-Shanbab",
+          "El-Shoubak El-Gharbi",
+          "El-Tarfayah",
+          "El-Aziziya",
+          "El-Maraziq",
+          "Dahshour",
+          "Zawiyat Dahshour",
+          "Zahran wa Jaber",
+          "Saqqara",
+          "Qal'et El-Maraziq",
+          "Madinet El Badrasheen",
+          "Mazghouna",
+          "Manshaat Dahshour",
+          "Manshaat Kaseb",
+          "Mit Raheena",
+          "Nazlet El-Shobak"
+        ]
+      },
+      {
+        "name": "Bahariya Oasis",
+        "towns": [
+          "El-Tabaniya",
+          "El-Hara",
+          "Al-Zabou",
+          "El-Agouz",
+          "El-Gharbiya",
+          "Al-Qabala",
+          "Al-Qasr",
+          "El-Managem",
+          "Reis",
+          "Tabl Amoun",
+          "Ezbet al-Gaza'er",
+          "Ezbet Ain al-Qasir",
+          "Ezbet Mawoud",
+          "Ain al-Ezza",
+          "Madinet El Bawiti",
+          "Mandisha"
+        ]
+      },
+      {
+        "name": "Bulaq Al-DakrUr",
+        "towns": [
+          "Abu Qatada wa Tashmal Nawfal Al-Jadida wa Nawfal Al-Qadima",
+          "Boulaq El-Dakrour",
+          "Zanin",
+          "Kafr Taharmas",
+          "Manshaat Aliyan",
+          "Nazlet Bahgat",
+          "Nazlet Khalaf"
+        ]
+      },
+      {
+        "name": "DuqqI",
+        "towns": [
+          "Al-Dokki"
+        ]
+      },
+      {
+        "name": "Giza",
+        "towns": [
+          "Al-Mounib",
+          "Geziret El-Dahab",
+          "Haret Oula",
+          "Haret Talta",
+          "Haret Tanya",
+          "Haret Rab'a",
+          "Saqiya Makki"
+        ]
+      },
+      {
+        "name": "Giza",
+        "towns": [
+          "El-Haraniya",
+          "Al-Manawat",
+          "Bani Youssef",
+          "Tersa",
+          "Zawiyat Abu Muslim",
+          "Shubra Mant",
+          "Tamouh",
+          "Madinet Abu El Numrus",
+          "Menyel Shiha",
+          "Mit Shamas",
+          "Mit Qadous",
+          "Nazlet El-Ashtar"
+        ]
+      },
+      {
+        "name": "Hwamdeia",
+        "towns": [
+          "El-Sheikh Otman",
+          "Om Khanan",
+          "Madinet El Hawamdiya"
+        ]
+      },
+      {
+        "name": "Imbaba",
+        "towns": [
+          "Al-Mounira",
+          "Tag El-Dawl",
+          "Geziret Imbaba",
+          "Shiakhet 6 October",
+          "Abd al-Na'im",
+          "Kafr El-Sheikh Ismail",
+          "Kafr al-Shawam",
+          "Madinet El Tahrir",
+          "Madinet El Ommal",
+          "Matar Imbaba",
+          "Mit Kardak"
+        ]
+      },
+      {
+        "name": "Imbaba",
+        "towns": [
+          "Abu Ghalib",
+          "Atrees",
+          "El-Ekhsas",
+          "El-Galatma",
+          "El-Hager",
+          "El-Hassaniyeen",
+          "Al-Rahawi",
+          "Al-Sabil",
+          "Al-Qata",
+          "El-Manashi",
+          "Al-Mansouriya",
+          "Om Dinar",
+          "Barqash",
+          "Bani Salama",
+          "Baharmas",
+          "Gazaya",
+          "Dhat al-Koum",
+          "Kafr Abu El-Hadid",
+          "Kafr Hegazi",
+          "Mahmoud Abdel Samad",
+          "Manshiyat al-Qanatir",
+          "Manshiet Radwan",
+          "Nekla",
+          "Wardan"
+        ]
+      },
+      {
+        "name": "Kardasa",
+        "towns": [
+          "Abu Rawash",
+          "Ard El-Lewaa",
+          "El-Mo'tamadiya",
+          "Birket el-Khiyam",
+          "Bani Magdoul",
+          "Saft El-Laban",
+          "Kardasa",
+          "Kafr Hakim",
+          "Koumbarra",
+          "Nahya"
+        ]
+      },
+      {
+        "name": "Saf",
+        "towns": [
+          "Askar",
+          "El-Ekhsas",
+          "El-Aqawaz",
+          "El-Gezira El-Shaqra",
+          "El-Hayy w El-Mansha",
+          "Al-Dismi",
+          "Al-Shurafa wal Atiyat",
+          "El-Shoubak El-Sharqi",
+          "Al-Fahmiyin",
+          "Al-Minya",
+          "Al-Wadi",
+          "Arab al-Hesar al-Bahariya",
+          "Arab al-Hesar",
+          "Arab al-Abayda",
+          "Ghammazet El-Sughra",
+          "Ghammazet El-Kubra",
+          "Kafr Tarkhan",
+          "Madinet El Saff",
+          "Nogou' El-Arab",
+          "Nazlet Alian"
+        ]
+      },
+      {
+        "name": "Shaykh Zayed",
+        "towns": [
+          "Madinet El Sheikh Zayed"
+        ]
+      },
+      {
+        "name": "Umraniyya",
+        "towns": [
+          "El-Talbiyah El-Qibliyah",
+          "El-Omraniya El-Sharqiya",
+          "El-Omraniya El-Gharbiya",
+          "El-Kanisa",
+          "El-Koum El-Akhdar",
+          "Oula el-Haram"
+        ]
+      },
+      {
+        "name": "Waraq",
+        "towns": [
+          "Bashtil",
+          "Geziret Mohamed",
+          "Tanash wa Nazlet El-Zomor",
+          "al-Warraq"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ismailia",
+    "lgas": [
+      {
+        "name": "Fayid",
+        "towns": [
+          "Abu Sultan",
+          "Sarabium",
+          "Fanara",
+          "Fayed"
+        ]
+      },
+      {
+        "name": "Ismailiyya",
+        "towns": [
+          "Abu Suweir Al-Balad",
+          "Abu Suweir Al-Mahatta",
+          "Al-Sab' Abar Al-Sharqiya",
+          "Al-Sab' Abar Al-Gharbiya",
+          "El-Daba'iyah",
+          "Al-Fardan Al-Gadida",
+          "El-Mahsama El-Gedida",
+          "Al-Manayef",
+          "Khareg al-Zemam",
+          "Ain Ghosein",
+          "Nafisha"
+        ]
+      },
+      {
+        "name": "Ismailiyya 1",
+        "towns": [
+          "El-Temsah",
+          "El-Abbasy",
+          "Makkah"
+        ]
+      },
+      {
+        "name": "Ismailiyya 2",
+        "towns": [
+          "El-Hekr",
+          "El-Arayishiya El-Gedida",
+          "Manshaat al-Shuhadaa"
+        ]
+      },
+      {
+        "name": "Ismailiyya 3",
+        "towns": [
+          "Hayy al-Sheikh Zayed"
+        ]
+      },
+      {
+        "name": "Qantara Gharb, al-",
+        "towns": [
+          "Abu Khalifa",
+          "El-Akharasa",
+          "El-Banahwa",
+          "El-Bayadiya",
+          "Al-Riyah wa Yatba'ha al-Ballah",
+          "Al-Fardan",
+          "Al-Nasr",
+          "al-Qantara Gharb"
+        ]
+      },
+      {
+        "name": "Qantara Sharq, al-",
+        "towns": [
+          "El-Abtal",
+          "El-Ismailia Sharq? Raqm? Sabeqan?",
+          "El-Taqaddom",
+          "El-Telal El-Ahmar",
+          "Al-Salam Al-Jadida? Tashmal Al-Buhayrat Al-Murra?",
+          "El-Ezba",
+          "Bawabet El-Qantara Sharq El-Gomrok",
+          "Bir El-Orouq",
+          "Bir Habita",
+          "Bir Madkour",
+          "Gabal Abu Khosheib",
+          "Galbana",
+          "Hawd Amsa'ada",
+          "Qaryet Mit Abu El-Koum El-Gedida",
+          "Katibet El-Geish",
+          "al-Qantara Sharq"
+        ]
+      },
+      {
+        "name": "Tal al-Kabir, al-",
+        "towns": [
+          "Abu Ashour",
+          "El-Telal El-Kebir",
+          "El-Gezira El-Khadra",
+          "El-Dhahiriyah",
+          "Al-Qassasin Al-Gadida",
+          "Al-Qassasin Al-Qadima",
+          "El-Mahsama El-Qadima",
+          "Al-Wadi Al-Akhdar",
+          "Om Azzam",
+          "Khareg al-Zemam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kafr El-Shikh",
+    "lgas": [
+      {
+        "name": "Al Hamul",
+        "towns": [
+          "El-Abadeya El-Bahareya",
+          "El-Banna wa Ezabha",
+          "Al-Za'faran",
+          "Al-Kafr Al-Sharqi",
+          "Khareg Kordon Qita' al-Hamoul",
+          "Qita' El-Hamoul",
+          "Qita' Mansour",
+          "Koum El Hagar",
+          "Madinet El Hamoul"
+        ]
+      },
+      {
+        "name": "Biyalu",
+        "towns": [
+          "Abshan",
+          "El-Howa",
+          "Al-Shutout",
+          "El-Alamiya",
+          "El-Koum El-Tawil",
+          "Al-Nasseriya",
+          "Al-Hemma",
+          "Haze'q",
+          "Dar al-Salam",
+          "Ezbet Badawy",
+          "Kafr El-Garaida",
+          "Kafr al-Agami",
+          "Kafr al-Qatta",
+          "Koum El Hagana",
+          "Bila"
+        ]
+      },
+      {
+        "name": "Burullus",
+        "towns": [
+          "El-Borg",
+          "El-Bana'een",
+          "El-Hammad",
+          "Al-Rob' Souq al-Talāt",
+          "Al-Sahel Al-Bahari_Baloush",
+          "Al-Sahel Al-Qibli_Al-Wahhabiya",
+          "El-Shahabiyah",
+          "El-Sheikh Mubarak",
+          "El-Ayyash",
+          "Bar Bahari",
+          "Baltim"
+        ]
+      },
+      {
+        "name": "Disuq",
+        "towns": [
+          "Desouk"
+        ]
+      },
+      {
+        "name": "Disuq",
+        "towns": [
+          "Abto",
+          "Abyouqa",
+          "El-Ibrahimia",
+          "El-Shoun",
+          "El-Safiyah wa Mit El-Hamid",
+          "El-Agouzin",
+          "Al-Mandoura",
+          "Al-Nawayga",
+          "Gamgamoun",
+          "Damrou Salman",
+          "Damanka",
+          "Sanhour Al-Madina",
+          "Shaba",
+          "Shabas Al-Shuhadaa",
+          "Shabas Al-Malh",
+          "Ezab Abu Mandour",
+          "Ezab al-Zawamel",
+          "Ezab al-Shabasiya",
+          "Kafr Ibrahim",
+          "Kafr Abu Ziyada",
+          "Kafr El-Kheir",
+          "Kafr El-Soudan",
+          "Kafr al-Arab",
+          "Kafr Umm Youssef",
+          "Kafr Abd El-Rahman",
+          "Kafr Magar",
+          "Kaniset El Saradousi",
+          "Lasayfer",
+          "Mahallat Abu Ali El Gharbiya",
+          "Mahallat Diay",
+          "Mahallat Malek",
+          "Manshaat Battah",
+          "Manshaat Zaalouk",
+          "Manshaat Ali Agha",
+          "Minyet Ganag"
+        ]
+      },
+      {
+        "name": "Fuwwa",
+        "towns": [
+          "Abu Daraz",
+          "Al-Salmiya",
+          "Al-Futouh",
+          "Al-Manshiya",
+          "Sandyoun",
+          "Shamshira",
+          "Aryan",
+          "Qabrit",
+          "Fouh",
+          "Mit El-Ashraf"
+        ]
+      },
+      {
+        "name": "Kafr Al-Shaykh",
+        "towns": [
+          "El-Shawadfi El-Laqani",
+          "El-Molhaqat",
+          "Badeir Aliwa",
+          "Sakha",
+          "Ali Mostafa al-Zawawy",
+          "Awad al-Zawawy",
+          "Mit Alwan"
+        ]
+      },
+      {
+        "name": "Kafr Al-Shaykh",
+        "towns": [
+          "Misir",
+          "Ab'adiya Al-Rawda",
+          "Abu Tamada",
+          "Adreega",
+          "Arymoun",
+          "Ishaqa",
+          "El-Bakhanees",
+          "El-Hodoud",
+          "El-Hallaqi",
+          "El-Hamra",
+          "El-Khadimiya",
+          "El-Khodeiri",
+          "El-Shamarqah",
+          "El-Tayfah",
+          "El-Tarabiyah",
+          "Al-Qarda",
+          "Al-Kafr Al-Gadida",
+          "El-Marab'in",
+          "Al-Nattaf",
+          "Batita",
+          "Balshasha",
+          "Huleis",
+          "Dafriya",
+          "Daqalt",
+          "Daqmeira",
+          "Razfa Amay",
+          "Rizqat al-Shinawy",
+          "Ruwaina",
+          "Sidi Ghazi",
+          "Shanou",
+          "Sandala",
+          "Qaraga",
+          "Kafr Abu Tabl",
+          "Kafr El-Tayfa",
+          "Kafr El-Marabein",
+          "Kafr El-Monshey El-Bahary",
+          "Kafr Dafriya",
+          "Kafr Askar",
+          "Kafr Matboul",
+          "Kafr El-Hamrawy",
+          "Matboul",
+          "Mahallat El Qasab",
+          "Mahallat Moussa",
+          "Mostafa Kamel",
+          "Manshaat al-Safa",
+          "Minyet Messir",
+          "Nosra"
+        ]
+      },
+      {
+        "name": "Mitubas",
+        "towns": [
+          "Abyana",
+          "El-Gezira El-Khadra",
+          "Al-Qani",
+          "Al-Qoumisiyoun Sharq",
+          "Al-Qoumisiyoun Gharb",
+          "Borg Meghizel",
+          "Barnbal",
+          "Baridaa",
+          "Bani Bakkar",
+          "Ezab al-Khalig Bahari",
+          "Ezab al-Khalig",
+          "Ezab al-Gharb",
+          "Ezab al-Waqf Bahari",
+          "Ezab al-Waqf Qibli",
+          "Ezbet Amr",
+          "Mutoubas",
+          "Maadeyet Mahdi wal-Argan",
+          "Minyet El-Morshed"
+        ]
+      },
+      {
+        "name": "Qillin",
+        "towns": [
+          "El-Bakatoush",
+          "El-Shaqqah",
+          "Al-Ghunaymi",
+          "Al-Kurdi",
+          "Al-Kafr Al-Bahari",
+          "Al-Manshaat Al-Sughra",
+          "Al-Manshaat Al-Kubra",
+          "Al-Manshalin",
+          "Balankouma",
+          "Hasset al-Ghuneimi",
+          "Shabas Ameir",
+          "Sarwa",
+          "Tawila Nashart",
+          "Qozman",
+          "Qouna",
+          "Kafr El-Gazaer",
+          "Kafr al-Marazqa",
+          "Kafr al-Mashayekh",
+          "Kafr Youssef Hanas",
+          "Kafr Youssef Dawoud",
+          "Qallin",
+          "Manshaat al-Shazly",
+          "Manshaat Shubrato",
+          "Manshaat Aglan",
+          "Minyet Qallin",
+          "Mit El-Diba",
+          "Nashrat"
+        ]
+      },
+      {
+        "name": "Riyad",
+        "towns": [
+          "Abu Riya",
+          "Abu Mustafa",
+          "El-Bariya",
+          "El-Bashayer",
+          "El-Hasfa",
+          "Al-Rasif",
+          "Al-Raghama",
+          "El-Daba'ah",
+          "El-Aaqoula",
+          "El-Abbasiya",
+          "El-Omdan",
+          "El-Mosallas",
+          "El-Wazireya",
+          "Om Senan el-Kubra",
+          "Baqlula",
+          "Farag",
+          "Madinet El Riyad",
+          "Manshaat Salama"
+        ]
+      },
+      {
+        "name": "Sidi Salim",
+        "towns": [
+          "Abu Ahmad",
+          "Abu Aliwa",
+          "Abu Ghunaima",
+          "El-Haddadi w 'Ezabha",
+          "Al-Khawaled",
+          "Al-Rawda",
+          "El-Salhat",
+          "El-Eisawiya",
+          "Al-Fuqaha' Al-Bahariya",
+          "Al-Fuqaha' Al-Qibliya",
+          "Al-Qadabi",
+          "Al-Handasa",
+          "El-Waraq",
+          "Bareyet Lasifar",
+          "Barid w Kafr Yousef",
+          "Tida",
+          "Khareg al-Zemam",
+          "Damrou",
+          "Sadd Khamis",
+          "Shalma",
+          "Kafr al-Masharqa",
+          "Kafr Tida",
+          "Koum El Dahab - Zubeida El Bahariya Sabeqan",
+          "Sidi Salem",
+          "Manshaat Abu Ali",
+          "Manshaat al-Masri",
+          "Manshaat Abbas",
+          "Manshaat Aql"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kalyoubia",
+    "lgas": [
+      {
+        "name": "Abour",
+        "towns": [
+          "Madinet El Obour"
+        ]
+      },
+      {
+        "name": "Al Khanka",
+        "towns": [
+          "23 Yulyu",
+          "Abu Zaabal",
+          "El-Gabal El-Asfar",
+          "Al-Qalg",
+          "Al-Manayel",
+          "Al-Minya",
+          "Saryaqus",
+          "Sandawa",
+          "Arab al-Ayayda",
+          "Arab al-Olayqat",
+          "Kafr Hamza",
+          "Kafr Abyan",
+          "Madinet El Khanka",
+          "Mazraat al-Gabal al-Asfar"
+        ]
+      },
+      {
+        "name": "Banha",
+        "towns": [
+          "Al-Riyah",
+          "Al-Manshiya",
+          "Banha",
+          "Banha El-Gedida",
+          "Kafr Manaqer"
+        ]
+      },
+      {
+        "name": "Banha",
+        "towns": [
+          "Al-Ramla",
+          "Al-Sahel",
+          "El-Shamout",
+          "Batamda",
+          "Bata",
+          "Baqira",
+          "Geziret Bali",
+          "Gamgara",
+          "Dagwi",
+          "Damlou",
+          "Sandanhour",
+          "Shablanja",
+          "Tahla",
+          "Farsis",
+          "Kafr Abu Zekry",
+          "Kafr Abu Zahra",
+          "Kafr El-Arbaeen",
+          "Kafr El-Gazzar",
+          "Kafr El-Hessa",
+          "Kafr El-Hammam",
+          "Kafr El-Shamout",
+          "Kafr al-Sheikh Ibrahim",
+          "Kafr al-Arab",
+          "Kafr Bata",
+          "Kafr Sa'd",
+          "Kafr Sandan Hour",
+          "Kafr Tahla",
+          "Kafr Atallah",
+          "Kafr Farsis",
+          "Kafr Mouis",
+          "Magoul",
+          "Marsafaw Kafr Ahmed Hashish",
+          "Manshaat Abu Diyab",
+          "Manshaat Banha",
+          "Minyet El-Sebaa",
+          "Mit El-Houfein",
+          "Mit El-Attar",
+          "Mit Rady",
+          "Mit Aasem",
+          "Naqbas",
+          "Warwara"
+        ]
+      },
+      {
+        "name": "Kafr Shukr",
+        "towns": [
+          "Asneet",
+          "El-Baqaashin",
+          "Al-Zumrutiya",
+          "El-Shaqr",
+          "El-Saffayn",
+          "Al-Manshaat Al-Sughra",
+          "Al-Manshaat Al-Kubra",
+          "Barqata",
+          "Tasfa",
+          "Kafr Marwan w Tashmal Kafr Fanous Masoud",
+          "Kafr al-Shahawi Khatir",
+          "Kafr al-Walga",
+          "Kafr Ragab",
+          "Kafr Sharaf El-Din",
+          "Kafr Salib Salama",
+          "Kafr Tasfa",
+          "Kafr Abd El-Sayed Nawwar",
+          "Kafr Azab Ghoneim",
+          "Kafr Kourdi",
+          "Kafr Mansour",
+          "Kofour Amer w Radwan",
+          "Kafr Shukr",
+          "Mit El-Dereig"
+        ]
+      },
+      {
+        "name": "Khsos",
+        "towns": [
+          "Qism El-Khusus"
+        ]
+      },
+      {
+        "name": "Qaha",
+        "towns": [
+          "El-Hassaniya",
+          "Al-Nasseriya",
+          "Qaha"
+        ]
+      },
+      {
+        "name": "Qalyub",
+        "towns": [
+          "Qalyoub"
+        ]
+      },
+      {
+        "name": "Qalyub",
+        "towns": [
+          "Abu Sanna",
+          "El-Eslah El-Zeraei",
+          "Al-Sadd",
+          "El-Sabah",
+          "Balqas",
+          "Halaba wa Kafr al-Sabil",
+          "Zawiyat al-Naggar",
+          "Sandyoun",
+          "Sanafeer",
+          "Tanan",
+          "Qalma",
+          "Kafr Abu Gomaa",
+          "Kafr Ramada wal-Torgoman",
+          "Koum Ashfin",
+          "Mantey",
+          "Mit Halfa",
+          "Mit Nama",
+          "Nay"
+        ]
+      },
+      {
+        "name": "Qanatir Al-Khayriyya",
+        "towns": [
+          "Abu Al-Gheit",
+          "Agehour El-Soghra",
+          "El-Akhmiyeen",
+          "El-Baradea wa Khalwetha",
+          "El-Kharqaniya",
+          "El-Aamriya",
+          "Al-Mounira",
+          "Bassous",
+          "Bahada",
+          "Sandabis",
+          "Shubra Shahab",
+          "Shalqan",
+          "Qaranfil",
+          "Kafr El-Hareth",
+          "Kafr El-Sharfa El-Gharby",
+          "Kafr Salim",
+          "Kafr Alim",
+          "al-Qanatir al-Khayriya"
+        ]
+      },
+      {
+        "name": "Shibin al-Qanatir",
+        "towns": [
+          "El-Ahraz",
+          "El-Gaafra",
+          "El-Hazaniya",
+          "El-Hasayna",
+          "El-Hasafa",
+          "Al-Zahwiyyin",
+          "Al-Salmaniya",
+          "El-Shoubak",
+          "El-Attara",
+          "Al-Ghariri",
+          "Al-Qashish",
+          "Al-Qulzum",
+          "El-Koum El-Ahmar",
+          "El-Marij",
+          "Tal Bani Tamim",
+          "Tahanoub",
+          "Tahoureya",
+          "Arab al-Sha'ara",
+          "Arab al-Sawalha",
+          "Kafr El-Deir",
+          "Kafr El-Sharfa El-Qebly",
+          "Kafr al-Shobak",
+          "Kafr al-Sheikha Salma",
+          "Kafr al-Sohbi",
+          "Kafr Sa'd Bahiri",
+          "Kafr Sulaiman El-Warr",
+          "Kafr Sandawa",
+          "Kafr Shibin",
+          "Kafr Taha",
+          "Kafr Tahouriya",
+          "Koum El Samn",
+          "Shibin al-Qanatir",
+          "Manshaat al-Karam",
+          "Minyet Shibin",
+          "Nazlet Arab Guheina",
+          "Noub Taha",
+          "Nawi"
+        ]
+      },
+      {
+        "name": "Shubra Al-Khayma 1",
+        "towns": [
+          "Begam",
+          "Damanhour Shubra",
+          "Shubra al-Kheima"
+        ]
+      },
+      {
+        "name": "Shubra Al-Khayma 2",
+        "towns": [
+          "Bahtim",
+          "Mostorod"
+        ]
+      },
+      {
+        "name": "Tukh",
+        "towns": [
+          "Agehour El-Kobra",
+          "Akyad Dagwy",
+          "El-Abyary",
+          "El-Hessa",
+          "El-Haswa",
+          "Al-Deir",
+          "Al-Safayna",
+          "Al-Sayfa",
+          "El-Salhiyah",
+          "El-Safa",
+          "El-Abadla",
+          "El-Ammar El-Koubry",
+          "Al-Ghazawiya",
+          "Al-Manzala",
+          "Amyay",
+          "Barshoum el-Sughra",
+          "Barshoum el-Kubra",
+          "Baltan",
+          "Tersa",
+          "Geziret El-Ahrar - El-A'gam",
+          "Khalwet Sanhara",
+          "Dandana",
+          "Zawiyat Baltan",
+          "Sari",
+          "Sanhara",
+          "Shubra Haris",
+          "Tanta El-Gezira",
+          "Arab al-Rawashda",
+          "Arab al-Ghidairi",
+          "Qarqashanda",
+          "Kafr El-Gamal",
+          "Kafr El-Hadadeen",
+          "Kafr El-Hassafa",
+          "Kafr El-Ragalat",
+          "Kafr al-Ammar",
+          "Kafr al-Foqaha",
+          "Kafr al-Nakhla",
+          "Kafr Hassan Sa'd",
+          "Kafr Alwan",
+          "Kafr Mansour",
+          "Kofour Abed",
+          "Koum El Atrun",
+          "Koum Batteen",
+          "Tukh",
+          "Moshtohor",
+          "Manshiet El-Ammar",
+          "Mansouret Namoul",
+          "Mit Kinana wa Kafr Shoman",
+          "Namoul"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Luxor",
+    "lgas": [
+      {
+        "name": "Luxor",
+        "towns": [
+          "Al-Qurna",
+          "Al-Karnak",
+          "Al-Karnak Al-Gadida",
+          "Geziret El-Awamiya",
+          "Madinet El Luxor",
+          "Manshaat al-Ammari"
+        ]
+      },
+      {
+        "name": "Luxor",
+        "towns": [
+          "El-Aqalta",
+          "El-Boeirat",
+          "El-Baghdadi",
+          "El-Hubeil",
+          "El-Daba'iyah",
+          "El-Toud",
+          "El-Edayat",
+          "El-Edayat El-Qibliya",
+          "El-Gharbi Qamoula",
+          "Al-Qibli Qamoula",
+          "Madinet El Bayadiya"
+        ]
+      },
+      {
+        "name": "Tiba police station",
+        "towns": [
+          "Al-Zayniya Bahari",
+          "Al-Zayniya Qibli",
+          "El-Sa'aydah",
+          "El-Ashy",
+          "El-Madamoud",
+          "Tiba al-Gadida"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matrouh",
+    "lgas": [
+      {
+        "name": "Al-Hammam",
+        "towns": [
+          "El-Gawa",
+          "Al-Diraa al-Bahari",
+          "Al-Salam",
+          "El-Shamammah",
+          "El-Amid",
+          "Al-Qattara",
+          "El-Maghra",
+          "Awlad Masoud",
+          "Awlad Gabril",
+          "Balt",
+          "Tell El-Eiss",
+          "Khashm al-Aish",
+          "Zawiyat Abd al-Ati",
+          "Sahel al-Amid",
+          "Madinet El Hammam wa Dawahiha",
+          "Madinet El Alamein"
+        ]
+      },
+      {
+        "name": "Alamn",
+        "towns": [
+          "25 Yanayir Al-Siyahiya",
+          "Al-Sahel Al-Shamali",
+          "Marbella",
+          "Marina El Alamein El Siyahia"
+        ]
+      },
+      {
+        "name": "Daba",
+        "towns": [
+          "El-Gafira",
+          "El-Harabi",
+          "Al-Zaytoun",
+          "Al-Sharnabiya",
+          "El-Tarabiyah",
+          "Awlad Alwani",
+          "Galal",
+          "Gamei'a",
+          "Zawiyat al-Awwama",
+          "Sawani Gaber",
+          "Sawani Samalout",
+          "Sidi Abdel Rahman",
+          "Sidi Shabib",
+          "Sahraa El-Dabaa",
+          "Ghazal",
+          "Foka",
+          "Madinet El Dabaa"
+        ]
+      },
+      {
+        "name": "Marsa Matruh",
+        "towns": [
+          "Abu Al-Hawl Al-Bahariya",
+          "Abu Al-Hawl Al-Janoubiya",
+          "Abu Marqiq",
+          "Atnouh",
+          "Al-Dakhla",
+          "Al-Zughayrat",
+          "Al-Zayyat",
+          "Al-Suwaynat",
+          "Al-Qasr",
+          "Al-Qawasim",
+          "El-Masani",
+          "Al-Nasr",
+          "Om el-Rakham",
+          "Awlad Alloush",
+          "Awlad Marei",
+          "Garawla",
+          "Hatawa",
+          "Halazin",
+          "Ras al-Hikma - Abu Haggag",
+          "Samla",
+          "Sidi Haneish",
+          "Kashuk Omeira",
+          "al-Nagila",
+          "Marsa Matrouh"
+        ]
+      },
+      {
+        "name": "North Coast",
+        "towns": [
+          "Mintaqat Al-Sahel Al-Shamali"
+        ]
+      },
+      {
+        "name": "Salloum",
+        "towns": [
+          "Abu Al-Saliqa",
+          "Abu Zurayba",
+          "Arqitous El-Hamad",
+          "El-Khoreiqat",
+          "Al-Ramla",
+          "Al-Subuwiyat",
+          "Al-Sabil",
+          "El-Arayqib",
+          "Al-Qara - Al-Gara",
+          "Al-Qattara",
+          "Awgreen",
+          "Baqbaq",
+          "Habata",
+          "Halfaya",
+          "Zawiyat al-Ahadab",
+          "Safarzan - Safargal",
+          "Sawali Samalout",
+          "Sidi Omar",
+          "Ghot El-Na'ga",
+          "Ghot Musa'ed",
+          "Madinet El Salloum"
+        ]
+      },
+      {
+        "name": "Sidi Barani",
+        "towns": [
+          "Abu Marzouq",
+          "Abu Mazhour",
+          "Abu Mashifa",
+          "Abu Stail",
+          "Al-Khor",
+          "Al-Damos",
+          "Al-Zawayda",
+          "Al-Shubaykat",
+          "El-Tarif",
+          "El-Tarfayah",
+          "El-Aziziya w Alam El-Haras",
+          "El-Omda Nagm El-Din El-Zafer",
+          "Al-Fakhri",
+          "Al-Qatrani",
+          "El-Maqtala",
+          "El-Malla",
+          "Bir El-Talatt",
+          "Ras al-Mani",
+          "Ra'i al-Safra",
+          "Zawiyat al-Sheikh wal-Souq",
+          "Shamas",
+          "Sidi Barrani"
+        ]
+      },
+      {
+        "name": "Siwa",
+        "towns": [
+          "Abu Sharouf - Al-Kafrawi",
+          "Aghroumy",
+          "El-Maraqi",
+          "Amshandat",
+          "Bahy El-Din",
+          "Khamisa",
+          "Qaret Umm El-Saghir",
+          "Siwa"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Menia",
+    "lgas": [
+      {
+        "name": "Kesm Al-minya",
+        "towns": [
+          "El-Ekhsas",
+          "Qism Awwal",
+          "Qism Thalith",
+          "Qism Than",
+          "Qism Khamis",
+          "Qism Rabi'",
+          "Kafr El-Mansoura El-Qebly"
+        ]
+      },
+      {
+        "name": "Kesm Mallawi",
+        "towns": [
+          "Qism Awwal",
+          "Qism Thalith",
+          "Qism Than",
+          "Qism Rabi'"
+        ]
+      },
+      {
+        "name": "Markz Abu Qurqas",
+        "towns": [
+          "Abu Al-Safa",
+          "Abu Qurqas",
+          "Abyouha",
+          "Atdelim",
+          "Asmant",
+          "El-Barba",
+          "El-Hassaniya",
+          "Al-Sahhala",
+          "Al-Sultan Hassan",
+          "Al-Sinbillawin",
+          "El-Sheikh Tami",
+          "Al-Fuqa'i",
+          "Al-Karam",
+          "El-Matahara El-Qibliya",
+          "Al-Nahhal",
+          "Balansoura",
+          "Bani Hassan El-Shrouq",
+          "Bani Khiyar",
+          "Bani Said",
+          "Bani Obeid",
+          "Bani Mohamed Shaarawy",
+          "Bani Mousa",
+          "Gereis",
+          "Geziret Sheiba",
+          "Rihana",
+          "Zawiyat Hatim",
+          "Za'farana",
+          "Saqiya Mousa",
+          "Safay",
+          "Sharara",
+          "Saneem",
+          "Kafr al-Fila",
+          "Kafr Labs",
+          "Koum El Zuheir",
+          "Koum El Muharras",
+          "al-Fikriya",
+          "Mantout",
+          "Mansafis",
+          "Manshaat Da'bas",
+          "Manshaat Zaafarana",
+          "Manshaat El-Nasr - Manshaat Kamel",
+          "Manhary",
+          "Nazlet Asmant",
+          "Nazlet El-Sarw",
+          "Nazlet Awlad Goweid",
+          "Nazlet Gereis",
+          "Nazlet Harz",
+          "Nazlet Makin"
+        ]
+      },
+      {
+        "name": "Markz Al Idwa",
+        "towns": [
+          "Al-Jihad 4",
+          "El-Bagehour",
+          "El-Basqalon",
+          "El-Sheikh Masoud",
+          "El-Aqliya",
+          "Al-Qayat",
+          "El-Masid",
+          "Ban el-Alam",
+          "Baramsha",
+          "Bani Amer",
+          "Bani Workan",
+          "Zawiyat Baramsha",
+          "Salaqus",
+          "Safaneya",
+          "Atf Haidar",
+          "Qaryet 5 El-Aqdam",
+          "Qaryet 6 El-Nasr",
+          "Kafr al-Maghrabi",
+          "Kafr Abd El-Khaliq",
+          "Kafr Mahdi",
+          "al-Adwa",
+          "Mafouz Teiba",
+          "Manshaat al-Azhari",
+          "Manshaat al-Sawi",
+          "Manshaat Halfa",
+          "Manshaat Abdallah Lamloum",
+          "Nazlet Ramadan"
+        ]
+      },
+      {
+        "name": "Markz Al Minya",
+        "towns": [
+          "Admo",
+          "El-Ismailia",
+          "El-Amal",
+          "El-Bargaya",
+          "El-Hawarta",
+          "El-Hawasliya",
+          "Al-Dawoudiya",
+          "Al-Kamal",
+          "El-Matahara El-Bahariya",
+          "Bani Ahmed",
+          "Bani Hassan El-Ashraf",
+          "Bani Hammad",
+          "Bani Qamgar",
+          "Bani Mohamed Sultan",
+          "Bani Mahdi",
+          "Bahdal",
+          "Talla",
+          "Damaris",
+          "Damshaw Hashem",
+          "Damshir",
+          "Deir Atiya",
+          "Rida",
+          "Zawiyat Sultan",
+          "Zahra",
+          "Sawada",
+          "Saft El-Khammar El-Asleya",
+          "Saft El-Khammar El-Sharqeya",
+          "Saft El-Khammar El-Gharbeya",
+          "Saft El-Laban",
+          "Tohna El-Gabal",
+          "Tohansha",
+          "Toukh El-Kheil",
+          "Toha",
+          "Maqousa",
+          "Manshaat al-Hawasliya",
+          "Manshaat al-Dahab al-Bahariya",
+          "Manshaat al-Dahab al-Qibliya",
+          "Mahdiya",
+          "Nazlet Obeid",
+          "Nazlet El-Fallaheen",
+          "Nazlet Hussein Ali",
+          "Nazlet Farag Allah Meti",
+          "Hehya"
+        ]
+      },
+      {
+        "name": "Markz Bani Mazar",
+        "towns": [
+          "Abshaq Al-Ghazal",
+          "Abtuga",
+          "Abu Al-Abbas",
+          "Abu Jurj",
+          "Ashrouba",
+          "Atwal El-Waqf",
+          "El-Bahansa El-Gharbiya wa Kafr El-Mansoura",
+          "El-Garnous",
+          "El-Gindiya",
+          "El-Husseiniya",
+          "Al-Sa'diya",
+          "Al-Salam",
+          "Al-Sanariya",
+          "El-Sheikh Atta",
+          "El-Sheikh Fadl",
+          "Al-Qays",
+          "Al-Mawadda",
+          "Al-Nasseriya",
+          "Al-Nagah",
+          "Om el-Sas",
+          "Bardouna el-Ashraf",
+          "Balla El-Mustagidda",
+          "Bani Samet",
+          "Bani Ali",
+          "Hamada",
+          "Deir al-Sanqariya",
+          "Saqula",
+          "Shalqam",
+          "Saft Abu Gorg",
+          "Sandafa",
+          "Tanbou",
+          "Ezbet al-Khalil Ibrahim",
+          "Kafr Abu El-Oudein",
+          "Kafr al-Sheikh Ibrahim",
+          "Bani Mazar",
+          "Ma'saret Haggag",
+          "Manshaat Abu Aziz",
+          "Manshaat al-Sheikh Fadl",
+          "Manshaat al-Qaysi",
+          "Manshaat al-Yousfi",
+          "Manshaat Bakir",
+          "Manshaat Galal",
+          "Nazlet El-Daleel",
+          "Nazlet Khalaf",
+          "Nazlet Amro"
+        ]
+      },
+      {
+        "name": "Markz Dir Mawas",
+        "towns": [
+          "Abu Khalqa",
+          "Asmo El-Arous",
+          "El-Badraman",
+          "El-Hag Qandil",
+          "Al-Rahmaniya",
+          "Al-Sawalm",
+          "El-Ammariya",
+          "El-Ammariya El-Sharqiya",
+          "Al-Nasseriya",
+          "Bani Haram",
+          "Bani Salem",
+          "Bani Omran",
+          "Tanouf",
+          "Tal Bani Omran",
+          "Geziret Tal Bani Omran",
+          "Dalga",
+          "Za'bara",
+          "Toukh",
+          "Ezab Tal Bani Omran",
+          "Kafr Khazam",
+          "Deir Mawas",
+          "Manshaat Khuzam al-Gharbiya",
+          "Manshaat Samhan",
+          "Nazlet El-Badraman",
+          "Nazlet El-Hasayba",
+          "Nazlet Awlad Morgan",
+          "Nazlet Saeed",
+          "Nazlet Abdel-Masih",
+          "Nazlet Mohamed Samhan",
+          "Nazlet Mahmoud"
+        ]
+      },
+      {
+        "name": "Markz Maghagha",
+        "towns": [
+          "Aba Al-Waqf",
+          "Abu Bisht",
+          "Ashneen El-Nasara",
+          "Atneya",
+          "El-Balaazetin",
+          "El-Tahrir",
+          "El-Tawfiq 7",
+          "Al-Zawra",
+          "El-Sheikh Ziyad",
+          "El-Abbasiya El-Gedida",
+          "El-Koum El-Akhdar",
+          "Bartabat",
+          "Balhasa",
+          "Bani Khaled",
+          "Bani Khalaf",
+          "Bani Wal El-Lams",
+          "Geziret Sharouna",
+          "Hamida al-Jundi",
+          "Dahrout",
+          "Dahmaru",
+          "Deir al-Jarnus",
+          "Zawiyat al-Judami",
+          "Sharouna",
+          "Shamal Basal Al-Bahariya",
+          "Shamal Basal Al-Qibliya",
+          "Tanbadi",
+          "Abbad Sharouna",
+          "Qaffada",
+          "Kafr El-Salheen El-Bahary",
+          "Kafr al-Madawer",
+          "Koum El Hasel",
+          "Maghagha",
+          "Malatiya",
+          "Manshaat Lamloum",
+          "Manshaat Niazi",
+          "Miyana El-Waqf",
+          "Nazlet Ahmed Younes",
+          "Nazlet Awlad El-Sheikh",
+          "Nazlet Balhasa",
+          "Nazlet Beni Khalaf",
+          "Nazlet Dahrout",
+          "Nazlet Shiha"
+        ]
+      },
+      {
+        "name": "Markz Mallawi",
+        "towns": [
+          "Abshadat",
+          "Abu Qalta",
+          "Atqa",
+          "El-Edara",
+          "El-Ashmouneen",
+          "El-Baragil",
+          "El-Barsha",
+          "El-Baraka",
+          "El-Bayadiya",
+          "El-Horreya",
+          "Al-Rawda",
+          "Al-Rirmoun",
+          "Al-Sawahga",
+          "El-Sheikh Hussein",
+          "El-Sheikh Shabikah",
+          "El-Sheikh Abadah",
+          "El-Arein Bahary",
+          "El-Arein Qibly",
+          "El-Mahras",
+          "El-Ma'sara Bahari",
+          "Om Qamas",
+          "Bani Hafez",
+          "Bani Khaled",
+          "Bani Rouh",
+          "Tanda",
+          "Tounah El-Gabal",
+          "Galal El-Sharqiya",
+          "Darwa",
+          "Deir Abu Hinnis",
+          "Deir al-Barsha",
+          "Deirout Amankhala",
+          "Sanjarg",
+          "Shaarawy",
+          "Ezbet Galal",
+          "Ezbet Mostafa Hamdy",
+          "Qasr Hour",
+          "Qalba",
+          "Qalandoul",
+          "Manshaat al-Mughalaqa",
+          "Manshaat Seif al-Nasr al-Sharqiya",
+          "Manshaat Seif al-Nasr Mohamed",
+          "Nag' Markab",
+          "Nazlet El-Aarein Qibli",
+          "Nazlet Tanda",
+          "Nazlet Touna",
+          "Nazlet Hamzawi",
+          "Nazlet Sharmoukh",
+          "Naway",
+          "Hour"
+        ]
+      },
+      {
+        "name": "Markz Matay",
+        "towns": [
+          "Abjaj Al-Hatab",
+          "Abu Hasiba",
+          "Abu Shahata",
+          "Abu Aziz",
+          "Abwan",
+          "Adqaq El-Mesk",
+          "El-Atlat",
+          "Al-Rawda",
+          "El-Sheikh Hassan",
+          "Al-Hemma",
+          "Bardnouha",
+          "Bani Ammar",
+          "Jawada",
+          "Helwa",
+          "Sila Al-Sharqiya",
+          "Sila Al-Gharbiya",
+          "Ezbet Hawara",
+          "Kafr al-Kawadi",
+          "Kofour El-Souliya",
+          "Koum Mattay",
+          "Koum Wali",
+          "Matay",
+          "Marzouq",
+          "Manbal",
+          "Manshaat Lotfallah",
+          "Manshaat Manbal",
+          "Nazlet Awlad El-Sheikh"
+        ]
+      },
+      {
+        "name": "Markz Samalut",
+        "towns": [
+          "Ibrahim",
+          "Abu Sayyidhum",
+          "Astal",
+          "Atsa",
+          "El-Etezaz",
+          "El-Bayhou",
+          "El-Tawfiqiya",
+          "El-Gazaer",
+          "El-Galaa",
+          "El-Hatahta",
+          "El-Helmiya",
+          "El-Hamaysha",
+          "Al-Rakha'",
+          "Al-Rouby",
+          "Al-Rawda",
+          "Al-Sarariya",
+          "Al-Salam",
+          "Al-Sharayna",
+          "Al-Sha'rawiya",
+          "El-Sheikh Abdalla",
+          "El-Taybah",
+          "El-Azima",
+          "El-Ola",
+          "El-Awayisa",
+          "El-Gharbawy",
+          "Al-Qatousha",
+          "Al-Qamadira",
+          "El-Wafaa",
+          "Bani El-Hakam",
+          "Bani Khaled",
+          "Bani Samarj",
+          "Bani Ghani",
+          "Boga",
+          "Gabal El-Teir",
+          "Hassan - Hassan Ayat",
+          "Daqouf",
+          "Dafsh",
+          "Dalqam",
+          "Deir Jabal al-Teir",
+          "Deir Samalut",
+          "Saqiya Daqouf",
+          "Shousha",
+          "Taha El-Aameda",
+          "Tarfa",
+          "Ezbet al-Qamadair",
+          "Qalousna",
+          "Koum El Loufi",
+          "Samalout",
+          "Manshaat Badini",
+          "Manshaat Manqateen",
+          "Manshiet El-Sheriey",
+          "Manqateen",
+          "Nazaly Taha",
+          "Nazlet El-Aamoudein",
+          "Nazlet Shadi"
+        ]
+      },
+      {
+        "name": "New Minya",
+        "towns": [
+          "al-Minya al-Gadida"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Menoufia",
+    "lgas": [
+      {
+        "name": "Al-Bagur",
+        "towns": [
+          "Abkhas",
+          "Abshish",
+          "Abu Sanita",
+          "Asreega",
+          "Astonha",
+          "El-Atarsha",
+          "El-Baranqa",
+          "El-Gezira El-Sharqiya",
+          "El-Khadra Qelti El-Saghira Sabeqan",
+          "El-Atf",
+          "Al-Quraynin",
+          "Al-Kattamiya",
+          "El-Maqate'",
+          "Al-Manshaat Al-Gedida",
+          "Bahnaio wa Mansha'atha",
+          "Bey El-Arab",
+          "Bir Shams",
+          "Talbent Abshish",
+          "Talwana",
+          "Garwan",
+          "Zawiyat Jarwan",
+          "Sibk al-Dahhak",
+          "Saman",
+          "Sanjalf",
+          "Shubra Zanji",
+          "Fisha El-Sughra wa Hessetha",
+          "Qultet El-Kubra",
+          "Kafr El-Bagour",
+          "Kafr El-Khadra",
+          "Kafr El-Dawwar",
+          "Kafr al-Ghanamiya",
+          "Kafr al-Qarinin",
+          "Kafr Sabk",
+          "Kafr Sanjalf El-Gadid",
+          "Kafr Sanjalf El-Qadim",
+          "Kafr Shubra Zengi",
+          "Kafr Mahmoud",
+          "Kafr Manawahla",
+          "Koum El Dabaa",
+          "Madinet El Bagour",
+          "Masged al-Khadr",
+          "Moshiref",
+          "Manawhela",
+          "Manshaat Seif",
+          "Manshaat Masged El-Khadr",
+          "Mit El-Beida",
+          "Mit El-Wosta",
+          "Mit Afif"
+        ]
+      },
+      {
+        "name": "Al-Shuhada",
+        "towns": [
+          "Abshadi",
+          "Abu Kals",
+          "El-Iraqiya",
+          "Bashtami",
+          "Geziret El-Hagar",
+          "Daragil",
+          "Danasour",
+          "Denshawy",
+          "Zawiyat al-Baqli",
+          "Zawiyat al-Na'oura",
+          "Sahel al-Jawabir",
+          "Sarsamouse",
+          "Salamoun Bahari",
+          "Salamoun Qibli",
+          "Shamyatis",
+          "Ashma",
+          "Amrous",
+          "Kafr El-Galayta",
+          "Kafr El-Gamala",
+          "Kafr El-Sawalmeya",
+          "Kafr El-Shebaa",
+          "Kafr Hegazi",
+          "Kafr Denshawy",
+          "Kafr Sarsamous",
+          "Kafr Ashma",
+          "Madinet El Shohadaa",
+          "Manshaat al-Sadat",
+          "Nader"
+        ]
+      },
+      {
+        "name": "Ashmun",
+        "towns": [
+          "Abu Raqaba",
+          "Abu Awali wa Mansha'atuha",
+          "El-Angab",
+          "El-Baraniya",
+          "El-Halwasi",
+          "Al-Khor",
+          "Al-Ghannamiya",
+          "Al-Fara'ouniya",
+          "Al-Qanatirin",
+          "El-Kawadi",
+          "Al-Na'na'iya",
+          "Barashim",
+          "Bohet Shatanouf",
+          "Gereis wa Ezbet'ha",
+          "Darwa",
+          "Dalhamou",
+          "Ramlat al-Anjab",
+          "Saqiya Abu Sha'ra",
+          "Saqiya al-Manqadi",
+          "Sibk al-Ahad wa Hassatuha wa Kafr al-Maraziqa wa Kafr al-Uwaydat",
+          "Samadoun",
+          "Samlay",
+          "Santaris",
+          "Sawhag",
+          "Shattanouf",
+          "Shaasha",
+          "Shama",
+          "Shanshour wa Hessetha",
+          "Shanwayo wa Kafr El-Badrana",
+          "Shoushay wa Kafr Ata",
+          "Sarawa",
+          "Talya wa Ezbet Ashmoun",
+          "Tohway",
+          "Qours",
+          "Kafr Abu Raqaba",
+          "Kafr Abu Mahmoud",
+          "Kafr El-Hama",
+          "Kafr El-Sayed",
+          "Kafr al-Tarayna",
+          "Kafr al-Gharib",
+          "Kafr al-Fara'oniya",
+          "Kafr Sarawa",
+          "Kafr Aoun",
+          "Kafr Qours",
+          "Kafr Mansour",
+          "Koum Eiad",
+          "Labisha wa Hessetha",
+          "Magariya wa Kafr Megahed",
+          "Mahallat Sabk Koum Manshaat Nasr",
+          "Madinet Ashmoun",
+          "Manshaat Gereis",
+          "Menyel Goweida",
+          "Menyel Doweib wa Manshaatha",
+          "Menyel Arous",
+          "Mounsa wa Ezbetaha"
+        ]
+      },
+      {
+        "name": "Birkat Al-Sab",
+        "towns": [
+          "Abu Mashhour",
+          "El-Halamsha",
+          "Al-Dababya",
+          "Al-Rawda",
+          "El-Shahid Fikri - Abjoul",
+          "Al-Ghouri",
+          "Ganzour",
+          "Shantana El-Hagar wa Hessetha",
+          "Tanbasha",
+          "Toug Tanbasha",
+          "Kafr El-Hamadiya",
+          "Kafr al-Sheikh To'eima",
+          "Kafr Alim",
+          "Kafr Malij",
+          "Kafr Nafra El-Bahari",
+          "Kafr Helal",
+          "Kafr Hourin",
+          "Barakat al-Sabaa",
+          "Manshaat al-Rafei",
+          "Mit Amsaleh",
+          "Mit Fares",
+          "Hourin"
+        ]
+      },
+      {
+        "name": "Minuf",
+        "towns": [
+          "El-Hamoul",
+          "El-Aamra",
+          "El-Koum El-Ahmar",
+          "Bel-Masht",
+          "Barhim w Manshaat Sadoud",
+          "Bahwash",
+          "Teta",
+          "Gazi",
+          "Dabarki",
+          "Damlig",
+          "Zawiyat Razin",
+          "Sudud",
+          "Sarwahit",
+          "Sanjarg",
+          "Shubra Baloula",
+          "Shabshir Tamlay",
+          "Sansaft",
+          "Tamlay",
+          "Ghamrin",
+          "Fisha El-Kubra",
+          "Kafr El-Sanabsa w Azabto",
+          "Kafr al-Amra",
+          "Kafr Belmesht",
+          "Kafr Rimah",
+          "Kafr Shubra Baloula",
+          "Kafr Fisha El-Koubra",
+          "Kamshoush",
+          "Manshaat Sultan",
+          "Manshaat Ghamrin",
+          "Mit Rabia",
+          "Heit"
+        ]
+      },
+      {
+        "name": "Minuf City",
+        "towns": [
+          "Menouf"
+        ]
+      },
+      {
+        "name": "Quwisna",
+        "towns": [
+          "Abnahas",
+          "Agehour El-Raml",
+          "Ashleem",
+          "Al-Ramali",
+          "El-Agayza w Manshaat Abdel Rahman Salem",
+          "Om Khanan",
+          "Begairam",
+          "Barret el-Agouz",
+          "Baqsa",
+          "Bani Gharyan",
+          "Damhoug",
+          "Shubra Bakhoum",
+          "Shubra Qabala wa Khalwat Nour Al-Din",
+          "Sharanis",
+          "Shamandil",
+          "Taha Shubra",
+          "Arab al-Raml",
+          "Qouweisna El-Balad",
+          "Kafr Abshish",
+          "Kafr Abnahas",
+          "Kafr Abu El-Hassan",
+          "Kafr Ashlim",
+          "Kafr El-Akram",
+          "Kafr El-Salamiya",
+          "Kafr al-Sheikh Ibrahim",
+          "Kafr al-Arab al-Qibli",
+          "Kafr al-Manshi al-Qibli",
+          "Kafr Bengharian",
+          "Kafr Zein al-Din",
+          "Kafr Taha Shubra",
+          "Kafr Abdo w Manshaat El-Kheir",
+          "Kafr Mit El-Absi",
+          "Kafr Mit Siraj",
+          "Kafr Wahab",
+          "Kofour El-Raml",
+          "Quesna",
+          "Mostay",
+          "Manshaat Abu Dhikra",
+          "Manshaat al-Shaheed Abd al-Moneim Riyad",
+          "Manshaat Umm Khanan",
+          "Manshaat Damlou",
+          "Manshiet El-Arab",
+          "Mit Abu Sheikha",
+          "Mit El-Absy",
+          "Mit El-Ezz",
+          "Mit El-Qasry",
+          "Mit Barho wa Kafr El-Shaheed",
+          "Mit Serag"
+        ]
+      },
+      {
+        "name": "Sadat City",
+        "towns": [
+          "Abu Nashaba",
+          "El-Akhmas",
+          "El-Gayyar",
+          "Al-Khatatba",
+          "Al-Salam",
+          "El-Taranah",
+          "Ezbet al-Tarana",
+          "Kafr Dawoud",
+          "al-Sadat",
+          "Manshaat Surouri"
+        ]
+      },
+      {
+        "name": "Shibin al-Kum",
+        "towns": [
+          "Gawda Moussa",
+          "Hassan Hassan Amer",
+          "Sayed Ahmed Hassan Al-Qatt",
+          "Ali Mohamed Selima",
+          "Kafr El-Mosaylha",
+          "Mit Khaqan wa Hessetaha"
+        ]
+      },
+      {
+        "name": "Shibin al-Kum",
+        "towns": [
+          "Astobary",
+          "El-Batanoun w Hessetha",
+          "Al-Dalaton wa Rizqat Shams al-Din",
+          "Al-Raheb",
+          "Al-Sukkariya",
+          "El-Asalta",
+          "El-Koum El-Akhdar",
+          "El-May",
+          "El-Mosayleha",
+          "Batabs",
+          "Bakhati",
+          "Hasset Melig",
+          "Dakma",
+          "Zuwayr wa Manshaat Ibrahim Habashi",
+          "Selka",
+          "Shubra Bas",
+          "Shubra Khalfoun",
+          "Shanwan",
+          "Shanoufa",
+          "Tanbadi",
+          "Kafr El-Batanoun",
+          "Kafr al-Sheikh Khalil",
+          "Kafr al-Agayza",
+          "Kafr Daqmaq",
+          "Kafr Shanwan",
+          "Kafr Tanbadi",
+          "Melig",
+          "Manshaat Bakhaty",
+          "Manshaat al-Sharikein",
+          "Manshaat Shanawan",
+          "Manshaat Essam Toukh El-Baraghta Sabeqan",
+          "Mit El-Moz",
+          "Mit Khalaf",
+          "Mit Afiya",
+          "Mit Masoud",
+          "Mit Mousa"
+        ]
+      },
+      {
+        "name": "Sirs Al-Layyana City",
+        "towns": [
+          "Sers al-Layanah"
+        ]
+      },
+      {
+        "name": "Tala",
+        "towns": [
+          "El-Bandariya",
+          "Al-Qalshi",
+          "Al-Kamayisha",
+          "Babel",
+          "Barawi",
+          "Bamamou Ezbet El-Koum El-Ahmar",
+          "Gadam",
+          "Zawiyat Bamam",
+          "Zarqan",
+          "Zanara",
+          "Samalig",
+          "Shubra Batoush",
+          "Saft Gedaam",
+          "Tabloha",
+          "Tanoub",
+          "Toukh Dalka",
+          "Qashtoukh",
+          "Kafr Hammam",
+          "Kafr El-Sadat",
+          "Kafr El-Sukkariya",
+          "Kafr El-Sharfa El-Gharby",
+          "Kafr al-Sheikh Shahata",
+          "Kafr al-Arab al-Bahari",
+          "Kafr al-Alawi",
+          "Kafr al-Qolshi",
+          "Kafr Batabs",
+          "Kafr Ganzour",
+          "Kafr Rabi'",
+          "Kafr Zarqan",
+          "Kafr Samalij",
+          "Kafr Sanadid",
+          "Kafr Tablouha",
+          "Kafr Askar",
+          "Kafr Qarshoum",
+          "Kafr Mit Abou El-Koum",
+          "Kamshish",
+          "Koum El Sheikh Obeid",
+          "Koum Mazen",
+          "Tala",
+          "Manshaat al-Salam",
+          "Manshaat Mohamed",
+          "Minyet Toukh Delka",
+          "Mit Abu El-Koum",
+          "Mit El-Karam"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New Valley",
+    "lgas": [
+      {
+        "name": "A-Dakhla Oasis",
+        "towns": [
+          "Asmant",
+          "Aftomiya El-Gharbeya",
+          "Aftima El-Sharqeya",
+          "Aftima El-Qeblya",
+          "El-Bashandi",
+          "El-Gedida",
+          "El-Giza",
+          "Al-Rashda",
+          "El-Sheikh Meftah",
+          "El-Sheikh Wali",
+          "El-Safraa",
+          "El-Oweina",
+          "El-Ein",
+          "Al-Qasr",
+          "Al-Qada",
+          "Al-Qalamoun",
+          "El-Ma'sara",
+          "Al-Mawshiya",
+          "Al-Mawhoub",
+          "Al-Hindaw",
+          "Badkhalou",
+          "Barbaya el-Sharqeya",
+          "Barbaya el-Gharbeya",
+          "Balat",
+          "Tanida",
+          "Dhakhira",
+          "Abn Umm al-Saghir",
+          "Ezab al-Qasr",
+          "Ezbet al-Rakha",
+          "Ain Aish",
+          "Gharb El-Mawhoub",
+          "Mout",
+          "Marzouq",
+          "Mashmas"
+        ]
+      },
+      {
+        "name": "Al-Kharga Oasis",
+        "towns": [
+          "Al-Zayyat",
+          "Al-Sharika 17",
+          "Al-Sharika 53",
+          "Al-Sharika 55",
+          "Al-Sharika 8",
+          "Al-Mounira",
+          "Port Said",
+          "Boulaq",
+          "Ganah",
+          "Ganah 1",
+          "Ganah 3",
+          "Ganah 7",
+          "Sanaa",
+          "Abd al-Salam Aref",
+          "Madinet El Kharga",
+          "Nasser El-Thawra"
+        ]
+      },
+      {
+        "name": "Al Farafra Oasis",
+        "towns": [
+          "Abu Al-Hawl wa Abu Bakr Al-Siddiq",
+          "Abu Minqar",
+          "Abu Hurayra",
+          "Al-Kifah",
+          "El-Liwaa Sabih",
+          "Al-Nahda",
+          "Bi'r 4",
+          "Bi'r 5",
+          "Bi'r 6",
+          "Bi'r 7",
+          "Game'yet El-Wadi El-Gedid",
+          "Hatiya al-Sheikh Marzouq",
+          "Talaat Dargham",
+          "Aisha Abd al-Rahman",
+          "Abd al-Magid al-Gafil",
+          "Othman ibn Affan",
+          "Madinet El Farafra",
+          "Wahat El-Amal"
+        ]
+      },
+      {
+        "name": "Paris Paris",
+        "towns": [
+          "El-Maks El-Qibli",
+          "Baghdad",
+          "Darb al-Arba'in al-Oula",
+          "Darb al-Arba'in al-Talta",
+          "Darb al-Arba'in al-Tanya",
+          "Darb al-Arba'in al-Rab'a",
+          "Paris"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "North Sinai",
+    "lgas": [
+      {
+        "name": "Al-Hasna",
+        "towns": [
+          "El-Gedi",
+          "El-Gafgafa",
+          "El-Hemma",
+          "Al-Raysan",
+          "Al-Gharqada",
+          "El-Kilo 64",
+          "El-Maghara",
+          "El-Mafareq",
+          "Al-Mangam",
+          "Baghdad",
+          "Qarya",
+          "Madinet El Hasana",
+          "Wadi El-Maleiz"
+        ]
+      },
+      {
+        "name": "Bir Al-Abd",
+        "towns": [
+          "El-Teloul",
+          "El-Kharba - Abu Sa'dan",
+          "Al-Rawda",
+          "Al-Sadat",
+          "Al-Nagah",
+          "Al-Nasr",
+          "Salmana",
+          "Bi'r al-Abd"
+        ]
+      },
+      {
+        "name": "El Arish 1",
+        "towns": [
+          "Al-Sakaska",
+          "El-Tawil",
+          "Qism Awwal El-Arish"
+        ]
+      },
+      {
+        "name": "El Arish 2",
+        "towns": [
+          "Qism Than El-Arish"
+        ]
+      },
+      {
+        "name": "El Arish 3",
+        "towns": [
+          "El-Ahtam",
+          "Al-Slayma",
+          "Al-Sharabga",
+          "Al-Kashif",
+          "Hayy al-Masa'id",
+          "Oroug",
+          "Fakhr El-Din"
+        ]
+      },
+      {
+        "name": "El Arish 4",
+        "towns": [
+          "Al-Sabil",
+          "Al-Midan"
+        ]
+      },
+      {
+        "name": "Nakhl",
+        "towns": [
+          "El-Barouk",
+          "El-Tamad",
+          "Al-Khafga",
+          "Al-Salam - Al-Ghabiya",
+          "El-Kantala",
+          "Al-Natila",
+          "Bir Gereid",
+          "Ras al-Naqb",
+          "Sidr al-Hitan - Jabal Hasan",
+          "Ain Toubiya",
+          "Nakhl"
+        ]
+      },
+      {
+        "name": "Qasima",
+        "towns": [
+          "Al-Qasima",
+          "El-Maghfar",
+          "El-Maqadba",
+          "Al-Manbatah",
+          "Om Shayhan",
+          "Om Qataf",
+          "Bi'r Bada",
+          "Wadi El-Omr"
+        ]
+      },
+      {
+        "name": "Rafah",
+        "towns": [
+          "Abu Shanar",
+          "Alberth",
+          "El-Husseynat",
+          "El-Khazzafeen",
+          "El-Tayrah",
+          "El-Kilo 21",
+          "El-Motalla",
+          "Al-Mahdiya",
+          "El-Wifaq",
+          "Jawz Abu Ra'd",
+          "Shibana",
+          "Rafah"
+        ]
+      },
+      {
+        "name": "Rummana",
+        "towns": [
+          "6 October",
+          "Aqtya",
+          "El-Ahrar",
+          "El-Ganayen",
+          "Al-Salam",
+          "El-Shuhadaa",
+          "El-Shouhat",
+          "El-Sheikh Zayed - El-Madkhal Sabiqan",
+          "Al-Karama",
+          "El-Marih",
+          "Om Aqaba",
+          "Balouza",
+          "Rabi'a",
+          "Rummana",
+          "Qatiya",
+          "Nageela"
+        ]
+      },
+      {
+        "name": "Shaykh Zuwayd",
+        "towns": [
+          "Abu Al-Fita",
+          "Abu Al-Araj",
+          "Abu Tawila",
+          "El-Touma",
+          "El-Goura",
+          "El-Kharrouba",
+          "Al-Zawawa",
+          "Al-Sakadra",
+          "El-Shallaq",
+          "El-Zaheer",
+          "El-Akkour",
+          "Al-Quray'a",
+          "El-Maqata'a",
+          "Qabr Ameir",
+          "Madinet El Sheikh Zuwayed"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Port Said",
+    "lgas": [
+      {
+        "name": "Al-Arab",
+        "towns": [
+          "Abu Al-Hassan",
+          "El-Gamaa El-Tawfiqi",
+          "El-Gamaa El-Abbasi",
+          "El-Azab",
+          "Montazah Saad"
+        ]
+      },
+      {
+        "name": "Al-Dawahy",
+        "towns": [
+          "Al-Salam",
+          "Al-Qabuti",
+          "Bank El-Iskan"
+        ]
+      },
+      {
+        "name": "Al-Ganoub",
+        "towns": [
+          "Qura El-Ganoub - Juz' Yanba'u Tawabe' Tusamma El-Siddiq"
+        ]
+      },
+      {
+        "name": "Al-Ganoub 2",
+        "towns": [
+          "Qura El-Ganoub - Juz'"
+        ]
+      },
+      {
+        "name": "Al-Manasra",
+        "towns": [
+          "Al-Manasra"
+        ]
+      },
+      {
+        "name": "Al-Munakh",
+        "towns": [
+          "El-Galaa",
+          "Al-Sarai",
+          "El-Manakh",
+          "Adly"
+        ]
+      },
+      {
+        "name": "Al-Sharq",
+        "towns": [
+          "Ibrahim Hassanein",
+          "Mostafa Hamza"
+        ]
+      },
+      {
+        "name": "Al-Zohour",
+        "towns": [
+          "Al-Zuhur"
+        ]
+      },
+      {
+        "name": "Mubark-Sharq Tafrea",
+        "towns": [
+          "Mubarak - Sharq El Tafreea"
+        ]
+      },
+      {
+        "name": "Police Department Port Said Port",
+        "towns": [
+          "Al-Da'ira al-Gumrukiya"
+        ]
+      },
+      {
+        "name": "Port Fuad",
+        "towns": [
+          "Port Fouad"
+        ]
+      },
+      {
+        "name": "Port Fuad 2",
+        "towns": [
+          "Than Port Fouad"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qena",
+    "lgas": [
+      {
+        "name": "Abu Tisht",
+        "towns": [
+          "Abu Shusha",
+          "El-Amireya",
+          "El-Awsat Samhoud",
+          "El-Bahary Samhoud",
+          "El-Hubeilat El-Sharqiya",
+          "El-Hubeilat El-Gharbiya",
+          "El-Hassanat",
+          "Al-Khawaled",
+          "Al-Rizqa",
+          "Al-Rafsha",
+          "Al-Rawateb",
+          "Al-Zara'ib",
+          "Al-Sulaymat",
+          "Al-Sharqi Samhoud",
+          "El-Shuqayfi",
+          "El-Omra",
+          "El-Awamer El-Gharbiya",
+          "El-Awamer w Beni Barza",
+          "Al-Qara",
+          "Al-Qibli Samhoud",
+          "Al-Qal'iya",
+          "Al-Karnak",
+          "El-Maharza",
+          "Al-Negma wal Hamran",
+          "Bakhanes",
+          "Bilad El-Mal El-Bahari",
+          "Bilad El-Mal El-Qibli",
+          "Geziret El-Doum",
+          "Samhoud",
+          "Ezbet al-Bousa",
+          "Quseir Bakhanes",
+          "Koum Gaber",
+          "Koum Yaqoub",
+          "Abu Tisht"
+        ]
+      },
+      {
+        "name": "Al Waqf",
+        "towns": [
+          "Al-Qalamina",
+          "El-Marashda",
+          "Geziret El-Hamoudi",
+          "al-Waqf"
+        ]
+      },
+      {
+        "name": "Armant",
+        "towns": [
+          "Al-Demokrat",
+          "Al-Riziqat",
+          "Al-Riziqat al-Qibliya",
+          "Al-Rayayna",
+          "El-Mahamid",
+          "El-Mahamid El-Qibliya",
+          "El-Maris",
+          "Armant"
+        ]
+      },
+      {
+        "name": "Dishna",
+        "towns": [
+          "Abu Diyab Sharq",
+          "Abu Diyab Gharb",
+          "Abu Mina Bahari",
+          "Abu Mina Sharq",
+          "Abu Mina Gharb",
+          "Abu Mina Qibli",
+          "Al-Samta Bahari",
+          "Al-Samta Qibli",
+          "El-Sabriyat",
+          "El-Azab",
+          "El-Atiyat",
+          "Fau Bahari",
+          "Fau Gharb",
+          "Fau Qibli",
+          "Deshna",
+          "Nag' El-Sheikh Ali",
+          "Nag' Saeed",
+          "Nag' Azzouz"
+        ]
+      },
+      {
+        "name": "Farshut",
+        "towns": [
+          "Al-Dahsa",
+          "El-Arky",
+          "El-Oseirat",
+          "Al-Qubayba",
+          "El-Koum El-Ahmar",
+          "Al-Nogou'",
+          "Rifa'a",
+          "Koum El Baga",
+          "Farshout",
+          "Nag' El-Hag Salam"
+        ]
+      },
+      {
+        "name": "Isna",
+        "towns": [
+          "Asfoun",
+          "El-Terea",
+          "El-Hella",
+          "El-Humeidat",
+          "Al-Diabya",
+          "Al-Deir",
+          "Al-Shaghab",
+          "El-Adayma",
+          "Al-Gharira",
+          "Al-Qaraya",
+          "Al-Kalabiya",
+          "El-Masawiya",
+          "El-Ma'alla",
+          "Al-Nogou'",
+          "Al-Nogou' Qibli",
+          "Al-Namsa",
+          "Al-Hanadi",
+          "Al-Wasta",
+          "Toumas wa Afiya",
+          "Geziret Rageh",
+          "Zarnikh",
+          "Tafnees",
+          "Qarya 1",
+          "Qarya 2",
+          "Qarya 3",
+          "Koumier",
+          "Keiman El Mataana",
+          "Esna"
+        ]
+      },
+      {
+        "name": "Nag Hammadi",
+        "towns": [
+          "Abu Khuzam",
+          "Abu Amouri",
+          "El-Hefnawiya",
+          "El-Halfaya Bahari",
+          "El-Halfaya Qibli",
+          "Al-Darb",
+          "Al-Rahmaniya Qibli",
+          "Al-Ra'isiya",
+          "Al-Salmiya Al-Hayit",
+          "Al-Samaniya",
+          "Al-Shawriya",
+          "Al-Sharqi Bahgoura",
+          "Al-Sha'aniya",
+          "El-Sayyad",
+          "El-Gharbi b El-Salamiya",
+          "El-Gharbi Bahgoura",
+          "Al-Qasr",
+          "Al-Qamana",
+          "Al-Qanawiya Al-Bahariya",
+          "El-Mosalaha",
+          "Al-Hisha",
+          "Awlad Nagm Bahgoura",
+          "Awlad Nagm el-Tamma",
+          "Awlad Nagm el-Qibliya",
+          "Bahgoura",
+          "Hamret Doum",
+          "Ezbet al-Bousa",
+          "Nag Hammadi",
+          "Nag' El-Sheikh Ahmed Nour El-Din",
+          "Hou"
+        ]
+      },
+      {
+        "name": "Naqada",
+        "towns": [
+          "El-Awsat Qamoula",
+          "El-Bahary Qamoula",
+          "Al-Khattara",
+          "Al-Zawayda",
+          "Danfiq",
+          "Toukh",
+          "Naqada"
+        ]
+      },
+      {
+        "name": "Qift",
+        "towns": [
+          "El-Barahma",
+          "El-Sheikhiyah",
+          "El-Dhafariyah",
+          "El-Oweidat",
+          "Al-Qal'a",
+          "Al-Kalahin",
+          "El-Leqta",
+          "Bir Anbar",
+          "Qift"
+        ]
+      },
+      {
+        "name": "Qina",
+        "towns": [
+          "El-Humeidat",
+          "Hagar Qena",
+          "Qism Awwal",
+          "Qism Thalith",
+          "Qism Than"
+        ]
+      },
+      {
+        "name": "Qina",
+        "towns": [
+          "Abnud",
+          "El-Ashraf El-Bahareya",
+          "El-Ashraf El-Sharqeya",
+          "El-Ashraf El-Gharbeya",
+          "El-Ashraf El-Qeblya",
+          "El-Taramisa",
+          "El-Gablaw",
+          "El-Hogairat",
+          "Al-Deir",
+          "Al-Deir al-Sharqi",
+          "El-Sheikh Eissa",
+          "El-Salhiyah",
+          "El-Tawabiyah",
+          "El-Tuwayrat",
+          "El-Asaliya",
+          "Al-Ghawsa",
+          "Al-Qanawiya",
+          "Al-Kalahin",
+          "El-Mahrousa",
+          "El-Makhadma",
+          "Awlad Amro",
+          "Geziret El-Tawabya",
+          "Dandara",
+          "Karam Omran"
+        ]
+      },
+      {
+        "name": "Qina City",
+        "towns": [
+          "Qena al-Gadida"
+        ]
+      },
+      {
+        "name": "Qus",
+        "towns": [
+          "El-Gamaliya",
+          "El-Haragiya",
+          "El-Hella",
+          "El-Hamr w El-Ga'afra",
+          "El-Kharanqa",
+          "Al-Sha'rani",
+          "El-Aqab",
+          "El-Oleyqat",
+          "El-Ayayisha",
+          "Al-Karatiya",
+          "Al-Kalalsa",
+          "El-Makhzan",
+          "El-Masid",
+          "El-Ma'arri",
+          "El-Mofregiya",
+          "El-Maqarin",
+          "El-Maqrabiya",
+          "Garagous",
+          "Geziret Mateira",
+          "Hegaza",
+          "Hegaza Bahari",
+          "Khuzam",
+          "Shanhoura",
+          "Abbasa",
+          "Qous"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Red Sea",
+    "lgas": [
+      {
+        "name": "Halayib",
+        "towns": [
+          "Halayeb"
+        ]
+      },
+      {
+        "name": "Hurghada 1",
+        "towns": [
+          "Al-Saqala",
+          "Al-Qura Al-Siyahiya",
+          "Al-Mintaqa Al-Sina'iya",
+          "Al-Minaa",
+          "Al-Hadaba"
+        ]
+      },
+      {
+        "name": "Hurghada 2",
+        "towns": [
+          "El-Ahyaa",
+          "Al-Dahar",
+          "El-Arab",
+          "Al-Hilal",
+          "Gamsa"
+        ]
+      },
+      {
+        "name": "Marsa Alam",
+        "towns": [
+          "Abu Ghusun",
+          "El-Sheikh El-Shazli",
+          "Baranis",
+          "Marsa Alam",
+          "Mangam Hamata"
+        ]
+      },
+      {
+        "name": "Qusir",
+        "towns": [
+          "El-Hamrawein",
+          "al-Qusayr",
+          "Mangam Abu Tandab? Qibli wa Bahari?",
+          "Mangam al-Beida",
+          "Mangam al-Adwa",
+          "Mangam al-Atshana",
+          "Mangam al-Oweina",
+          "Mangam al-Fawakhir",
+          "Mangam al-Qaraa",
+          "Mangam al-Qasdir",
+          "Mangam Umm Sambouki",
+          "Mangam Umm Ghaig",
+          "Mangam Dorheib",
+          "Wadi Karim wal Dabbah"
+        ]
+      },
+      {
+        "name": "Ras Gharib",
+        "towns": [
+          "Al-Za'farana wa Tashmal al-Adira",
+          "Ras Ghareb"
+        ]
+      },
+      {
+        "name": "Safaga",
+        "towns": [
+          "Al-Nasr",
+          "Om el-Huwaytat w el-Gawasis",
+          "Safaga",
+          "Mangam al-Nakheel"
+        ]
+      },
+      {
+        "name": "Shallatin",
+        "towns": [
+          "Abraq",
+          "Abirmad",
+          "Ras Hadriya",
+          "Madinet El Shalateen",
+          "Marsa Himeira"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sharkia",
+    "lgas": [
+      {
+        "name": "10 Ramadan 1",
+        "towns": [
+          "Goz' men Madinet El-Asher - Mogawarat men 35 - 67"
+        ]
+      },
+      {
+        "name": "10 Ramadan 2",
+        "towns": [
+          "Goz' men Madinet El-Asher Mogawarat men 1 - 34"
+        ]
+      },
+      {
+        "name": "Abu Hammad",
+        "towns": [
+          "El-Asadeya",
+          "El-Gaafariya",
+          "El-Horreya",
+          "El-Helmiya",
+          "Al-Khais",
+          "Al-Sa'diya",
+          "Al-Sanagra",
+          "El-Sheikh Gibeil",
+          "El-Sawah",
+          "El-Abbasiya",
+          "El-Iraqi",
+          "El-Amara",
+          "Al-Qatawiya",
+          "El-Masid",
+          "Al-Nasr",
+          "Bahtit",
+          "Bani Ayoub",
+          "Bani Gari",
+          "Tal Meftah",
+          "Shanbara Al-Tananat",
+          "Saft El-Hanna wa Kofourha",
+          "Tuwaihir",
+          "Arab al-Faddan",
+          "Alim",
+          "Amrit",
+          "Kashik",
+          "Kafr Abu Moslem",
+          "Kafr Abu Nagm",
+          "Kafr al-Azazi",
+          "Kafr Hafez",
+          "Kafr Zeidan Mandil",
+          "Kafr Ayad Karim",
+          "Madinet Abu Hammad",
+          "Manshaat al-Abbasa",
+          "Mit Radein"
+        ]
+      },
+      {
+        "name": "Abu Kabir",
+        "towns": [
+          "Abu Yasin",
+          "El-Ahraz",
+          "El-Haswa",
+          "El-Hammadiyeen",
+          "Al-Dahtamoun",
+          "Al-Rahmaniya",
+          "Al-Riyadh",
+          "El-Azaziya",
+          "El-Ghaba",
+          "Al-Qaramous",
+          "El-Masha'la",
+          "Awlad Mousa",
+          "Bani Eyyad",
+          "Geziret El-Sheikh",
+          "Santaris",
+          "Toukh al-Qaramous",
+          "Farasha",
+          "Kafr El-Sawaki",
+          "Kafr al-Noseiri",
+          "Kafr Harbeit",
+          "Madinet Abu Kabeer",
+          "Manzel Maymoun",
+          "Manshaat al-Manasterli",
+          "Manshaat Radwan",
+          "Manshaat Sedky",
+          "Nazlet El-Aarein",
+          "Nazlet Khayal",
+          "Harbit"
+        ]
+      },
+      {
+        "name": "Al-Husayniya",
+        "towns": [
+          "El-Akhywa",
+          "El-Bakarsha",
+          "El-Gamaliya",
+          "El-Higaziya",
+          "El-Hammadiyeen",
+          "El-Salhiyah 3 El-Abtal",
+          "El-Salhiyah 7 El-Ahrar",
+          "El-Salhiyah El-Basatin",
+          "El-Dawahiriyah",
+          "El-Malakiyin El-Bahariya",
+          "El-Malakiyin El-Qibliya",
+          "El-Monagat El-Soghra",
+          "El-Monagat El-Kobra",
+          "Al-Nasseriya",
+          "Al-Nageigi",
+          "Geziret Saoudi",
+          "Hasset al-Manasra",
+          "Samakin Al-Sharq",
+          "Samakin Al-Gharb",
+          "Shuhadaa Bahr El-Baqar 2",
+          "Shuhadaa Bahr El-Baqar 3",
+          "Shuhadaa Bahr El-Baqar 4",
+          "Shuhadaa Bahr El-Baqar 5",
+          "San El-Hagar El-Bahareya",
+          "San El-Hagar El-Qebliya",
+          "Qaryet El-Qasabi Sharq",
+          "Qassasin El-Sharq",
+          "Qahbouna",
+          "al-Husseiniya",
+          "Manshaat Mostafa Khalil",
+          "Manshaat Abu Omar",
+          "Manshaat Ragheb al-Tahawi",
+          "Manshiet Abu Amer",
+          "Manshiet Beshara El-Tahawy"
+        ]
+      },
+      {
+        "name": "Al-Qanayat",
+        "towns": [
+          "al-Qanayat"
+        ]
+      },
+      {
+        "name": "Al-Salhiyya",
+        "towns": [
+          "Madinet El Salhiya El Gedida"
+        ]
+      },
+      {
+        "name": "Awlad Saqr",
+        "towns": [
+          "Ibrahim Hassan",
+          "Abu Uwaynat",
+          "El-Soufiyah",
+          "Bani Hassan",
+          "Bani Abbas",
+          "Bani Mansour",
+          "Tal Rak",
+          "Geziret Matawe'",
+          "Hamada",
+          "Zour Abu al-Leil",
+          "Qassasin El-Azhar",
+          "Kafr al-Shawafin",
+          "Kafr al-Farayha",
+          "Awlad Saqr",
+          "Manshaat al-Amir",
+          "Manshaat al-Sadat",
+          "Manshaat Nasser"
+        ]
+      },
+      {
+        "name": "Bilbis",
+        "towns": [
+          "El-Balashoun",
+          "El-Gawsaq",
+          "Al-Dahashna",
+          "Al-Rawda",
+          "Al-Zawamil",
+          "Al-Sa'adat",
+          "Al-Sa'idiya",
+          "Al-Salam",
+          "Al-Shaghaniya",
+          "El-Shouliyah",
+          "El-Tahawiyah",
+          "El-Absy",
+          "El-Adliya",
+          "Al-Katiba",
+          "Al-Kafr Al-Qadim",
+          "Al-Manshiya",
+          "Ansas el-Raml",
+          "Awlad Seif",
+          "Awlad Mohanna",
+          "Basateen el-Ismailia",
+          "Basateen Serag el-Din",
+          "Bani Saleh",
+          "Bir Amara",
+          "Tal Rouzin",
+          "Hafna",
+          "Hawd al-Nada",
+          "Salmant",
+          "Sandanhour",
+          "Shubra Al-Nakhla",
+          "Ghita",
+          "Qarmala",
+          "Qahlet El-Gabla",
+          "Kafr El-Sallawi",
+          "Kafr Ibrahim El-Aidy",
+          "Kafr Akyad",
+          "Kafr al-Sheikh Eissa",
+          "Kafr al-Arab",
+          "Kafr Ayoub Suleiman",
+          "Kafr Bani Alim",
+          "Kafr Hafna",
+          "Kafr Masoud Hegazi",
+          "Bilbeis",
+          "Manshaat al-Salam",
+          "Minyet Salmant",
+          "Minyet Santa",
+          "Mit Gaber",
+          "Mit Habib",
+          "Mit Hamal",
+          "Mit Rabia El-Beida",
+          "Mit Maala",
+          "Nouba"
+        ]
+      },
+      {
+        "name": "Dyarb Nigm",
+        "towns": [
+          "Abu Eid",
+          "Akrash",
+          "Akwa",
+          "El-Gawashna",
+          "El-Saniyah",
+          "El-Suwayni",
+          "El-Asayid",
+          "Al-Qatayi'",
+          "El-Mogaffaf",
+          "El-Manasafour",
+          "Al-Misat",
+          "Al-Hawaber",
+          "Barmakim",
+          "Bahniya",
+          "Telal El-Qadi",
+          "Gameiza Bani Amro",
+          "Hasset al-Ruhban",
+          "Dabig",
+          "Deir bil-Souq",
+          "Shubra Soura",
+          "Shanbara Manqala",
+          "Shoubak Akrash",
+          "Safour",
+          "Saft Zoreiq",
+          "Sahbara",
+          "Taha El-Marg",
+          "Farghan",
+          "Qawisha",
+          "Qarmout Sahabra",
+          "Karadis",
+          "Kafr Abu Bary",
+          "Kafr Abu Matna",
+          "Kafr El-Basha",
+          "Kafr El-Haj Hassan",
+          "Kafr al-Akl",
+          "Kafr al-Laba",
+          "Kafr Guneidi",
+          "Deirb Nagm",
+          "Manahrit",
+          "Manshaat Awda Salem",
+          "Manshaat al-Attarin",
+          "Manshaat Safwat",
+          "Manshaat Sahbara",
+          "Manshaat Qassem",
+          "Manshaat Keshk"
+        ]
+      },
+      {
+        "name": "El-Ibrahimiya",
+        "towns": [
+          "El-Habash",
+          "El-Halawat",
+          "El-Khadariya",
+          "Al-Sudus",
+          "El-Taradiyah",
+          "Tal Mohamed",
+          "Sharqiya Mubasher",
+          "Tawahin Akrash",
+          "Qatifet Mubasher",
+          "Kafr Abu El-Deeb",
+          "Kafr El-Galayla",
+          "Kafr El-Sharfa El-Bahary",
+          "Kafr al-Sheikh Dawoud",
+          "Kafr Awad Sulaiman",
+          "Kafr Mohsen",
+          "Kufour Najm",
+          "Mubasher",
+          "Madinet El Ibrahimiya",
+          "Manshaat al-Tahrir"
+        ]
+      },
+      {
+        "name": "Faqus",
+        "towns": [
+          "Faqous"
+        ]
+      },
+      {
+        "name": "Faqus",
+        "towns": [
+          "Ashkar",
+          "Akyad El-Bahareya",
+          "Akyad El-Qeblya",
+          "El-Akhmiyeen",
+          "El-Bayroum",
+          "El-Gaafra",
+          "El-Haggagiya",
+          "El-Haggagiya El-Mostagedda",
+          "Al-Khattara",
+          "Al-Damiyyin",
+          "Al-Didamoun",
+          "Al-Rawda",
+          "Al-Zawya al-Hamra",
+          "Al-Salatna",
+          "Al-Sama'na",
+          "El-Salhiyah",
+          "El-Sawalih",
+          "El-Tawilah",
+          "El-Aareen",
+          "El-Azazy",
+          "Al-Ghazali",
+          "Al-Faddadna",
+          "Al-Nahhasin",
+          "Al-Namrout",
+          "Al-Nawaf'a",
+          "Al-Haysamiya",
+          "Awlad el-Adawi",
+          "Awlad Abdeen",
+          "Bani Sarid",
+          "Juheina al-Bahariya",
+          "Darwish",
+          "Duwar Juheina",
+          "Dawwama",
+          "Sanita Al-Rifa'iyyin",
+          "Sawada",
+          "Ghazalet Abu Abdoun",
+          "Qanteer",
+          "Kafr Ibrahim Bishara",
+          "Kafr El-Ashqam",
+          "Kafr El-Haj Omar",
+          "Kafr al-Ulama",
+          "Kafr Shawish",
+          "Kafr Koshk",
+          "Manzel Naeem",
+          "Manshaat Nabhan",
+          "Manshiet El-Qady",
+          "Mit El-Ezz"
+        ]
+      },
+      {
+        "name": "Hihya",
+        "towns": [
+          "El-Ehsania",
+          "Al-Zarzamoun",
+          "Al-Sakakra",
+          "Al-Salamoun",
+          "Al-Shabrawin",
+          "El-Adwa",
+          "El-Alaqma",
+          "El-Awasga",
+          "Al-Fawaqsa",
+          "El-Mahmoudia",
+          "El-Mosallami",
+          "El-Mataw'a",
+          "Hawd Nagih",
+          "Khalwet Abu Hatab",
+          "Sharshima",
+          "Sabih",
+          "Kafr Abu Hatab",
+          "Kafr El-Khodeiry",
+          "Kafr al-Sheikh al-Zawahiri",
+          "Kafr al-A'ayed",
+          "Kafr al-Mahmoudiya",
+          "Kafr Awlad Atiya",
+          "Kafr Hammouda Arna'out",
+          "Kafr Dabous",
+          "Kafr Agiba",
+          "Hehya",
+          "Manzel Hiyan",
+          "Manshaat Ghali Mansour",
+          "Mahdiya"
+        ]
+      },
+      {
+        "name": "Kafr Saqr",
+        "towns": [
+          "Abu Al-Shuquq",
+          "Abu Hariz",
+          "El-Bouha",
+          "El-Hawamda",
+          "Al-Raba'iyyin",
+          "Al-Soubraki",
+          "Al-Sharqaya",
+          "El-Sourah",
+          "Al-Qarayin",
+          "Al-Qudat",
+          "Al-Manshaat Al-Gedida",
+          "Al-Mawanisa",
+          "Al-Hagarisa",
+          "Teliga",
+          "Hanout",
+          "Sanjaha",
+          "Shanit El-Harabwa",
+          "Shital Hawi",
+          "Qaraga",
+          "Kafr Abu Sharabiya",
+          "Kafr El-Hadidy",
+          "Kafr Hammad",
+          "Kafr Abd El-Shahid Shanouda",
+          "Kafr Saqr",
+          "Manshaat Ibn al-Aasi",
+          "Manshaat Shalaby",
+          "Manshaat Youssef Mansour",
+          "Manshiet Abdel Latif Waked",
+          "Natoura",
+          "Nogoum"
+        ]
+      },
+      {
+        "name": "Mashtul Al-Suq",
+        "towns": [
+          "Abrash",
+          "El-Bateya",
+          "El-Khisha",
+          "El-Sahafah",
+          "Al-Ghafariya",
+          "Al-Manasra",
+          "Al-Mounir",
+          "Dahmasha",
+          "Qasha",
+          "Kafr Abrash",
+          "Kafr El-Sharabiya",
+          "Kafr Dahamsha",
+          "Kafr Youssef Shahata",
+          "Mashtoul al-Souq",
+          "Nabteit"
+        ]
+      },
+      {
+        "name": "Minya al-Qamh",
+        "towns": [
+          "Abu Tawala",
+          "El-Aaras",
+          "El-Tellein",
+          "El-Gedida",
+          "El-Hamidiya",
+          "El-Hawd El-Tawil",
+          "El-Kharas",
+          "Al-Rob'maya",
+          "Al-Sa'diyyin",
+          "El-Sanafayn El-Bahariyah",
+          "El-Sanafayn El-Qibliyah",
+          "El-Aziziya",
+          "El-Oqda",
+          "Al-Qubba",
+          "Al-Qaraqra",
+          "El-Magazer",
+          "El-Mohammadia",
+          "El-Mosa'ada",
+          "El-Ma'ali",
+          "Al-Maimouna",
+          "Al-Na'amna",
+          "El-Walga",
+          "Bandaf",
+          "Bani Hussein",
+          "Bani Quraish",
+          "Bani Helal",
+          "Bisha Amer",
+          "Talbana",
+          "Khalwet al-Sha'rawi",
+          "Sanhawa wa Manshaat Fathy",
+          "Sanhout",
+          "Sanita Abu Tawala",
+          "Shubra Al-Salam",
+          "Shubra Al-Enab",
+          "Shabiyat Qash",
+          "Shalashlamoun",
+          "Dahr Sharab",
+          "Qatifet El-Aziziya",
+          "Qamrouna",
+          "Kurdida",
+          "Kafr Abu Shahata",
+          "Kafr El-Maragha",
+          "Kafr Abu Daqn",
+          "Kafr El-Deir",
+          "Kafr El-Zaqaziq El-Qebly",
+          "Kafr El-Sha'awra",
+          "Kafr al-Sheikh Khalifa",
+          "Kafr al-Sa'ayda",
+          "Kafr al-Ghoneimi",
+          "Kafr Ayoub Awad",
+          "Kafr Badran",
+          "Kafr Baqtar Sa'd",
+          "Kafr Hassan Atallah",
+          "Kafr Hassan Okasha",
+          "Kafr Hassan Nanda",
+          "Kafr Hussein al-Tobgi",
+          "Kafr Salama Ibrahim",
+          "Kafr Salama Bishara",
+          "Kafr Shaban",
+          "Kafr Shalshalmoun",
+          "Kafr Salib Rizq",
+          "Kafr Abdallah Shanqas",
+          "Kafr Abdallah Aziza",
+          "Kafr Abd El-Nabi",
+          "Kafr Othman Effat",
+          "Kafr Ali Ghali",
+          "Kafr Omar Mostafa",
+          "Kafr Farag Gerges",
+          "Kafr Mohamed Ahmed",
+          "Kafr Mohamed El-Ghatouri",
+          "Kafr Mostafa",
+          "Kafr Moussa Shawish",
+          "Kafr Mit Bashar",
+          "Kafr Mit Souhail",
+          "Kafr Nashwa",
+          "Kafr Youssef Samri",
+          "Koum Hallein",
+          "Minya al-Qamh",
+          "Malas",
+          "Manshaat Shafiq",
+          "Mit Bashar",
+          "Mit Rabia El-Dalala",
+          "Mit Soheil",
+          "Mit Yazeed"
+        ]
+      },
+      {
+        "name": "Qurin",
+        "towns": [
+          "Madinet El Qareen"
+        ]
+      },
+      {
+        "name": "Zaqaziq",
+        "towns": [
+          "El-Bayoum",
+          "Al-Riyadh",
+          "Al-Zankaloun",
+          "Al-Zahraa",
+          "Al-Sa'ada",
+          "Al-Shabanat",
+          "El-Safa",
+          "El-Tahirah",
+          "El-Taybah",
+          "El-Aslougy",
+          "El-Alawiya",
+          "El-Ghar",
+          "El-Mosallamiya",
+          "Al-Nakhkhas",
+          "Al-Nakkariya",
+          "Om el-Zain",
+          "Om Ramad",
+          "Ansas el-Basal",
+          "Bardin",
+          "Banayous",
+          "Bani Ashbal",
+          "Bani Amer",
+          "Bani Eyyad",
+          "Bahgat",
+          "Bahnabay",
+          "Bisha Fayed",
+          "Tal Hawin",
+          "Tal Mesmar",
+          "Hawd al-Tarfa",
+          "Duwayda",
+          "Sharwida",
+          "Shanbara Al-Maimouna wa Kafr Al-Tamimi",
+          "Shoubak Basta",
+          "Shiba El-Nakkareya",
+          "Safita",
+          "Tarout",
+          "Tahla Bardeen",
+          "Tohra Hamid",
+          "Ghazalet El-Kheis",
+          "Farsis",
+          "Kafr El-Shawishiya",
+          "Kafr Gomaa",
+          "Kafr Makawy",
+          "Kafr Abaza",
+          "Kafr Abu Gabal",
+          "Kafr Abu Nagah",
+          "Kafr Ahmed Barham",
+          "Kafr Ahmed Gabran",
+          "Kafr Ahmed Saleh",
+          "Kafr El-Ashraf",
+          "Kafr El-Garaya",
+          "Kafr El-Hassr",
+          "Kafr El-Halaby",
+          "Kafr El-Hammam",
+          "Kafr El-Satouhiya",
+          "Kafr al-Sheikh Moussa Omran",
+          "Kafr Danouhiya",
+          "Kafr Sulaiman Moussa",
+          "Kafr Abd El-Malek Mansour",
+          "Kafr Atallah Salama",
+          "Kafr Awadallah Hegazi",
+          "Kafr Mohamed Hussein",
+          "Kafr Mohamed Shawish",
+          "Kafr Mahmoud Shawish",
+          "Kafr Nawwar Hanna",
+          "Kafr Youssef Salama",
+          "Koum El Ashraf",
+          "Mashtoul al-Qadi",
+          "Manshaat Abu al-Akhdar",
+          "Mit Abu Arabi",
+          "Mit Abu Ali",
+          "Mit Rakab",
+          "Mit Zafer",
+          "Nashwa",
+          "Heryet Razna"
+        ]
+      },
+      {
+        "name": "Zaqaziq 1",
+        "towns": [
+          "El-Hariri",
+          "El-Husseiniya",
+          "Al-Montazah",
+          "Al-Nahhal",
+          "Al-Nizam",
+          "Moawwad",
+          "Manshaat Abaza"
+        ]
+      },
+      {
+        "name": "Zaqaziq 2",
+        "towns": [
+          "El-Eshara",
+          "El-Gamaa",
+          "El-Hikma",
+          "Al-Zaqaziq al-Bahariya",
+          "Al-Zaqaziq al-Qibliya",
+          "El-Sayyadin",
+          "Al-Manshiya",
+          "Kafr Abd El-Aziz",
+          "Youssef"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Sinai",
+    "lgas": [
+      {
+        "name": "Abu Radis",
+        "towns": [
+          "Abu Gharaqid",
+          "El-Barima",
+          "El-Haswa",
+          "El-Huweishi - El-Lehyan",
+          "Al-Ramtha",
+          "Al-Ramla - Wadi al-Bida'",
+          "El-Sahw",
+          "El-Kilo 45",
+          "El-Kilo 9",
+          "El-Ma'in",
+          "Al-Nasb",
+          "El-Yans",
+          "Om el-Qusour",
+          "Om Bagama",
+          "Bi'r Salaf",
+          "Ras Mal'ab",
+          "Sarabit al-Khadim",
+          "Qaryet Feiran",
+          "Qaryet Wadi Gharandal",
+          "Madinet Abu Redeis",
+          "Madinet Abu Zenima",
+          "Maktab",
+          "Nesreen",
+          "Wadi El-Tar",
+          "Wadi Tal",
+          "Wadi Sadri"
+        ]
+      },
+      {
+        "name": "Al-Tur",
+        "towns": [
+          "Habran",
+          "Miar",
+          "Asla",
+          "El-Hubeil - Qaryet El-Sayyadeen",
+          "Seil Habran",
+          "Seil Mi'ar",
+          "Qaryet El-Wadi",
+          "Tour Sinai",
+          "Wadi Ghaboura",
+          "Wadi Ramouz",
+          "Wadi Mosai'ed",
+          "Wagran"
+        ]
+      },
+      {
+        "name": "Dahab",
+        "towns": [
+          "El-Asla",
+          "Al-Qarya Al-Siyahiya - August",
+          "El-Mogayreh",
+          "El-Masbat",
+          "El-Mashraba",
+          "Dahab",
+          "Wadi Abu Khosheib"
+        ]
+      },
+      {
+        "name": "Nuweiba",
+        "towns": [
+          "El-Thawra",
+          "El-Sheikh Atiyah",
+          "Ras al-Sa'da",
+          "Ain Qartaga Abu Wadi Outair",
+          "Qaryet Wasit",
+          "Nuweiba",
+          "Nuweiba El-Tarabin",
+          "Nuweiba El-Muzayna",
+          "Wadi Homs",
+          "Wadi Saghir"
+        ]
+      },
+      {
+        "name": "Ras Sidr",
+        "towns": [
+          "Abu Ja'da",
+          "Abu Suweira",
+          "El-Bagha",
+          "Al-Rayna",
+          "Al-Nihayat wal Farashat",
+          "Halifiya",
+          "Ain Sadr",
+          "Qaryet El-Malha",
+          "Qaryet Ras Masalla",
+          "Ras Sidr",
+          "Wadi Sadr"
+        ]
+      },
+      {
+        "name": "Sant Katrin",
+        "towns": [
+          "Abu Sila",
+          "El-Esbaeya",
+          "Al-Rahba",
+          "El-Sheikh Awwad",
+          "El-Sheikh Mohsen",
+          "El-Tarfah",
+          "El-Matar - El-Faranja",
+          "El-Malqa wa Wadi El-Arba'in",
+          "Al-Nabi Saleh",
+          "Al-Wadi Al-Akhdar",
+          "Bi'r El-Zeitouna",
+          "Bi'r Haroun",
+          "Gabal El-Mozallel wal Zaraniq",
+          "Saint Catherine",
+          "Wadi El-Raha",
+          "Wadi El-Nasb",
+          "Wadi Sa'al",
+          "Wadi Sahab"
+        ]
+      },
+      {
+        "name": "Sharm el-Sheikh",
+        "towns": [
+          "Ras Muhammad",
+          "Al-Silk",
+          "El-Aat",
+          "Al-Gharaqan",
+          "Al-Qura Al-Siyahiya - Ni'ma",
+          "El-Markha",
+          "Geziret Tiran",
+          "Geziret Sanafir",
+          "Dawasat al-Hasanat - al-Ruwaysat",
+          "Ras Nasrani",
+          "Sharm al-Sheikh",
+          "Wadi El-Keid",
+          "Wadi El-Khariza",
+          "Wadi Mandar"
+        ]
+      },
+      {
+        "name": "Taba",
+        "towns": [
+          "Qaryet Taba"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suez",
+    "lgas": [
+      {
+        "name": "Al-Arbiin",
+        "towns": [
+          "Qism Thalith",
+          "Qism Rabi'"
+        ]
+      },
+      {
+        "name": "Al-Ganayin",
+        "towns": [
+          "Shiakhet Khamis wa Tashmal El-Ganayen wa Mukawwanateha"
+        ]
+      },
+      {
+        "name": "Ataqa",
+        "towns": [
+          "El-Ataka",
+          "El-Adabeya",
+          "El-Hadayed",
+          "Al-Sadat",
+          "Agroud",
+          "Araban al-Anbaqiya wal-Manayef wal-Huwaitat",
+          "Ghabat El-Bous wa Bir Adeeb",
+          "Fanar wa Bir Abu El-Darag",
+          "Qaryet Madinet El-Samad",
+          "Madinet El Sokhna",
+          "Ataqa"
+        ]
+      },
+      {
+        "name": "Faysal",
+        "towns": [
+          "Netaq Madinet Faisal wal Sabah"
+        ]
+      },
+      {
+        "name": "Port Suez Police Department",
+        "towns": [
+          "Al-Da'ira al-Gumrukiya"
+        ]
+      },
+      {
+        "name": "Suez",
+        "towns": [
+          "Qism Awwal",
+          "Qism Than"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suhag",
+    "lgas": [
+      {
+        "name": "Akhmim",
+        "towns": [
+          "Abar Al-Malik",
+          "Abar Al-Waqf",
+          "El-Ahaywa Sharq",
+          "El-Hawawish",
+          "Al-Diabat",
+          "Al-Salamouni",
+          "El-Sawam'ah Sharq",
+          "El-Ezba w El-Arab",
+          "El-Eisawiya Sharq",
+          "El-Koula",
+          "Geziret Mahrous",
+          "Arab al-Atawla",
+          "Akhmim",
+          "Nogou' El-Sawamaa Sharq",
+          "Neida"
+        ]
+      },
+      {
+        "name": "Akhmim City",
+        "towns": [
+          "Madinet Akhmim El Gedida"
+        ]
+      },
+      {
+        "name": "Al-Balyana",
+        "towns": [
+          "El-Eslah",
+          "El-Baskeya",
+          "El-Tawader",
+          "El-Hubeil w El-Shalouliya",
+          "El-Hagz",
+          "El-Harga bil-Qor'an",
+          "El-Harga Bahari",
+          "El-Harga Qibli",
+          "El-Halafi",
+          "Al-Sahel Bahari",
+          "Al-Sahel Qibli",
+          "Al-Salmani",
+          "Al-Samta",
+          "El-Sheikh Barakah",
+          "El-Sheikh Marzouq",
+          "El-Asakra",
+          "El-Awakliya",
+          "El-Ghabat",
+          "Al-Ghunaymiya",
+          "Awlad Alio",
+          "Barkhil",
+          "Bardis",
+          "Bani Gamil",
+          "Bani Mansour",
+          "Araba Abydos",
+          "al-Balyana",
+          "Manshaat Bardis",
+          "Nag' Bardis",
+          "Nag' Mazen Gharb",
+          "Ya'qoub"
+        ]
+      },
+      {
+        "name": "Al-Maragha",
+        "towns": [
+          "Abu Aziz",
+          "Aqsas",
+          "El-Batakha",
+          "El-Gazazra",
+          "El-Haridiya",
+          "Al-Samarna",
+          "El-Sheikh Shabl",
+          "El-Sheikh Youssef",
+          "El-Amour",
+          "Al-Ghurayzat",
+          "El-Waqda",
+          "Awlad Ismail",
+          "Bassouna",
+          "Banawit",
+          "Bani Helal",
+          "Bani Weshah",
+          "Bahalil El-Gezira",
+          "Bahta",
+          "Geziret El-Shouraniya",
+          "Shandawil",
+          "Amer",
+          "Fazara bel-Qarya",
+          "al-Maragha",
+          "Nag' Taye'"
+        ]
+      },
+      {
+        "name": "Al-Minshat",
+        "towns": [
+          "El-Bageya bel-Sheikh Youssef",
+          "El-Bawarik",
+          "El-Bayadiya bel-Nazir",
+          "El-Horeizat El-Sharqiya",
+          "El-Horeizat El-Gharbiya",
+          "Al-Khanansa",
+          "Al-Khanansa Gharb",
+          "Al-Danaqla",
+          "Al-Duweirat",
+          "Al-Ruweheb",
+          "Al-Zara",
+          "Al-Zawk Al-Sharqiya",
+          "Al-Zawk Al-Gharbiya",
+          "Al-Saqriya",
+          "El-Shawawlah",
+          "El-Amayda",
+          "El-Anbariya",
+          "El-Kawamel Qibli",
+          "Al-Hamas",
+          "Awlad Salama",
+          "Awlad Ali",
+          "Geziret El-Montaser",
+          "Khariqat al-Manshaat",
+          "Rawafi' al-Isawiya",
+          "Koum Badar",
+          "al-Mansha'a"
+        ]
+      },
+      {
+        "name": "Al Usayrat",
+        "towns": [
+          "El-Ahaywa Gharb",
+          "Al-Rashayda",
+          "El-Shuhadaa",
+          "El-Masa'id",
+          "Al-Nuweirat",
+          "Awlad Bahig",
+          "Awlad Gabara",
+          "Awlad Hamza",
+          "Geziret Awlad Hamza",
+          "Awamer al-Oseirat"
+        ]
+      },
+      {
+        "name": "Dar al-Salam",
+        "towns": [
+          "El-Balabish El-Mostagedda",
+          "El-Balabish Bahari",
+          "El-Balabish Qibli",
+          "El-Hager bi Awlad Yahya",
+          "Al-Khiyam wa Jazirat Naqnaq",
+          "El-Aqariya",
+          "Al-Kashh",
+          "Al-Nuseirat",
+          "Al-Nighamish",
+          "Awlad el-Sheikh",
+          "Awlad Khalaf",
+          "Awlad Salem Bahari",
+          "Awlad Salem Qibli",
+          "Awlad Touq Gharb",
+          "Awlad Yahya Bahari",
+          "Awlad Yahya Qibli",
+          "Dar al-Salam",
+          "Mazata Sharq",
+          "Nogou' Mazen Sharq",
+          "Naqnaq"
+        ]
+      },
+      {
+        "name": "Girga",
+        "towns": [
+          "El-Bayadi wa El-Qarya",
+          "Girga"
+        ]
+      },
+      {
+        "name": "Girga",
+        "towns": [
+          "El-Barba",
+          "El-Gawaheen",
+          "Al-Khilafiya",
+          "Al-Raqaqna",
+          "Al-Zanqour",
+          "Al-Zawatna Al-Bahariya",
+          "Al-Zawatna Al-Qibliya",
+          "El-Awamer Bahary",
+          "El-Awamer Qibly",
+          "Al-Qur'an",
+          "El-Magabra",
+          "El-Mahasna",
+          "El-Mashawda",
+          "Bandar El-Tibinat",
+          "Bandar El-Ramliya",
+          "Bani Eish",
+          "Beit El-Khuraybi",
+          "Beit Khalaf",
+          "Beit Dawoud Sahel",
+          "Beit Allam",
+          "Kharfa Girga",
+          "Koum Ashkilo",
+          "Koum El Saayda",
+          "Mazata wal Sheikh Gabr",
+          "Nag' El-Ghabashi",
+          "Nahw Abandar"
+        ]
+      },
+      {
+        "name": "Guhayna Al-Gharbiyya",
+        "towns": [
+          "Abu Bakr Al-Siddiq",
+          "El-Harafsha",
+          "El-Shahid Abdel Moneim Riyad",
+          "El-Tulayhat",
+          "Al-Nozha Al-Bahariya",
+          "Juheina al-Sharqiya",
+          "Othman ibn Affan",
+          "Ali ibn Abi Talib",
+          "Omar ibn al-Khattab",
+          "Anibas",
+          "Juhayna",
+          "Nazza",
+          "Nazza El-Hager",
+          "Nazza El-Mahzamein",
+          "Nazlet Ali"
+        ]
+      },
+      {
+        "name": "Kawther",
+        "towns": [
+          "Hayy al-Kawthar"
+        ]
+      },
+      {
+        "name": "Kesm Tahta",
+        "towns": [
+          "Sahel Tahta",
+          "Tahta"
+        ]
+      },
+      {
+        "name": "Saqulta",
+        "towns": [
+          "El-Galawiya",
+          "El-Haradna",
+          "Al-Rayayna bil-Hager",
+          "Al-Rayayna bil-Katkata",
+          "El-Tawayel El-Sharqiyah",
+          "El-Tawayel El-Gharbiyah",
+          "El-Awamiya",
+          "Al-Farasiya",
+          "Al-Qaramita Sharq",
+          "Bani Wasel",
+          "Saflaq",
+          "Faw Geli",
+          "Saqultah",
+          "Nogou' El-Rayayna",
+          "Nogou' Beni Wasel"
+        ]
+      },
+      {
+        "name": "Suhag",
+        "towns": [
+          "Ibrahim Farrag",
+          "Al-Khouly",
+          "Al-Sharif",
+          "Saleh",
+          "Mazen"
+        ]
+      },
+      {
+        "name": "Suhag",
+        "towns": [
+          "Adfa",
+          "El-Bakhayta",
+          "El-Hammadiya",
+          "El-Sheikh Makram",
+          "El-Sal'a",
+          "El-Araba El-Sharqiya",
+          "Al-Qaramita Gharb",
+          "El-Kawamel Bahari",
+          "El-Mahamda",
+          "El-Mahamda El-Bahariya",
+          "El-Mazalwa",
+          "Al-Hagarisa",
+          "Awlad Shaloul",
+          "Awlad Azzaz",
+          "Awlad Gharib",
+          "Awlad Mamen",
+          "Awlad Naseer",
+          "Baga",
+          "Balsafoura",
+          "Bandar El-Karmanya",
+          "Bani Zar",
+          "Tunis",
+          "Geziret Shendweil",
+          "Damnou",
+          "Rawafi' al-Quseir",
+          "Sa'dallah",
+          "Araba Abu Dahab",
+          "Qalfao",
+          "Nag' El-Naggar",
+          "Nag' Tamam",
+          "Wenina El-Sharqeya",
+          "Wenina El-Gharbeya"
+        ]
+      },
+      {
+        "name": "Suhag-2",
+        "towns": [
+          "Al-Kabsh",
+          "Nasser"
+        ]
+      },
+      {
+        "name": "Suhag City",
+        "towns": [
+          "Sohag al-Gadida"
+        ]
+      },
+      {
+        "name": "Tahta",
+        "towns": [
+          "El-Gubeirat",
+          "El-Gereidat",
+          "El-Haridiya El-Bahariya",
+          "El-Haririya El-Qibliya",
+          "El-Khazindariya",
+          "Al-Sawalm",
+          "El-Sheikh Rahoumah",
+          "El-Sheikh Zein El-Din",
+          "El-Sheikh Masoud",
+          "El-Safihah",
+          "El-Sawalih",
+          "El-Sawam'ah Gharb",
+          "Al-Qubaysat",
+          "El-Koum El-Asfar",
+          "Banga",
+          "Banhou",
+          "Bani Harb",
+          "Bani Ammar",
+          "Geziret El-Khazendariya",
+          "Hagar Mishta",
+          "Dawoud",
+          "Shatoura",
+          "Arab Bakhawag",
+          "Koum Badr",
+          "Nag' Hamad",
+          "Nogou' El-Sawamaa Gharb",
+          "Nazlet El-Qadi",
+          "Nazlet Amara"
+        ]
+      },
+      {
+        "name": "Tama",
+        "towns": [
+          "El-Eghana",
+          "El-Tahrir",
+          "El-Gabab",
+          "El-Hadiqa",
+          "El-Husamda",
+          "El-Hasana",
+          "El-Hallaqi",
+          "El-Hama",
+          "Al-Rayayna al-Mu'allaq",
+          "Al-Sa'ada",
+          "Al-Siksaka",
+          "El-Shoukah",
+          "El-Sheikh Ammar",
+          "El-Atamna",
+          "El-Ezba El-Mostagedda",
+          "Al-Qarya bi Al-Duwayr",
+          "Al-Qutna",
+          "El-Modammar",
+          "Al-Mawatin",
+          "Al-Hisha",
+          "Al-Waqat",
+          "Om Douma",
+          "Telal El-Zouki",
+          "Geziret Tama",
+          "Salamoun",
+          "Salim",
+          "Ezbet al-Qawiya",
+          "Fau Gharb",
+          "Koum Ashqaw",
+          "Koum El Arab",
+          "Koum Gharib",
+          "Tama",
+          "Mashta",
+          "Nazlet El-Doweik",
+          "Nazlet Abdallah"
+        ]
+      },
+      {
+        "name": "Zemam Out",
+        "towns": [
+          "Zemam Out"
+        ]
+      }
+    ]
+  }
+]

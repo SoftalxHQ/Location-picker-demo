@@ -1,0 +1,33 @@
+type CountryCode = string;
+interface Country {
+    code: CountryCode;
+    name: string;
+}
+interface Lga {
+    name: string;
+    towns: string[];
+}
+interface State {
+    name: string;
+    lgas: Lga[];
+}
+
+/** Returns the list of supported countries. */
+declare function getCountries(): Country[];
+/**
+ * Returns states for a country code (e.g. `"NG"`).
+ * Returns an empty array when the country is unknown.
+ */
+declare function getStates(countryCode: CountryCode): State[];
+/**
+ * Returns LGAs for a state within a country.
+ * Matching is case-insensitive. Returns `[]` when not found.
+ */
+declare function getLgas(countryCode: CountryCode, stateName: string): Lga[];
+/**
+ * Returns towns for an LGA within a state and country.
+ * Matching is case-insensitive. Returns `[]` when not found.
+ */
+declare function getTowns(countryCode: CountryCode, stateName: string, lgaName: string): string[];
+
+export { type Country, type CountryCode, type Lga, type State, getCountries, getLgas, getStates, getTowns };

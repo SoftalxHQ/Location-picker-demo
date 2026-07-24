@@ -1,0 +1,1760 @@
+[
+  {
+    "name": "Tigray",
+    "lgas": [
+      {
+        "name": "North Western",
+        "towns": [
+          "Tahtay Adiyabo",
+          "Zana",
+          "Tahtay Koraro",
+          "Asgede",
+          "Sheraro town",
+          "Shire Endaslasie town",
+          "Laelay Koraro",
+          "Seyemti Adyabo",
+          "Adi Daero",
+          "Maekel Adiyabo",
+          "Tsimbla",
+          "Endabaguna town"
+        ]
+      },
+      {
+        "name": "Central",
+        "towns": [
+          "Chila",
+          "Aheferom",
+          "Endaba Tsahma",
+          "Adwa",
+          "Laelay Maychew",
+          "Tahtay Maychew",
+          "Adet",
+          "Kola Tembien",
+          "Naeder",
+          "Abergele (TG)",
+          "Abiy Adi town",
+          "Adwa town",
+          "Axum town",
+          "Rama Adi Arbaete",
+          "Ahsea",
+          "Egela",
+          "Hahayle",
+          "Endafelasi",
+          "Emba Sieneti",
+          "Enticho town",
+          "Keyhe tekli",
+          "Tanqua Melashe"
+        ]
+      },
+      {
+        "name": "Eastern",
+        "towns": [
+          "Gulo Mekeda",
+          "Erob",
+          "Sebuha Saesie",
+          "Ganta Afeshum",
+          "Hawzen",
+          "Kilte Awulaelo",
+          "Atsbi",
+          "Adigrat town",
+          "Wukro town",
+          "Bizet",
+          "Edaga Hamus town",
+          "Hawzen town",
+          "Freweyni town",
+          "Tsaeda Emba",
+          "Atsbi town",
+          "Agulae",
+          "Geraleta",
+          "Zala Anbesa town"
+        ]
+      },
+      {
+        "name": "Southern",
+        "towns": [
+          "Selewa",
+          "Bora (TG)",
+          "Neqsege",
+          "Emba Alaje",
+          "Endamehoni",
+          "Raya Azebo",
+          "Maichew town",
+          "Mekhoni town"
+        ]
+      },
+      {
+        "name": "South Eastern",
+        "towns": [
+          "Saharti",
+          "Enderta",
+          "Hintalo",
+          "Degua Temben",
+          "Hagere Selam town",
+          "Samre",
+          "Adigudom",
+          "Wajirat"
+        ]
+      },
+      {
+        "name": "Mekelle",
+        "towns": [
+          "Kuiha Sub City",
+          "Hadnet Sub City",
+          "Ayder Sub City",
+          "Hawelti Sub City",
+          "Adihaki Sub City",
+          "Qedamay Weyane Sub City",
+          "Semen Sub City"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Afar",
+    "lgas": [
+      {
+        "name": "Awsi /Zone 1",
+        "towns": [
+          "Dubti",
+          "Elidar",
+          "Asayita",
+          "Afambo",
+          "Mile",
+          "Chifra",
+          "Dubti town",
+          "Kori",
+          "Adar",
+          "Asayita town",
+          "Mile town",
+          "Chifra town",
+          "Samera Logiya town"
+        ]
+      },
+      {
+        "name": "Kilbati /Zone 2",
+        "towns": [
+          "Erebti",
+          "Kunneba",
+          "Abaala",
+          "Megale",
+          "Berahile",
+          "Dalol",
+          "Afdera",
+          "Bidu",
+          "Abaala town",
+          "Wasama"
+        ]
+      },
+      {
+        "name": "Gabi /Zone 3",
+        "towns": [
+          "Amibara",
+          "Awash Fantale",
+          "Gewane",
+          "Dulecha",
+          "Gala'alu",
+          "Arguba",
+          "Hanruka",
+          "Abida",
+          "Borimodaytu",
+          "Werer",
+          "Awash town"
+        ]
+      },
+      {
+        "name": "Fanti /Zone 4",
+        "towns": [
+          "Awra (AF)",
+          "Euwa",
+          "Teru",
+          "Yalo",
+          "Gulina",
+          "Mabay"
+        ]
+      },
+      {
+        "name": "Hari /Zone 5",
+        "towns": [
+          "Telalek",
+          "Samurobi",
+          "Dawe",
+          "Dalefage",
+          "Hadelela"
+        ]
+      },
+      {
+        "name": "Mahi /Zone 6",
+        "towns": [
+          "Gerani",
+          "Kilalu",
+          "Yangudi",
+          "Sibaybi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amhara",
+    "lgas": [
+      {
+        "name": "North Gondar",
+        "towns": [
+          "Addi Arekay",
+          "Beyeda",
+          "Janamora",
+          "Debark",
+          "Dabat",
+          "Dabat town",
+          "Telemt",
+          "Debark town"
+        ]
+      },
+      {
+        "name": "South Gondar",
+        "towns": [
+          "Ebenat",
+          "Libokemekem",
+          "Fogera",
+          "Farta",
+          "Lay Gayint",
+          "Tach Gayint",
+          "Semada",
+          "East Esite",
+          "Dera (AM)",
+          "Debre Tabor town",
+          "Andabet /West Esite",
+          "Guna Begemider",
+          "Mena Meketewa",
+          "Sede Muja",
+          "Nefas Mewicha town",
+          "Wegeda town",
+          "Ebenat town",
+          "Hamusit town",
+          "Woreta town",
+          "Mekan Eyesuse",
+          "Adiss Zemen town"
+        ]
+      },
+      {
+        "name": "North Wello",
+        "towns": [
+          "Bugna",
+          "Raya Kobo",
+          "Gidan",
+          "Meket",
+          "Wadla",
+          "Hara town",
+          "Guba Lafto",
+          "Habru",
+          "Woldiya town",
+          "Lasta",
+          "Dawunt",
+          "Gazo",
+          "Angot",
+          "Filakit town",
+          "Gashena town",
+          "Mersa town",
+          "Lalibela town",
+          "Kobo town"
+        ]
+      },
+      {
+        "name": "South Wello",
+        "towns": [
+          "Argoba",
+          "Tenta",
+          "Kutaber",
+          "Ambasel",
+          "Thehulederie",
+          "Delanta",
+          "Kalu",
+          "Albuko",
+          "Dessie Zuria",
+          "Legambo",
+          "Sayint",
+          "Borena /Debresina",
+          "Kelela",
+          "Jama",
+          "Were Ilu",
+          "Wegde",
+          "Kombolcha town",
+          "Dessie town",
+          "Mehal Sayint",
+          "Legehida",
+          "Mekdela",
+          "Worebabu",
+          "Wereilu town",
+          "Wegel tena town",
+          "Degolo town",
+          "Kelala town",
+          "Akeseta town",
+          "Gimeba town",
+          "Harbu town",
+          "Wegedi town",
+          "Mekane Selam town",
+          "Hike town"
+        ]
+      },
+      {
+        "name": "North Shewa (AM)",
+        "towns": [
+          "Mida Woremo",
+          "Merhabete",
+          "Ensaro",
+          "Moretna Jiru",
+          "Menze Gera Midir",
+          "Gishe Rabel",
+          "Antsokiya",
+          "Eferatana Gidem",
+          "Menze Mama Midir",
+          "Tarema Ber",
+          "Mojan Wedera",
+          "Kewet",
+          "Angolelana Tera",
+          "Assagirt",
+          "Ankober",
+          "Hagere Mariam",
+          "Berehet",
+          "Minjar Shenkora",
+          "Basona Worena",
+          "Debre Berhan town",
+          "Menze Keya Gabriel",
+          "Menze Lalo Midir",
+          "Siya Debirna Wayu",
+          "Tulefa town",
+          "Arerti town",
+          "Molale town",
+          "Debre Sina town",
+          "Enewari town",
+          "Shoa Robit",
+          "Mehal Meda town",
+          "Ataye town",
+          "Aleme Ketma town"
+        ]
+      },
+      {
+        "name": "East Gojam",
+        "towns": [
+          "Bibugn",
+          "Hulet Ej Enese",
+          "Goncha Siso Enebse",
+          "Enebse Sarmder",
+          "Enarj Enawga",
+          "Enemay",
+          "Debay Telatgen",
+          "Debre Elias",
+          "Michakel",
+          "Guzamn",
+          "Baso Liben",
+          "Awabel",
+          "Dejen",
+          "Shebel Bernta",
+          "Debre Markos town",
+          "Senan",
+          "Aneded",
+          "Amanuel town",
+          "Sedae",
+          "Gundwoin town",
+          "Debrework town",
+          "Lumame town",
+          "Merto Lemariyam town",
+          "Mota town",
+          "Dejen town",
+          "Bechena town"
+        ]
+      },
+      {
+        "name": "West Gojam",
+        "towns": [
+          "Sekela",
+          "Quarit",
+          "Dega Damot",
+          "Dembecha",
+          "Jabi Tehnan",
+          "Bure (AM)",
+          "Wemberma",
+          "Finote Selam town",
+          "Shendi town",
+          "Denbecha town",
+          "Jiga town",
+          "Bure town"
+        ]
+      },
+      {
+        "name": "Wag Hamra",
+        "towns": [
+          "Zequala",
+          "Sekota",
+          "Dehana",
+          "Gaz Gibla",
+          "Abergele (AM)",
+          "Sahila",
+          "Sekota town",
+          "Tsagbeji",
+          "Amde Work town"
+        ]
+      },
+      {
+        "name": "Awi",
+        "towns": [
+          "Dangila",
+          "Banja",
+          "Ankasha",
+          "Guangua",
+          "Fagta Lakoma",
+          "Jawi",
+          "Guagusa Shikudad",
+          "Ayehu Guwagusa",
+          "Agew Gimija Bet town",
+          "Adiss Kidame town",
+          "Tilili town",
+          "Fendika town",
+          "Injibara town",
+          "Zigem town",
+          "Dangila town",
+          "Chagni town"
+        ]
+      },
+      {
+        "name": "Oromo Nationality Administration",
+        "towns": [
+          "Dewa Cheffa",
+          "Bati",
+          "Jilye Tumuga",
+          "Artuma Fursi",
+          "Dewa Harewa",
+          "Kemisie town",
+          "Chef Robit town",
+          "Senbete town",
+          "Bati town"
+        ]
+      },
+      {
+        "name": "Central Gondar",
+        "towns": [
+          "Amba Giorgis town",
+          "Shawra town",
+          "Kolla Debba town",
+          "Chilga 1",
+          "Tegede",
+          "Lay Armacho",
+          "Wegera",
+          "Gonder Zuria",
+          "East Dembia",
+          "Chilga 2",
+          "Alefa",
+          "West Belesa",
+          "East Belesa",
+          "Gondar town",
+          "Masero Denb /Central Armacho",
+          "Tach Armacho",
+          "Takusa",
+          "Kinfaz Begela",
+          "West Dembiya",
+          "Aykel town"
+        ]
+      },
+      {
+        "name": "West Gondar",
+        "towns": [
+          "Adagn Ager Chaqo",
+          "Mirab Armacho",
+          "Metema",
+          "Quara",
+          "Midre Genet",
+          "Metema Yohanes town",
+          "Gendawuha town"
+        ]
+      },
+      {
+        "name": "North Gojam",
+        "towns": [
+          "Semen Achefer",
+          "Merawi town",
+          "Yilmana Densa",
+          "Mecha",
+          "Debub Achefer",
+          "Debub Mecha",
+          "Gonje",
+          "Dure Bete",
+          "Adete town",
+          "Bahir Dar Zuria"
+        ]
+      },
+      {
+        "name": "Bahir Dar town Admin",
+        "towns": [
+          "Bahir Dar town",
+          "Zege town",
+          "Deq",
+          "Meshenti town",
+          "Tis Abay town"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oromia",
+    "lgas": [
+      {
+        "name": "West Wellega",
+        "towns": [
+          "Mana Sibu",
+          "Nejo",
+          "Gimbi",
+          "Lalo Asabi",
+          "Kiltu Kara",
+          "Boji Dirmeji",
+          "Ayira",
+          "Jarso (West Wellega)",
+          "Gudetu Kondole",
+          "Boji Chekorsa",
+          "Babo",
+          "Yubdo",
+          "Gaji",
+          "Haru",
+          "Nole Kaba",
+          "Begi",
+          "Homa",
+          "Sayo Nole",
+          "Guliso",
+          "Gimbi town",
+          "Leta Sibu",
+          "Mendi town",
+          "Nejo town"
+        ]
+      },
+      {
+        "name": "East Wellega",
+        "towns": [
+          "Limu (OR)",
+          "Ibantu",
+          "Gida Ayana",
+          "Haro Limu",
+          "Boneya Boshe",
+          "Wayu Tuka",
+          "Bila Seyo",
+          "Gobu Seyo",
+          "Sibu Sire",
+          "Diga",
+          "Sasiga",
+          "Leka Dulecha",
+          "Guto Gida",
+          "Jimma Arjo",
+          "Nunu Kumba",
+          "Wama Hagalo",
+          "Kiremu",
+          "Nekemte town"
+        ]
+      },
+      {
+        "name": "Ilu Aba Bora",
+        "towns": [
+          "Darimu",
+          "Alge Sachi",
+          "Yayu",
+          "Metu Zuria",
+          "Ale",
+          "Bure (OR)",
+          "Sale Nono",
+          "Becho (Ilu Aba Bora)",
+          "Bilo Nopha",
+          "Hurumu",
+          "Didu",
+          "Halu /Huka",
+          "Metu town",
+          "Dorani"
+        ]
+      },
+      {
+        "name": "Jimma",
+        "towns": [
+          "Limu Seka",
+          "Limu Kosa",
+          "Sekoru",
+          "Tiro Afeta",
+          "Kersa (Jimma)",
+          "Mena (Jimma)",
+          "Goma",
+          "Gera",
+          "Seka Chekorsa",
+          "Dedo",
+          "Omo Nada",
+          "Sigmo",
+          "Setema",
+          "Shebe Sambo",
+          "Chora (Jimma)",
+          "Gumay",
+          "Agaro town",
+          "Jimma town",
+          "Mancho",
+          "Omo Beyam",
+          "Botor Tolay",
+          "Nono Benja"
+        ]
+      },
+      {
+        "name": "West Shewa",
+        "towns": [
+          "Illu Galan",
+          "Ginde Beret",
+          "Jeldu",
+          "Ambo Zuria",
+          "Mida Kegn",
+          "Cheliya",
+          "Bako Tibe",
+          "Dano",
+          "Nono",
+          "Tikur Enchini",
+          "Dendi",
+          "Ejere /Addis Alem",
+          "Holeta town",
+          "Adda Berga",
+          "Meta Robi",
+          "Ambo town",
+          "Abuna Ginde Beret",
+          "Toke Kutaye",
+          "Jibat",
+          "Ifata",
+          "Welmera",
+          "Ejersa Lafo",
+          "Cobi",
+          "Meta Walkite",
+          "Liban Jawi"
+        ]
+      },
+      {
+        "name": "North Shewa (OR)",
+        "towns": [
+          "Wara Jarso",
+          "Dera (OR)",
+          "Hidabu Abote",
+          "Kuyu",
+          "Degem",
+          "Gerar Jarso",
+          "Debre Libanos",
+          "Wuchale",
+          "Abichugna Gne'a",
+          "Kimbibit",
+          "Sheno town",
+          "Fiche town",
+          "Yaya Gulele",
+          "Jida",
+          "Garba Guracha",
+          "Aleltu",
+          "Bereh",
+          "Sululta (OR)",
+          "Chancho town",
+          "Mulo",
+          "Sendafa town"
+        ]
+      },
+      {
+        "name": "East Shewa",
+        "towns": [
+          "Fentale",
+          "Boset",
+          "Adama",
+          "Lome (OR)",
+          "Gimbichu",
+          "Ada'a",
+          "Dugda",
+          "Adama Tulu Jido Kombolcha",
+          "Bishoftu town",
+          "Bora (OR)",
+          "Liben Chukala",
+          "Akaki",
+          "Adama town",
+          "Mojo town",
+          "Batu town",
+          "Metehara town"
+        ]
+      },
+      {
+        "name": "Arsi",
+        "towns": [
+          "Merti",
+          "Aseko",
+          "Golocha",
+          "Jeju",
+          "Dodota",
+          "Ziway Dugda",
+          "Hitosa",
+          "Sude",
+          "Chole",
+          "Amigna",
+          "Seru",
+          "Robe",
+          "Tena",
+          "Shirka",
+          "Degeluna Tijo",
+          "Tiyo",
+          "Munessa",
+          "Limu Bilbilo",
+          "Guna",
+          "Sire",
+          "Lude Hitosa",
+          "Diksis",
+          "Bele Gesgar",
+          "Inkolo Wabe",
+          "Asela town",
+          "Shanan Kolu",
+          "Bokoji town",
+          "Dera town"
+        ]
+      },
+      {
+        "name": "West Hararge",
+        "towns": [
+          "Mieso",
+          "Doba",
+          "Tulo (OR)",
+          "Mesela /Shen Duggoo",
+          "Chiro town",
+          "Anchar",
+          "Goba Koricha",
+          "Habro",
+          "Daro Lebu",
+          "Boke",
+          "Kuni /Oda Bultum",
+          "Gemechis",
+          "Chiro Zuria",
+          "Bedesa town",
+          "Hawi Gudina",
+          "Gumbi Bordede",
+          "Burqua Dhintu"
+        ]
+      },
+      {
+        "name": "East Hararge",
+        "towns": [
+          "Babile town",
+          "Kombolcha",
+          "Jarso (East Hararge)",
+          "Gursum (OR)",
+          "Babile (OR)",
+          "Fedis",
+          "Haro Maya",
+          "Kurfa Chele",
+          "Kersa (East Hararge)",
+          "Meta",
+          "Goro Gutu",
+          "Deder",
+          "Melka Balo",
+          "Bedeno",
+          "Midhaga Tola",
+          "Chinaksen",
+          "Girawa",
+          "Golo Oda",
+          "Meyu Muleke",
+          "Maya town",
+          "Mekanisa Oromo",
+          "Goro Muti",
+          "Deder town",
+          "Kumbi"
+        ]
+      },
+      {
+        "name": "Bale",
+        "towns": [
+          "Agarfa",
+          "Gasera",
+          "Sinana",
+          "Goba (OR)",
+          "Harena Buluk",
+          "Mena (Bale)",
+          "Berbere",
+          "Gura Damole",
+          "Goro (Bale)",
+          "Robe town",
+          "Goba town",
+          "Dinsho"
+        ]
+      },
+      {
+        "name": "Borena",
+        "towns": [
+          "Yabelo",
+          "Moyale (OR)",
+          "Dire",
+          "Teltale",
+          "Miyo",
+          "Dilo",
+          "Gomole",
+          "Guchi",
+          "Dubluk",
+          "Elwaya",
+          "Yabelo town"
+        ]
+      },
+      {
+        "name": "South West Shewa",
+        "towns": [
+          "Ameya",
+          "Wenchi",
+          "Waliso",
+          "Dawo",
+          "Ilu",
+          "Sebeta Hawas",
+          "Kersana Malima",
+          "Tole",
+          "Becho (SW Shewa)",
+          "Seden Sodo",
+          "Woliso town",
+          "Goro (SW Shewa)",
+          "Sodo Daci"
+        ]
+      },
+      {
+        "name": "Guji",
+        "towns": [
+          "Uraga",
+          "Bore",
+          "Adola",
+          "Wadera",
+          "Odo Shakiso",
+          "Dama",
+          "Arda Jila",
+          "Girja /Harenfema",
+          "Ana Sora",
+          "Saba Boru",
+          "Aga Wayu",
+          "Haro Walabu",
+          "Adola town",
+          "Shakiso town"
+        ]
+      },
+      {
+        "name": "West Guji",
+        "towns": [
+          "Bule Hora",
+          "Kercha",
+          "Kercha town",
+          "Hambela Wamena",
+          "Abaya",
+          "Dugda Dawa",
+          "Gelana (West Guji)",
+          "Melka Soda",
+          "Bule Hora town",
+          "Suro Berguda",
+          "Birbirsa Kojowa"
+        ]
+      },
+      {
+        "name": "Buno Bedele",
+        "towns": [
+          "Chora (Buno Bedele)",
+          "Dega",
+          "Dabo Hana",
+          "Gechi",
+          "Borecha",
+          "Dedesa",
+          "Meko",
+          "Bedele town",
+          "Bedele Zuria",
+          "Chwaka"
+        ]
+      },
+      {
+        "name": "West Arsi",
+        "towns": [
+          "Dodola town",
+          "Siraro",
+          "Shala",
+          "Arsi Negele",
+          "Kofele",
+          "Kore",
+          "Gedeb Asasa",
+          "Dodola",
+          "Kokosa",
+          "Nenesebo",
+          "Adaba",
+          "Shashemene town",
+          "Shashemene",
+          "Kofele town",
+          "Heban Arsi",
+          "Wondo",
+          "Arsi Negele town"
+        ]
+      },
+      {
+        "name": "Kelem Wellega",
+        "towns": [
+          "Hawa Galan",
+          "Yama Logi Welel",
+          "Dale Wabera",
+          "Gawo Kebe",
+          "Sayo",
+          "Denbi Dollo town",
+          "Anfilo",
+          "Dale Sadi",
+          "Gidami",
+          "Jimma Horo",
+          "Lalo Kile",
+          "Sedi Chenka"
+        ]
+      },
+      {
+        "name": "Horo Gudru Wellega",
+        "towns": [
+          "Horo",
+          "Shambu town",
+          "Guduru",
+          "Ababo",
+          "Abay Chomen",
+          "Jimma Genete",
+          "Jimma Rare",
+          "Jarte Jardega",
+          "Amuru",
+          "Abe Dongoro",
+          "Choman Guduru",
+          "Horo Buluk",
+          "Sulula Finca'a"
+        ]
+      },
+      {
+        "name": "Shager City",
+        "towns": [
+          "Burayu",
+          "Eka Tafo",
+          "Furi",
+          "Galan",
+          "Galan Gudo",
+          "Gefersa Guje",
+          "Koye",
+          "Kura Jida",
+          "Mana Abichu",
+          "Melka Nonno",
+          "Sebeta",
+          "Sululta"
+        ]
+      },
+      {
+        "name": "East Bale",
+        "towns": [
+          "Gololcha Bale",
+          "Lege Hida",
+          "Ginir",
+          "Rayitu",
+          "Seweyna",
+          "Dawe Ketchen",
+          "Ginir town"
+        ]
+      },
+      {
+        "name": "East Borena",
+        "towns": [
+          "Negele town",
+          "Liben",
+          "Meda Welabu",
+          "West Welabu",
+          "Gora Dola",
+          "Gumi Idalo",
+          "Arero",
+          "Wachile",
+          "Dhas"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Somali",
+    "lgas": [
+      {
+        "name": "Siti",
+        "towns": [
+          "Ayisha",
+          "Dembel",
+          "Shinile",
+          "Erer (SM)",
+          "Afdem",
+          "Hadhagala",
+          "Miesso",
+          "Daymeed",
+          "Dhunyar",
+          "Gota-Biki",
+          "Gablalu"
+        ]
+      },
+      {
+        "name": "Fafan",
+        "towns": [
+          "Gursum (SM)",
+          "Babile (SM)",
+          "Shabeeley",
+          "Aw-Bare",
+          "Kebribeyah",
+          "Harshin",
+          "Tuliguled",
+          "Goljano",
+          "Jigjiga town",
+          "Wajale town",
+          "Kebribayah town",
+          "Koran /Mulla",
+          "Haroreys",
+          "Harawo"
+        ]
+      },
+      {
+        "name": "Jarar",
+        "towns": [
+          "Degehamedo",
+          "Degehabur",
+          "Aware",
+          "Gashamo",
+          "Gunagado",
+          "Bilcil-Bur",
+          "Degahabur town",
+          "Yocale",
+          "Daror",
+          "Burqod",
+          "Ararso",
+          "Dig"
+        ]
+      },
+      {
+        "name": "Erer",
+        "towns": [
+          "Fik",
+          "Salahad",
+          "Hamero",
+          "Lagahida",
+          "Meyumuluka",
+          "Qubi",
+          "Yahob",
+          "Wangey"
+        ]
+      },
+      {
+        "name": "Korahe",
+        "towns": [
+          "Shaygosh",
+          "Kebridehar",
+          "Shilabo",
+          "Debeweyin",
+          "Marsin",
+          "Kebridehar town",
+          "Goglo",
+          "Lasdhankayre",
+          "Higloley",
+          "El-Ogaden",
+          "Bodaley"
+        ]
+      },
+      {
+        "name": "Shabelle",
+        "towns": [
+          "East Imi",
+          "Adadle",
+          "Danan",
+          "Gode",
+          "Kelafo",
+          "Mustahil",
+          "Ferfer",
+          "Berocano",
+          "Godey town",
+          "Elale",
+          "Aba-Korow"
+        ]
+      },
+      {
+        "name": "Doolo",
+        "towns": [
+          "Danod",
+          "Bokh",
+          "Galadi",
+          "Warder",
+          "Daratole",
+          "Lehel-Yucub",
+          "Galhamur"
+        ]
+      },
+      {
+        "name": "Afder",
+        "towns": [
+          "Charati",
+          "Elkare /Serer",
+          "West Imi",
+          "Hargele",
+          "Barey",
+          "Dolobay",
+          "Raso",
+          "Kohle /Qoxle",
+          "God-God"
+        ]
+      },
+      {
+        "name": "Liban",
+        "towns": [
+          "Filtu",
+          "Dolo Ado",
+          "Goro Baqaqsa",
+          "Guradamole",
+          "Deka Suftu",
+          "Bokolmayo"
+        ]
+      },
+      {
+        "name": "Nogob",
+        "towns": [
+          "Ayun",
+          "Elwayne",
+          "Garbo",
+          "Sagag",
+          "Dihun",
+          "Horshagah",
+          "Hararey"
+        ]
+      },
+      {
+        "name": "Daawa",
+        "towns": [
+          "Moyale (SM)",
+          "Hudet",
+          "Mubarek",
+          "Qada Duma"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Benishangul-Gumuz",
+    "lgas": [
+      {
+        "name": "Metekel",
+        "towns": [
+          "Gilgel Beles town",
+          "Dangur",
+          "Guba",
+          "Wembera",
+          "Mandura",
+          "Dibate",
+          "Pawe",
+          "Bulen"
+        ]
+      },
+      {
+        "name": "Assosa",
+        "towns": [
+          "Menge",
+          "Kurmuk",
+          "Abrahmo",
+          "Sherkole",
+          "Bambasi",
+          "Bilidigilu",
+          "Homosha",
+          "Undulu",
+          "Assosa town Admin",
+          "Bambasi town",
+          "Ura"
+        ]
+      },
+      {
+        "name": "Kamashi",
+        "towns": [
+          "Kamashi town",
+          "Zayi",
+          "Sedal",
+          "Kamashi",
+          "Dembe",
+          "Mezniga"
+        ]
+      },
+      {
+        "name": "Mao-komo Special",
+        "towns": [
+          "Mao-komo Special"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Central Ethiopia",
+    "lgas": [
+      {
+        "name": "Kebena Special",
+        "towns": [
+          "Kebena Special"
+        ]
+      },
+      {
+        "name": "Guraghe",
+        "towns": [
+          "Abeshege",
+          "Ezha",
+          "Gedebano Gutazer Welene",
+          "Endiguagn",
+          "Gumer",
+          "Cheha",
+          "Enemor Ener",
+          "Muhur Na Aklil",
+          "Geta",
+          "Welkite town",
+          "Emdebir town",
+          "Enor Ener"
+        ]
+      },
+      {
+        "name": "Hadiya",
+        "towns": [
+          "Misha",
+          "Gombora",
+          "Lemmo",
+          "Shashogo",
+          "Misrak Badawacho",
+          "Soro",
+          "Duna",
+          "Analemmo",
+          "Mirab Badowach",
+          "Gibe",
+          "Hosaena town",
+          "Shone town",
+          "Gimbichu town",
+          "Jajura town",
+          "Ameka",
+          "Siraro Badawacho",
+          "Mirab Soro"
+        ]
+      },
+      {
+        "name": "Kembata",
+        "towns": [
+          "Angacha",
+          "Kediada Gambela",
+          "Kacha Bira",
+          "Hadero Tunto",
+          "Doyogena",
+          "Damboya",
+          "Durame town",
+          "Adilo",
+          "Shinshincho town",
+          "Hadero town"
+        ]
+      },
+      {
+        "name": "East Guraghe",
+        "towns": [
+          "Butajira town",
+          "Bui town",
+          "Sodo",
+          "Meskan",
+          "Misrak Meskan",
+          "Debub Sodo"
+        ]
+      },
+      {
+        "name": "Halaba",
+        "towns": [
+          "Kulito town",
+          "Wera",
+          "Atote Ulo",
+          "Wera Djo"
+        ]
+      },
+      {
+        "name": "Siltie",
+        "towns": [
+          "Alicho Woriro",
+          "Siltie",
+          "Lanfero",
+          "Mierab Azenet Berbere",
+          "Dalocha",
+          "Sankura",
+          "Misrak Azenet Berbere",
+          "Wulbareg",
+          "Tora town",
+          "Worabe town",
+          "Kibet town",
+          "Mito",
+          "Misrak Siltie"
+        ]
+      },
+      {
+        "name": "Yem",
+        "towns": [
+          "Saja town",
+          "Fofa",
+          "Deri Saja zuria",
+          "Toba"
+        ]
+      },
+      {
+        "name": "Mareko Special",
+        "towns": [
+          "Mareko Special"
+        ]
+      },
+      {
+        "name": "Tembaro Special",
+        "towns": [
+          "Tembaro Special"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Ethiopia",
+    "lgas": [
+      {
+        "name": "Wolayita",
+        "towns": [
+          "Boloso Sore",
+          "Damot Gale",
+          "Damot Woide",
+          "Humbo",
+          "Sodo Zuria",
+          "Kindo Koyesha",
+          "Ofa",
+          "Boloso Bombe",
+          "Damot Sore",
+          "Kindo Daddaye",
+          "Damot Pullasa",
+          "Duguna Fango",
+          "Sodo town",
+          "Areka town",
+          "Boditi town",
+          "Tebela town",
+          "Gesuba town",
+          "Gununo Hamus town",
+          "Hobicha Abaya",
+          "Kawo Koyesha",
+          "Abela Abaya",
+          "Bayera Koyesha",
+          "Bale Awassa town"
+        ]
+      },
+      {
+        "name": "Gamo",
+        "towns": [
+          "Arba Minch town",
+          "Arba Minch Zuria",
+          "Birbir town",
+          "Bonke",
+          "Boreda",
+          "Chencha town",
+          "Chencha Zuriya",
+          "Daramalo",
+          "Dita",
+          "Gacho Baba",
+          "Garda Marta",
+          "Geressie",
+          "Geressie town",
+          "Kemba town",
+          "Kemba Zuria",
+          "Kogota /Ezo",
+          "Kucha",
+          "Kucha Alpha",
+          "Mirab Abaya",
+          "Selamber town"
+        ]
+      },
+      {
+        "name": "Gofa",
+        "towns": [
+          "Beto town",
+          "Buleqi town",
+          "Denba Gofa",
+          "Gezei Gofa",
+          "Laha town",
+          "Melekoza",
+          "Melo Gada",
+          "O'yida",
+          "Sawla town",
+          "Uba Debre Tsehay",
+          "Zala"
+        ]
+      },
+      {
+        "name": "Basketo",
+        "towns": [
+          "Basketo Special",
+          "Laska town"
+        ]
+      },
+      {
+        "name": "Ari",
+        "towns": [
+          "Baka Dawula",
+          "Gelila town",
+          "Jinka town",
+          "North Ari",
+          "South Ari",
+          "Wub Ari"
+        ]
+      },
+      {
+        "name": "Alle Special",
+        "towns": [
+          "Alle Special"
+        ]
+      },
+      {
+        "name": "Derashe",
+        "towns": [
+          "Derashe",
+          "Gidole town"
+        ]
+      },
+      {
+        "name": "Kore",
+        "towns": [
+          "Amaro",
+          "Kele town"
+        ]
+      },
+      {
+        "name": "Konso",
+        "towns": [
+          "Kena",
+          "Karat Zuria",
+          "Karat town",
+          "Segen Zuria",
+          "Kolme"
+        ]
+      },
+      {
+        "name": "Burji",
+        "towns": [
+          "Burji"
+        ]
+      },
+      {
+        "name": "Gedeo",
+        "towns": [
+          "Wenago",
+          "Yirgachefe",
+          "Kochere",
+          "Bule",
+          "Dila Zuria",
+          "Gedeb",
+          "Rape",
+          "Churso",
+          "Dila town",
+          "Gedeb town",
+          "Yirgachefe town",
+          "Chelelektu town",
+          "Wonago town"
+        ]
+      },
+      {
+        "name": "South Omo",
+        "towns": [
+          "Bena Tsemay",
+          "Dasenech /Kuraz",
+          "Hamer",
+          "Malie",
+          "Nyngatom",
+          "Salamago",
+          "Turmi town"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South West Ethiopia",
+    "lgas": [
+      {
+        "name": "Sheka",
+        "towns": [
+          "Anderacha",
+          "Masha",
+          "Yeki",
+          "Tepi",
+          "Masha town"
+        ]
+      },
+      {
+        "name": "Kefa",
+        "towns": [
+          "Saylem",
+          "Gesha",
+          "Gewata",
+          "Gimbo",
+          "Adiyio",
+          "Tullo",
+          "Cheta",
+          "Decha",
+          "Chena",
+          "Bita",
+          "Bonga town",
+          "Goba (SW)",
+          "Shisho Ande",
+          "Wacha town",
+          "Deka town",
+          "Awurada town",
+          "Shishinda town"
+        ]
+      },
+      {
+        "name": "Bench Sheko",
+        "towns": [
+          "Sheko",
+          "Gurafereda",
+          "Debub Bench",
+          "Shay Bench",
+          "Semen Bench",
+          "Gidi Bench",
+          "Mizan Aman town",
+          "Size town",
+          "Biftu town",
+          "Sheko town"
+        ]
+      },
+      {
+        "name": "Dawuro",
+        "towns": [
+          "Tocha",
+          "Mareka",
+          "Loma",
+          "Gena",
+          "Esara",
+          "Kachi",
+          "Tercha Zuriya",
+          "Mari Mansa",
+          "Disa",
+          "Zabagazo",
+          "Tercha town",
+          "Gesa town"
+        ]
+      },
+      {
+        "name": "West Omo",
+        "towns": [
+          "Gachit",
+          "Menit Goldiye",
+          "Gori Gesha",
+          "Menit Shasha",
+          "Bero",
+          "Surma",
+          "Maji",
+          "Bachuma town",
+          "Jemu town",
+          "Maji Tum town"
+        ]
+      },
+      {
+        "name": "Konta",
+        "towns": [
+          "Konta Koysha",
+          "Chida town",
+          "Amaya town",
+          "Elahanchano",
+          "Ameya Zuria"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gambela",
+    "lgas": [
+      {
+        "name": "Nuwer",
+        "towns": [
+          "Akobo",
+          "Lare",
+          "Jikawo",
+          "Wantawo",
+          "Makuey"
+        ]
+      },
+      {
+        "name": "Agnewak",
+        "towns": [
+          "Gambela National Park",
+          "Abobo",
+          "Gambela Zuria",
+          "Gog",
+          "Jore",
+          "Dima (GM)",
+          "Gambela town"
+        ]
+      },
+      {
+        "name": "Majang",
+        "towns": [
+          "Godere",
+          "Mengesh"
+        ]
+      },
+      {
+        "name": "Itang Special",
+        "towns": [
+          "Itang"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Harari",
+    "lgas": [
+      {
+        "name": "Harari",
+        "towns": [
+          "Sofi",
+          "Shenkor",
+          "Jinela",
+          "Hakim",
+          "Erer (HR)",
+          "Dire Teyara",
+          "Amir Nur",
+          "Aboker",
+          "Abadir"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Addis Ababa",
+    "lgas": [
+      {
+        "name": "Region 14",
+        "towns": [
+          "Akaki Kality Sub City",
+          "Nifas Silk Lafto Sub City",
+          "Kolfe Keraniyo Sub City",
+          "Bole Sub City",
+          "Lideta Sub City",
+          "Kirkos Sub City",
+          "Yeka Sub City",
+          "Addis Ketema Sub City",
+          "Arada Sub City",
+          "Gulele Sub City",
+          "Lemi Kura Sub City"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dire Dawa",
+    "lgas": [
+      {
+        "name": "Dire Dawa urban",
+        "towns": [
+          "Sabian",
+          "Malka Jabti /M.Jebdu",
+          "Legehare",
+          "Addis Ketema (DD)",
+          "Gende Kore",
+          "Dechatu",
+          "Hafat Issa",
+          "Kazira",
+          "Police Maret"
+        ]
+      },
+      {
+        "name": "Dire Dawa rural",
+        "towns": [
+          "Aseliso",
+          "Jeldessa",
+          "Wahil",
+          "Biyoawale"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sidama",
+    "lgas": [
+      {
+        "name": "Hawassa town Admin",
+        "towns": [
+          "Hawassa town"
+        ]
+      },
+      {
+        "name": "Northern",
+        "towns": [
+          "Wondo-Genet town",
+          "Wondo-Genet",
+          "Malga",
+          "Gorche",
+          "Hawela",
+          "Leku town",
+          "Shebe Dino",
+          "Boricha",
+          "Bilate Zuria",
+          "Hawassa Zuria"
+        ]
+      },
+      {
+        "name": "Central",
+        "towns": [
+          "Arbegona",
+          "Shafamo",
+          "Wonosho",
+          "Yirgalem town",
+          "Dale",
+          "Darara",
+          "Loka Abaya"
+        ]
+      },
+      {
+        "name": "Southern",
+        "towns": [
+          "Bursa",
+          "Teticha",
+          "Aleta Wendo",
+          "Aleta Wondo town",
+          "Aleta Chuko",
+          "Chuko town",
+          "Dara",
+          "Dara Otilicho",
+          "Hulla",
+          "Chirone"
+        ]
+      },
+      {
+        "name": "Eastern",
+        "towns": [
+          "Bura",
+          "Bona Zuria",
+          "Bensa",
+          "Daye town",
+          "Daella",
+          "Chire",
+          "Aroresa",
+          "Hokko",
+          "Chabe Gambeltu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Contested",
+    "lgas": [
+      {
+        "name": "Area 1",
+        "towns": [
+          "Setit Humera town",
+          "Korarit",
+          "Kafta Humera",
+          "Welkait",
+          "Tsegede",
+          "May Kadra",
+          "Dansha town",
+          "Awra",
+          "May Gaba"
+        ]
+      },
+      {
+        "name": "Area 2",
+        "towns": [
+          "Tselemti /West Telemt",
+          "Laelay Tselemti",
+          "May Tsebri town"
+        ]
+      },
+      {
+        "name": "Area 3",
+        "towns": [
+          "Raya Alamata",
+          "Ofla",
+          "Korem town",
+          "Alamata town",
+          "Zata",
+          "Chercher"
+        ]
+      }
+    ]
+  }
+]

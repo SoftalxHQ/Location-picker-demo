@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Dakar",
+    "lgas": [
+      {
+        "name": "Dakar",
+        "towns": [
+          "Almadies",
+          "Grand Dakar",
+          "Parcelles Assainies",
+          "Dakar Plateau"
+        ]
+      },
+      {
+        "name": "Guédiawaye",
+        "towns": [
+          "Guédiawaye"
+        ]
+      },
+      {
+        "name": "Pikine",
+        "towns": [
+          "Thiaroye",
+          "Pikine Dagoudane"
+        ]
+      },
+      {
+        "name": "Rufisque",
+        "towns": [
+          "Sangalkam",
+          "Rufisque-Est",
+          "Diamniadio",
+          "N/A"
+        ]
+      },
+      {
+        "name": "Keur Massar",
+        "towns": [
+          "Jaxaay",
+          "Malika",
+          "Yeumbeul"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diourbel",
+    "lgas": [
+      {
+        "name": "Bambey",
+        "towns": [
+          "Lambaye",
+          "Ngoye",
+          "Baba Garage"
+        ]
+      },
+      {
+        "name": "Diourbel",
+        "towns": [
+          "Ndoulo",
+          "Ndindy"
+        ]
+      },
+      {
+        "name": "Mbacké",
+        "towns": [
+          "Ndame",
+          "Taïf",
+          "Kaèl"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fatick",
+    "lgas": [
+      {
+        "name": "Fatick",
+        "towns": [
+          "Ndiob",
+          "Fimla",
+          "Tataguine",
+          "Niakhar"
+        ]
+      },
+      {
+        "name": "Foundiougne",
+        "towns": [
+          "Djilor",
+          "Toubakouta",
+          "Niodior"
+        ]
+      },
+      {
+        "name": "Gossas",
+        "towns": [
+          "Colobane",
+          "Ouadiour"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kaffrine",
+    "lgas": [
+      {
+        "name": "Birkelane",
+        "towns": [
+          "Mabo",
+          "Keur Mboucki"
+        ]
+      },
+      {
+        "name": "Kaffrine",
+        "towns": [
+          "Gnibi",
+          "Katakel"
+        ]
+      },
+      {
+        "name": "Koungheul",
+        "towns": [
+          "Missira Wadène",
+          "Ida Mouride",
+          "Lour Escale"
+        ]
+      },
+      {
+        "name": "Malem-Hodar",
+        "towns": [
+          "Darou Minam 2",
+          "Sagna"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kaolack",
+    "lgas": [
+      {
+        "name": "Guinguinéo",
+        "towns": [
+          "Mbadakhoune",
+          "Nguélou"
+        ]
+      },
+      {
+        "name": "Kaolack",
+        "towns": [
+          "Ngothie",
+          "Koumbal",
+          "Ndiédiéng"
+        ]
+      },
+      {
+        "name": "Nioro du Rip",
+        "towns": [
+          "Paoscoto",
+          "Wak Ngouna",
+          "Médina Sabakh"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kédougou",
+    "lgas": [
+      {
+        "name": "Kédougou",
+        "towns": [
+          "Bandafassi",
+          "Fongolembi"
+        ]
+      },
+      {
+        "name": "Salémata",
+        "towns": [
+          "Dar Salam",
+          "Dakatéli"
+        ]
+      },
+      {
+        "name": "Saraya",
+        "towns": [
+          "Sabodala",
+          "Bembou"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kolda",
+    "lgas": [
+      {
+        "name": "Kolda",
+        "towns": [
+          "Mampatim",
+          "Saré Bidji",
+          "Dioulacolon"
+        ]
+      },
+      {
+        "name": "Médina-Yorofoula",
+        "towns": [
+          "Ndorna",
+          "Niaming",
+          "Fafacourou"
+        ]
+      },
+      {
+        "name": "Vélingara",
+        "towns": [
+          "Bonconto",
+          "Pakour",
+          "Saré Coly Sallé"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Louga",
+    "lgas": [
+      {
+        "name": "Kébémer",
+        "towns": [
+          "Ndande",
+          "Darou Mousty",
+          "Sagata Geth"
+        ]
+      },
+      {
+        "name": "Linguère",
+        "towns": [
+          "Yang-Yang",
+          "Sagata Diolof",
+          "Barkédji",
+          "Dodji"
+        ]
+      },
+      {
+        "name": "Louga",
+        "towns": [
+          "Keur Momar Sarr",
+          "Koki",
+          "Mbédiène",
+          "Sakal"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matam",
+    "lgas": [
+      {
+        "name": "Kanel",
+        "towns": [
+          "Ouro Sidi",
+          "Orkadiéré"
+        ]
+      },
+      {
+        "name": "Matam",
+        "towns": [
+          "Ogo",
+          "Agnam Civol"
+        ]
+      },
+      {
+        "name": "Ranérou",
+        "towns": [
+          "Vélingara"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Saint-Louis",
+    "lgas": [
+      {
+        "name": "Dagana",
+        "towns": [
+          "Ndiaye Ngènt",
+          "Mbane"
+        ]
+      },
+      {
+        "name": "Podor",
+        "towns": [
+          "Gamadji Sarré",
+          "Thillé Boubakar",
+          "Saldé",
+          "Cas Cas"
+        ]
+      },
+      {
+        "name": "Saint Louis",
+        "towns": [
+          "Rao"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sédhiou",
+    "lgas": [
+      {
+        "name": "Bounkiling",
+        "towns": [
+          "Bona",
+          "Bogal",
+          "Diaroumé"
+        ]
+      },
+      {
+        "name": "Goudomp",
+        "towns": [
+          "Simbandi Brassou",
+          "Djibanar",
+          "Karantaba"
+        ]
+      },
+      {
+        "name": "Sédhiou",
+        "towns": [
+          "Diendé",
+          "Djibabouya",
+          "Djirédji"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tambacounda",
+    "lgas": [
+      {
+        "name": "Bakel",
+        "towns": [
+          "Kéniéba",
+          "Moudéri",
+          "Bellé"
+        ]
+      },
+      {
+        "name": "Goudiry",
+        "towns": [
+          "Dianké Makan",
+          "Koular",
+          "Bala",
+          "Bouinguel Bamba"
+        ]
+      },
+      {
+        "name": "Koumpentoum",
+        "towns": [
+          "Koutiaba Wolof",
+          "Bamba Tialène"
+        ]
+      },
+      {
+        "name": "Tambacounda",
+        "towns": [
+          "Missira",
+          "Makacoutibantang",
+          "Koussanar"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thiès",
+    "lgas": [
+      {
+        "name": "Mbour",
+        "towns": [
+          "Séssène",
+          "Sindia",
+          "Fissel"
+        ]
+      },
+      {
+        "name": "Thiès",
+        "towns": [
+          "Keur Moussa",
+          "Thiénaba",
+          "Noto"
+        ]
+      },
+      {
+        "name": "Tivaouane",
+        "towns": [
+          "Niakhène",
+          "Pambal",
+          "Méouane",
+          "Mérina Dakhar"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ziguinchor",
+    "lgas": [
+      {
+        "name": "Bignona",
+        "towns": [
+          "Kataba 1",
+          "Tanghori",
+          "Tendouck",
+          "Sindian"
+        ]
+      },
+      {
+        "name": "Oussouye",
+        "towns": [
+          "Loudia Wolof",
+          "Cabrousse"
+        ]
+      },
+      {
+        "name": "Ziguinchor",
+        "towns": [
+          "Niaguis",
+          "Niassia"
+        ]
+      }
+    ]
+  }
+]
