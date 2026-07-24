@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@softalxhq/location-selector':
-        specifier: ^0.4.0
-        version: 0.4.0
+        specifier: ^0.4.1
+        version: 0.4.1
     devDependencies:
       vite:
-        specifier: ^6.3.5
+        specifier: ^6.4.3
         version: 6.4.3
 
 packages:
@@ -299,8 +299,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@softalxhq/location-selector@0.4.0':
-    resolution: {integrity: sha512-joe2i1yF7X0MbzcqZYd6aNMW2DEQyKEIXRt5fc2oHJGhQEStZUyPNlfqgFs14fTb3gFRvOWiR40xb9dAS+robQ==}
+  '@softalxhq/location-selector@0.4.1':
+    resolution: {integrity: sha512-g4UKX8uWVcd0334EaMVk2h1dkVEocZugzWePiLvnHegGLe5L1lo5r8h3skN4XKBMzbAD+c3nXb4IZQWTwbk/KA==}
     engines: {node: '>=18'}
 
   '@types/estree@1.0.9':
@@ -549,7 +549,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.62.2':
     optional: true
 
-  '@softalxhq/location-selector@0.4.0': {}
+  '@softalxhq/location-selector@0.4.1': {}
 
   '@types/estree@1.0.9': {}
 
